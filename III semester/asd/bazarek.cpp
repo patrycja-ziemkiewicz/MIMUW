@@ -58,18 +58,18 @@ int main() {
          cin >> tab[n - i - 1];
     }
 
-    long long* suffix_sum = create_prefix_sum(n, tab);
+    long long* prefix_sum = create_prefix_sum(n, tab);
         
     int input_size;
     cin >> input_size;
     for (int i = 0; i < input_size; i++) {
         int number_of_products;
         cin >> number_of_products;
-        cout << suffix_sum[number_of_products] << endl;
+        cout << prefix_sum[number_of_products] << endl;
     }
     
     delete[] tab;
-    delete[] suffix_sum;
+    delete[] prefix_sum;
     
     return 0;
 }
