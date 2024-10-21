@@ -66,9 +66,6 @@ public class Vector {
                         return;
                     result.elements[i] = left.elements[i] + right.elements[i];
                 }
-
-
-            // FIXME: implement
         }
     }
 
@@ -79,8 +76,7 @@ public class Vector {
         Vector result = new Vector(elements.length);
 
         ArrayList<Thread> threads = new ArrayList<>();
-        // FIXME: implement
-        int nThreads = elements.length / SUM_CHUNK_LENGTH + 1;
+        int nThreads = (elements.length + SUM_CHUNK_LENGTH - 1 ) / SUM_CHUNK_LENGTH;
 
         try {
             for (int j = 0; j < nThreads; j += UNINTERRUPTIBLE_LOOP) {
@@ -129,7 +125,6 @@ public class Vector {
 
         @Override
         public void run() {
-            // FIXME: implement
             for (int i = begin; i < end; i++) {
                 if (Thread.interrupted()){
                     return;
@@ -144,14 +139,11 @@ public class Vector {
             throw new IllegalArgumentException("Vector lengths differ.");
         }
 
-        int nThreads = elements.length / DOT_CHUNK_LENGTH + 1;
+        int nThreads = (elements.length + DOT_CHUNK_LENGHT - 1) / DOT_CHUNK_LENGTH;
         int[] partialResults = new int[nThreads];
         int total = 0;
-
-        // FIXME: implement
         ArrayList<Thread> threads = new ArrayList<>();
-
-
+        
         try {
             for (int j = 0; j < nThreads; j += UNINTERRUPTIBLE_LOOP) {
                 if (Thread.interrupted()) {
