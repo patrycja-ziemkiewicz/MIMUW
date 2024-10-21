@@ -9,8 +9,7 @@ static void printf_(char tablica[]) {
     do {
     putchar(tablica[i]);
     i++;
-    }
-    while (tablica[i - 1] != '\n');
+    } while (tablica[i - 1] != '\n');
 }
 
 static void fgets_(char tablica[]) {
@@ -20,8 +19,7 @@ static void fgets_(char tablica[]) {
     a = (char) getchar();
     tablica[i] = a;
     i++;
-    }
-    while (a != '\n');
+    } while (a != '\n');
 }
 
 static void interpretacja_slowa(int n, char reguly_zamian[][LIMIT], char reguly_interpretacji[][LIMIT], char wyraz[], char interpretowane_litery[], char zamieniane_litery[]) {
