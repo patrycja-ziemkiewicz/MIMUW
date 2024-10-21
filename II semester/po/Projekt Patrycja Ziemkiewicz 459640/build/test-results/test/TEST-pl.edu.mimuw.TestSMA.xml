@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="pl.edu.mimuw.TestSMA" tests="3" skipped="0" failures="0" errors="0" timestamp="2024-06-15T17:07:27" hostname="LAPTOP-3RP4QE0N" time="0.011">
+  <properties/>
+  <testcase name="TestZleceniaDuzy()" classname="pl.edu.mimuw.TestSMA" time="0.008"/>
+  <testcase name="TestZlecenia0()" classname="pl.edu.mimuw.TestSMA" time="0.001"/>
+  <testcase name="TestZlecenia1()" classname="pl.edu.mimuw.TestSMA" time="0.001"/>
+  <system-out><![CDATA[10300 MSFT:12 GOOGL:6 APL:0 
+10597 MSFT:0 GOOGL:0 APL:0 
+11778 MSFT:2 GOOGL:0 APL:0 
+9750 MSFT:9 GOOGL:0 APL:0 
+10813 MSFT:0 GOOGL:0 APL:0 
+6995 MSFT:43 GOOGL:9 APL:40 
+10661 MSFT:0 GOOGL:0 APL:0 
+9106 MSFT:54 GOOGL:9 APL:0 
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="pl.edu.mimuw.TestArkusza" tests="17" skipped="0" failures="0" errors="0" timestamp="2024-06-15T17:07:27" hostname="LAPTOP-3RP4QE0N" time="0.052">
+  <properties/>
+  <testcase name="TestSortowaniaKupna()" classname="pl.edu.mimuw.TestArkusza" time="0.017"/>
+  <testcase name="TestWykonywaniaZlecenWykonajAnuluj0()" classname="pl.edu.mimuw.TestArkusza" time="0.0"/>
+  <testcase name="TestWykonywaniaZlecenWykonajAnuluj1()" classname="pl.edu.mimuw.TestArkusza" time="0.001"/>
+  <testcase name="TestWykonywaniaZlecenWykonajAnuluj2()" classname="pl.edu.mimuw.TestArkusza" time="0.0"/>
+  <testcase name="TestWykonywaniaZlecenWykonajAnuluj3()" classname="pl.edu.mimuw.TestArkusza" time="0.001"/>
+  <testcase name="TestWykonywaniaZlecenWykonajAnuluj4()" classname="pl.edu.mimuw.TestArkusza" time="0.001"/>
+  <testcase name="TestWykonywaniaZlecenWykonajAnuluj5()" classname="pl.edu.mimuw.TestArkusza" time="0.001"/>
+  <testcase name="TestWykonywaniaZlecen0()" classname="pl.edu.mimuw.TestArkusza" time="0.001"/>
+  <testcase name="TestWykonywaniaZlecen1()" classname="pl.edu.mimuw.TestArkusza" time="0.001"/>
+  <testcase name="TestWykonywaniaZlecen2()" classname="pl.edu.mimuw.TestArkusza" time="0.001"/>
+  <testcase name="TestSortowaniaSprzedaz()" classname="pl.edu.mimuw.TestArkusza" time="0.001"/>
+  <testcase name="TestEliminowaniaZlecen0()" classname="pl.edu.mimuw.TestArkusza" time="0.001"/>
+  <testcase name="TestEliminowaniaZlecen1()" classname="pl.edu.mimuw.TestArkusza" time="0.001"/>
+  <testcase name="TestEliminowaniaZlecen2()" classname="pl.edu.mimuw.TestArkusza" time="0.0"/>
+  <testcase name="TestEliminowaniaZlecen3()" classname="pl.edu.mimuw.TestArkusza" time="0.001"/>
+  <testcase name="TestEliminowaniaZlecen4()" classname="pl.edu.mimuw.TestArkusza" time="0.001"/>
+  <testcase name="TestEliminowaniaZlecen5()" classname="pl.edu.mimuw.TestArkusza" time="0.001"/>
+  <system-out><![CDATA[10067 MSFT:1 GOOGL:3 APL:7 
+9604 MSFT:54 GOOGL:3 APL:5 
+10070 MSFT:15 GOOGL:3 APL:0 
+9676 MSFT:15 GOOGL:3 APL:17 
+10140 MSFT:17 GOOGL:3 APL:3 
+10153 MSFT:10 GOOGL:3 APL:1 
+10185 MSFT:4 GOOGL:3 APL:2 
+10105 MSFT:4 GOOGL:3 APL:5 
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
