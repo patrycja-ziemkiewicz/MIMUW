@@ -1,4 +1,4 @@
-# Second Semester courses
+# Second semester courses
 - Computer architecture and operating systems (akso)
 - Object-oriented programming (po)
 - Discrete mathematics
