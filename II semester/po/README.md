@@ -1,5 +1,7 @@
-Stock Market
+## Stock Market
 A program simulating a stock exchange.
 
-Tram Simulator
+---
+
+## Tram Simulator
 A program simulating tram movement.
