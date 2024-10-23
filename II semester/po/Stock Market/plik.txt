@@ -1,0 +1,6 @@
+# mamy 6 inwestorów: 4x RANDOM, 2x SMA
+R R R R R S S S
+# początkowy stan portfeli (identyczny dla wszystkich inwestorów)
+APL:5 MSFT:15 GOOGL:3
+# początkowy stan portfeli (identyczny dla wszystkich inwestorów)
+10000 APL:5 MSFT:15 GOOGL:3
