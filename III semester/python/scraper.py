@@ -36,8 +36,8 @@ for event in events:
 df = pd.DataFrame(events_data)
 df.to_csv('news_data.csv', index=False, encoding='utf-8')
 
-random_news = random.sample(events_data, 5)
-for news in random_news:
-    print(f"Tytuł: {news['title']}")
-    print(f"Data: {news['date']}")
-    print(f"Link: {news['url']}\n")
+random_events = random.sample(events_data, 5)
+for event in random_events:
+    print(f"Tytuł: {event['title']}")
+    print(f"Data: {event['date']}")
+    print(f"Link: {event['url']}\n")
