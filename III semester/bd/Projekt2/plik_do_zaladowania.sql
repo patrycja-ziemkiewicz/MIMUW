@@ -1164,26 +1164,21 @@ INSERT INTO autorstwo (praca, autor) VALUES (387, 'Toruńczyk');
 INSERT INTO autorstwo (praca, autor) VALUES (388, 'Toruńczyk');
 INSERT INTO autorstwo (praca, autor) VALUES (389, 'Wilczyński');
 
-SELECT DISTINCT autorstwo.autor, wspolnicy.autor 
-FROM autorstwo 
-JOIN (
-    SELECT autor,praca 
+SELECT DISTINCT a1.autor, a2.autor 
+FROM autorstwo a1
+LEFT JOIN autorstwo a2 ON a2.praca = a1.praca
+WHERE a2.autor NOT IN ( 
+    SELECT autor 
     FROM autorstwo 
-    JOIN prace ON autorstwo.praca = prace.id
-    WHERE autor NOT IN ( 
-        SELECT autor 
-        FROM autorstwo 
-        JOIN prace ON autorstwo.praca = prace.id 
-        WHERE rok = 2020
+    JOIN prace ON autorstwo.praca = prace.id 
+    WHERE rok = 2020
     )
-    AND autor IN (
-        SELECT id 
-        FROM autorzy 
-        WHERE ryzyko = 1
+AND a2.autor IN (
+    SELECT id 
+    FROM autorzy 
+    WHERE ryzyko = 1
     )
-) wspolnicy 
-ON wspolnicy.praca = autorstwo.praca
-WHERE autorstwo.autor != wspolnicy.autor;
+AND a1.autor != a2.autor;
 
 DROP TABLE autorzy;
 DROP TABLE prace;
