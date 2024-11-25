@@ -433,7 +433,7 @@ INSERT INTO autorzy (id, ryzyko, sloty) VALUES ('Dziembowski', 1, '4');
 INSERT INTO autorzy (id, ryzyko, sloty) VALUES ('Dziubiński', 1, '4');
 INSERT INTO autorzy (id, ryzyko, sloty) VALUES ('Fabiański', 0, '1,64');
 INSERT INTO autorzy (id, ryzyko, sloty) VALUES ('Fleszar', 1, '2,4');
-INSERT INTO autorzy (id, ryzyko, sloty) VALUES ('Gajarský', 0, '1');
+INSERT INTO autorzy (id, ryzyko, sloty) VALUES ('Gajarsky', 0, '1');
 INSERT INTO autorzy (id, ryzyko, sloty) VALUES ('Gambin', 1, '4');
 INSERT INTO autorzy (id, ryzyko, sloty) VALUES ('Geniet', 0, '1');
 INSERT INTO autorzy (id, ryzyko, sloty) VALUES ('Gogacz', 1, '4');
@@ -1074,7 +1074,7 @@ INSERT INTO autorstwo (praca, autor) VALUES (331, 'Pilipczuk Mi');
 INSERT INTO autorstwo (praca, autor) VALUES (332, 'Pilipczuk Mi');
 INSERT INTO autorstwo (praca, autor) VALUES (333, 'Pilipczuk Mi');
 INSERT INTO autorstwo (praca, autor) VALUES (334, 'Pilipczuk Mi');
-INSERT INTO autorstwo (praca, autor) VALUES (335, 'Gajarský');
+INSERT INTO autorstwo (praca, autor) VALUES (335, 'Gajarsky');
 INSERT INTO autorstwo (praca, autor) VALUES (335, 'Pilipczuk Mi');
 INSERT INTO autorstwo (praca, autor) VALUES (335, 'Toruńczyk');
 INSERT INTO autorstwo (praca, autor) VALUES (336, 'Pilipczuk Mi');
@@ -1169,16 +1169,17 @@ SELECT
     SUM(punkty) AS wynik_publikacyjny
 FROM (
     SELECT 
-        autor,
+        autorzy.id AS autor,
         punkty,
-        ROW_NUMBER() OVER (PARTITION BY autor ORDER BY punkty DESC) AS rank
+        ROW_NUMBER() OVER (PARTITION BY autorzy.id ORDER BY punkty DESC) AS rank
     FROM autorstwo 
-    JOIN (
+    LEFT JOIN (
         SELECT
             id,
             punkty / autorzy AS punkty
         FROM prace 
     ) prace ON prace.id = autorstwo.praca
+    RIGHT JOIN autorzy ON autorzy.id = autorstwo.autor
 ) ranked_autorstwo 
 WHERE rank <= 4
 GROUP BY autor;
