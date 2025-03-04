@@ -1,0 +1,114 @@
+[
+    {
+        "pathway_smpdb_id":"SMP0000278",
+        "pathway_name":"Lepirudin Action Pathway",
+        "pathway_category":"drug_action",
+        "drug_ids":[
+            "DB00001",
+            "DB01022",
+            "DB01373"
+        ]
+    },
+    {
+        "pathway_smpdb_id":"SMP0000474",
+        "pathway_name":"Cetuximab Action Pathway",
+        "pathway_category":"drug_action",
+        "drug_ids":[
+            "DB00002"
+        ]
+    },
+    {
+        "pathway_smpdb_id":"SMP0000277",
+        "pathway_name":"Bivalirudin Action Pathway",
+        "pathway_category":"drug_action",
+        "drug_ids":[
+            "DB00006",
+            "DB01022",
+            "DB01373"
+        ]
+    },
+    {
+        "pathway_smpdb_id":"SMP0000280",
+        "pathway_name":"Alteplase Action Pathway",
+        "pathway_category":"drug_action",
+        "drug_ids":[
+            "DB00009",
+            "DB01022",
+            "DB01373"
+        ]
+    },
+    {
+        "pathway_smpdb_id":"SMP0000284",
+        "pathway_name":"Urokinase Action Pathway",
+        "pathway_category":"drug_action",
+        "drug_ids":[
+            "DB00013",
+            "DB01022",
+            "DB01373"
+        ]
+    },
+    {
+        "pathway_smpdb_id":"SMP0000285",
+        "pathway_name":"Reteplase Action Pathway",
+        "pathway_category":"drug_action",
+        "drug_ids":[
+            "DB00015",
+            "DB01022",
+            "DB01373"
+        ]
+    },
+    {
+        "pathway_smpdb_id":"SMP0000281",
+        "pathway_name":"Anistreplase Action Pathway",
+        "pathway_category":"drug_action",
+        "drug_ids":[
+            "DB00029",
+            "DB01022",
+            "DB01373"
+        ]
+    },
+    {
+        "pathway_smpdb_id":"SMP0000283",
+        "pathway_name":"Tenecteplase Action Pathway",
+        "pathway_category":"drug_action",
+        "drug_ids":[
+            "DB00031",
+            "DB01022",
+            "DB01373"
+        ]
+    },
+    {
+        "pathway_smpdb_id":"SMP0000265",
+        "pathway_name":"Abciximab Action Pathway",
+        "pathway_category":"drug_action",
+        "drug_ids":[
+            "DB00054"
+        ]
+    },
+    {
+        "pathway_smpdb_id":"SMP0000266",
+        "pathway_name":"Eptifibatide Action Pathway",
+        "pathway_category":"drug_action",
+        "drug_ids":[
+            "DB00063"
+        ]
+    },
+    {
+        "pathway_smpdb_id":"SMP0000476",
+        "pathway_name":"Trastuzumab Action Pathway",
+        "pathway_category":"drug_action",
+        "drug_ids":[
+            "DB00072"
+        ]
+    },
+    {
+        "pathway_smpdb_id":"SMP0000282",
+        "pathway_name":"Streptokinase Action Pathway",
+        "pathway_category":"drug_action",
+        "drug_ids":[
+            "DB00086",
+            "DB01022",
+            "DB01373"
+        ]
+    }
+]

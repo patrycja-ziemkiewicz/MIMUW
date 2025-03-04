@@ -1,0 +1,5562 @@
+[
+    {
+        "target_drugbank_id":"BE0000048",
+        "source":"Swiss-Prot",
+        "external_id":"P00734",
+        "polypeptide_name":"Prothrombin",
+        "gene_name":"F2",
+        "genatlas_id":"F2",
+        "chromosome":"11",
+        "cellular_location":"Secreted"
+    },
+    {
+        "target_drugbank_id":"BE0000767",
+        "source":"Swiss-Prot",
+        "external_id":"P00533",
+        "polypeptide_name":"Epidermal growth factor receptor",
+        "gene_name":"EGFR",
+        "genatlas_id":"EGFR",
+        "chromosome":"7",
+        "cellular_location":"Cell membrane"
+    },
+    {
+        "target_drugbank_id":"BE0000901",
+        "source":"Swiss-Prot",
+        "external_id":"O75015",
+        "polypeptide_name":"Low affinity immunoglobulin gamma Fc region receptor III-B",
+        "gene_name":"FCGR3B",
+        "genatlas_id":"FCGR3B",
+        "chromosome":"1",
+        "cellular_location":"Cell membrane"
+    },
+    {
+        "target_drugbank_id":"BE0002094",
+        "source":"Swiss-Prot",
+        "external_id":"P02745",
+        "polypeptide_name":"Complement C1q subcomponent subunit A",
+        "gene_name":"C1QA",
+        "genatlas_id":"C1QA",
+        "chromosome":"1",
+        "cellular_location":"Secreted"
+    },
+    {
+        "target_drugbank_id":"BE0002095",
+        "source":"Swiss-Prot",
+        "external_id":"P02746",
+        "polypeptide_name":"Complement C1q subcomponent subunit B",
+        "gene_name":"C1QB",
+        "genatlas_id":"C1QB",
+        "chromosome":"1",
+        "cellular_location":"Secreted"
+    },
+    {
+        "target_drugbank_id":"BE0002096",
+        "source":"Swiss-Prot",
+        "external_id":"P02747",
+        "polypeptide_name":"Complement C1q subcomponent subunit C",
+        "gene_name":"C1QC",
+        "genatlas_id":"C1QC",
+        "chromosome":"1",
+        "cellular_location":"Secreted"
+    },
+    {
+        "target_drugbank_id":"BE0002097",
+        "source":"Swiss-Prot",
+        "external_id":"P08637",
+        "polypeptide_name":"Low affinity immunoglobulin gamma Fc region receptor III-A",
+        "gene_name":"FCGR3A",
+        "genatlas_id":"FCGR3A",
+        "chromosome":"1",
+        "cellular_location":"Cell membrane"
+    },
+    {
+        "target_drugbank_id":"BE0000710",
+        "source":"Swiss-Prot",
+        "external_id":"P12314",
+        "polypeptide_name":"High affinity immunoglobulin gamma Fc receptor I",
+        "gene_name":"FCGR1A",
+        "genatlas_id":"FCGR1A",
+        "chromosome":"1",
+        "cellular_location":"Cell membrane"
+    },
+    {
+        "target_drugbank_id":"BE0002098",
+        "source":"Swiss-Prot",
+        "external_id":"P12318",
+        "polypeptide_name":"Low affinity immunoglobulin gamma Fc region receptor II-a",
+        "gene_name":"FCGR2A",
+        "genatlas_id":"FCGR2A",
+        "chromosome":"1",
+        "cellular_location":"Cell membrane"
+    },
+    {
+        "target_drugbank_id":"BE0004796",
+        "source":null,
+        "external_id":null,
+        "polypeptide_name":null,
+        "gene_name":null,
+        "genatlas_id":null,
+        "chromosome":null,
+        "cellular_location":null
+    },
+    {
+        "target_drugbank_id":"BE0000658",
+        "source":"Swiss-Prot",
+        "external_id":"P01589",
+        "polypeptide_name":"Interleukin-2 receptor subunit alpha",
+        "gene_name":"IL2RA",
+        "genatlas_id":"IL2RA",
+        "chromosome":"10",
+        "cellular_location":"Membrane"
+    },
+    {
+        "target_drugbank_id":"BE0000651",
+        "source":"Swiss-Prot",
+        "external_id":"P14784",
+        "polypeptide_name":"Interleukin-2 receptor subunit beta",
+        "gene_name":"IL2RB",
+        "genatlas_id":"IL2RB",
+        "chromosome":"22",
+        "cellular_location":"Membrane"
+    },
+    {
+        "target_drugbank_id":"BE0002102",
+        "source":"Swiss-Prot",
+        "external_id":"P31785",
+        "polypeptide_name":"Cytokine receptor common subunit gamma",
+        "gene_name":"IL2RG",
+        "genatlas_id":"IL2RG",
+        "chromosome":"X",
+        "cellular_location":"Membrane"
+    },
+    {
+        "target_drugbank_id":"BE0000704",
+        "source":"Swiss-Prot",
+        "external_id":"P01375",
+        "polypeptide_name":"Tumor necrosis factor",
+        "gene_name":"TNF",
+        "genatlas_id":"TNF",
+        "chromosome":"6",
+        "cellular_location":"Cell membrane"
+    },
+    {
+        "target_drugbank_id":"BE0001087",
+        "source":"Swiss-Prot",
+        "external_id":"P01374",
+        "polypeptide_name":"Lymphotoxin-alpha",
+        "gene_name":"LTA",
+        "genatlas_id":"LTA",
+        "chromosome":"6",
+        "cellular_location":"Secreted"
+    },
+    {
+        "target_drugbank_id":"BE0000710",
+        "source":"Swiss-Prot",
+        "external_id":"P12314",
+        "polypeptide_name":"High affinity immunoglobulin gamma Fc receptor I",
+        "gene_name":"FCGR1A",
+        "genatlas_id":"FCGR1A",
+        "chromosome":"1",
+        "cellular_location":"Cell membrane"
+    },
+    {
+        "target_drugbank_id":"BE0002098",
+        "source":"Swiss-Prot",
+        "external_id":"P12318",
+        "polypeptide_name":"Low affinity immunoglobulin gamma Fc region receptor II-a",
+        "gene_name":"FCGR2A",
+        "genatlas_id":"FCGR2A",
+        "chromosome":"1",
+        "cellular_location":"Cell membrane"
+    },
+    {
+        "target_drugbank_id":"BE0002099",
+        "source":"Swiss-Prot",
+        "external_id":"P31994",
+        "polypeptide_name":"Low affinity immunoglobulin gamma Fc region receptor II-b",
+        "gene_name":"FCGR2B",
+        "genatlas_id":"FCGR2B",
+        "chromosome":"1",
+        "cellular_location":"Cell membrane"
+    },
+    {
+        "target_drugbank_id":"BE0002100",
+        "source":"Swiss-Prot",
+        "external_id":"P31995",
+        "polypeptide_name":"Low affinity immunoglobulin gamma Fc region receptor II-c",
+        "gene_name":"FCGR2C",
+        "genatlas_id":"FCGR2C",
+        "chromosome":"1",
+        "cellular_location":"Cytoplasm"
+    },
+    {
+        "target_drugbank_id":"BE0002097",
+        "source":"Swiss-Prot",
+        "external_id":"P08637",
+        "polypeptide_name":"Low affinity immunoglobulin gamma Fc region receptor III-A",
+        "gene_name":"FCGR3A",
+        "genatlas_id":"FCGR3A",
+        "chromosome":"1",
+        "cellular_location":"Cell membrane"
+    },
+    {
+        "target_drugbank_id":"BE0000901",
+        "source":"Swiss-Prot",
+        "external_id":"O75015",
+        "polypeptide_name":"Low affinity immunoglobulin gamma Fc region receptor III-B",
+        "gene_name":"FCGR3B",
+        "genatlas_id":"FCGR3B",
+        "chromosome":"1",
+        "cellular_location":"Cell membrane"
+    },
+    {
+        "target_drugbank_id":"BE0009995",
+        "source":"Swiss-Prot",
+        "external_id":"P02745",
+        "polypeptide_name":"Complement C1q subcomponent subunit A",
+        "gene_name":"C1QA",
+        "genatlas_id":"C1QA",
+        "chromosome":"1",
+        "cellular_location":"Secreted"
+    },
+    {
+        "target_drugbank_id":"BE0000048",
+        "source":"Swiss-Prot",
+        "external_id":"P00734",
+        "polypeptide_name":"Prothrombin",
+        "gene_name":"F2",
+        "genatlas_id":"F2",
+        "chromosome":"11",
+        "cellular_location":"Secreted"
+    },
+    {
+        "target_drugbank_id":"BE0000203",
+        "source":"Swiss-Prot",
+        "external_id":"P30968",
+        "polypeptide_name":"Gonadotropin-releasing hormone receptor",
+        "gene_name":"GNRHR",
+        "genatlas_id":"GNRHR",
+        "chromosome":"4",
+        "cellular_location":"Cell membrane"
+    },
+    {
+        "target_drugbank_id":"BE0000385",
+        "source":"Swiss-Prot",
+        "external_id":"P48551",
+        "polypeptide_name":"Interferon alpha\/beta receptor 2",
+        "gene_name":"IFNAR2",
+        "genatlas_id":"IFNAR2",
+        "chromosome":"21",
+        "cellular_location":"Membrane"
+    },
+    {
+        "target_drugbank_id":"BE0000661",
+        "source":"Swiss-Prot",
+        "external_id":"P17181",
+        "polypeptide_name":"Interferon alpha\/beta receptor 1",
+        "gene_name":"IFNAR1",
+        "genatlas_id":"IFNAR1",
+        "chromosome":"21",
+        "cellular_location":"Membrane"
+    },
+    {
+        "target_drugbank_id":"BE0000211",
+        "source":"Swiss-Prot",
+        "external_id":"P00747",
+        "polypeptide_name":"Plasminogen",
+        "gene_name":"PLG",
+        "genatlas_id":"PLG",
+        "chromosome":"6",
+        "cellular_location":"Secreted"
+    },
+    {
+        "target_drugbank_id":"BE0000538",
+        "source":"Swiss-Prot",
+        "external_id":"P02671",
+        "polypeptide_name":"Fibrinogen alpha chain",
+        "gene_name":"FGA",
+        "genatlas_id":"FGA",
+        "chromosome":"4",
+        "cellular_location":"Secreted"
+    },
+    {
+        "target_drugbank_id":"BE0002092",
+        "source":"Swiss-Prot",
+        "external_id":"P02679",
+        "polypeptide_name":"Fibrinogen gamma chain",
+        "gene_name":"FGG",
+        "genatlas_id":"FGG",
+        "chromosome":"4",
+        "cellular_location":"Secreted"
+    },
+    {
+        "target_drugbank_id":"BE0000240",
+        "source":"Swiss-Prot",
+        "external_id":"P05121",
+        "polypeptide_name":"Plasminogen activator inhibitor 1",
+        "gene_name":"SERPINE1",
+        "genatlas_id":"SERPINE1",
+        "chromosome":"7",
+        "cellular_location":"Secreted"
+    },
+    {
+        "target_drugbank_id":"BE0000625",
+        "source":"Swiss-Prot",
+        "external_id":"Q02643",
+        "polypeptide_name":"Growth hormone-releasing hormone receptor",
+        "gene_name":"GHRHR",
+        "genatlas_id":"GHRHR",
+        "chromosome":"7",
+        "cellular_location":"Cell membrane"
+    },
+    {
+        "target_drugbank_id":"BE0000661",
+        "source":"Swiss-Prot",
+        "external_id":"P17181",
+        "polypeptide_name":"Interferon alpha\/beta receptor 1",
+        "gene_name":"IFNAR1",
+        "genatlas_id":"IFNAR1",
+        "chromosome":"21",
+        "cellular_location":"Membrane"
+    },
+    {
+        "target_drugbank_id":"BE0000385",
+        "source":"Swiss-Prot",
+        "external_id":"P48551",
+        "polypeptide_name":"Interferon alpha\/beta receptor 2",
+        "gene_name":"IFNAR2",
+        "genatlas_id":"IFNAR2",
+        "chromosome":"21",
+        "cellular_location":"Membrane"
+    },
+    {
+        "target_drugbank_id":"BE0000654",
+        "source":"Swiss-Prot",
+        "external_id":"P19235",
+        "polypeptide_name":"Erythropoietin receptor",
+        "gene_name":"EPOR",
+        "genatlas_id":"EPOR",
+        "chromosome":"19",
+        "cellular_location":"Cell membrane"
+    },
+    {
+        "target_drugbank_id":"BE0000211",
+        "source":"Swiss-Prot",
+        "external_id":"P00747",
+        "polypeptide_name":"Plasminogen",
+        "gene_name":"PLG",
+        "genatlas_id":"PLG",
+        "chromosome":"6",
+        "cellular_location":"Secreted"
+    },
+    {
+        "target_drugbank_id":"BE0000717",
+        "source":"Swiss-Prot",
+        "external_id":"Q03405",
+        "polypeptide_name":"Urokinase plasminogen activator surface receptor",
+        "gene_name":"PLAUR",
+        "genatlas_id":"PLAUR",
+        "chromosome":"19",
+        "cellular_location":"Cell membrane"
+    },
+    {
+        "target_drugbank_id":"BE0000240",
+        "source":"Swiss-Prot",
+        "external_id":"P05121",
+        "polypeptide_name":"Plasminogen activator inhibitor 1",
+        "gene_name":"SERPINE1",
+        "genatlas_id":"SERPINE1",
+        "chromosome":"7",
+        "cellular_location":"Secreted"
+    },
+    {
+        "target_drugbank_id":"BE0000969",
+        "source":"Swiss-Prot",
+        "external_id":"P05120",
+        "polypeptide_name":"Plasminogen activator inhibitor 2",
+        "gene_name":"SERPINB2",
+        "genatlas_id":"SERPINB2",
+        "chromosome":"18",
+        "cellular_location":"Cytoplasm"
+    },
+    {
+        "target_drugbank_id":"BE0002112",
+        "source":"Swiss-Prot",
+        "external_id":"P05154",
+        "polypeptide_name":"Plasma serine protease inhibitor",
+        "gene_name":"SERPINA5",
+        "genatlas_id":"SERPINA5",
+        "chromosome":"14",
+        "cellular_location":"Secreted"
+    },
+    {
+        "target_drugbank_id":"BE0000942",
+        "source":"Swiss-Prot",
+        "external_id":"P98164",
+        "polypeptide_name":"Low-density lipoprotein receptor-related protein 2",
+        "gene_name":"LRP2",
+        "genatlas_id":"LRP2",
+        "chromosome":"2",
+        "cellular_location":"Membrane"
+    },
+    {
+        "target_drugbank_id":"BE0001656",
+        "source":"Swiss-Prot",
+        "external_id":"Q9Y5Y6",
+        "polypeptide_name":"Suppressor of tumorigenicity 14 protein",
+        "gene_name":"ST14",
+        "genatlas_id":"ST14",
+        "chromosome":"11",
+        "cellular_location":"Membrane"
+    },
+    {
+        "target_drugbank_id":"BE0002113",
+        "source":"Swiss-Prot",
+        "external_id":"P14543",
+        "polypeptide_name":"Nidogen-1",
+        "gene_name":"NID1",
+        "genatlas_id":"NID1",
+        "chromosome":"1",
+        "cellular_location":"Secreted"
+    },
+    {
+        "target_drugbank_id":"BE0000134",
+        "source":"Swiss-Prot",
+        "external_id":"P22888",
+        "polypeptide_name":"Lutropin-choriogonadotropic hormone receptor",
+        "gene_name":"LHCGR",
+        "genatlas_id":"LHCGR",
+        "chromosome":"2",
+        "cellular_location":"Cell membrane"
+    },
+    {
+        "target_drugbank_id":"BE0000203",
+        "source":"Swiss-Prot",
+        "external_id":"P30968",
+        "polypeptide_name":"Gonadotropin-releasing hormone receptor",
+        "gene_name":"GNRHR",
+        "genatlas_id":"GNRHR",
+        "chromosome":"4",
+        "cellular_location":"Cell membrane"
+    },
+    {
+        "target_drugbank_id":"BE0000211",
+        "source":"Swiss-Prot",
+        "external_id":"P00747",
+        "polypeptide_name":"Plasminogen",
+        "gene_name":"PLG",
+        "genatlas_id":"PLG",
+        "chromosome":"6",
+        "cellular_location":"Secreted"
+    },
+    {
+        "target_drugbank_id":"BE0000538",
+        "source":"Swiss-Prot",
+        "external_id":"P02671",
+        "polypeptide_name":"Fibrinogen alpha chain",
+        "gene_name":"FGA",
+        "genatlas_id":"FGA",
+        "chromosome":"4",
+        "cellular_location":"Secreted"
+    },
+    {
+        "target_drugbank_id":"BE0000240",
+        "source":"Swiss-Prot",
+        "external_id":"P05121",
+        "polypeptide_name":"Plasminogen activator inhibitor 1",
+        "gene_name":"SERPINE1",
+        "genatlas_id":"SERPINE1",
+        "chromosome":"7",
+        "cellular_location":"Secreted"
+    },
+    {
+        "target_drugbank_id":"BE0000654",
+        "source":"Swiss-Prot",
+        "external_id":"P19235",
+        "polypeptide_name":"Erythropoietin receptor",
+        "gene_name":"EPOR",
+        "genatlas_id":"EPOR",
+        "chromosome":"19",
+        "cellular_location":"Cell membrane"
+    },
+    {
+        "target_drugbank_id":"BE0000431",
+        "source":"Swiss-Prot",
+        "external_id":"P30988",
+        "polypeptide_name":"Calcitonin receptor",
+        "gene_name":"CALCR",
+        "genatlas_id":"CALCR",
+        "chromosome":"7",
+        "cellular_location":"Cell membrane"
+    },
+    {
+        "target_drugbank_id":"BE0000661",
+        "source":"Swiss-Prot",
+        "external_id":"P17181",
+        "polypeptide_name":"Interferon alpha\/beta receptor 1",
+        "gene_name":"IFNAR1",
+        "genatlas_id":"IFNAR1",
+        "chromosome":"21",
+        "cellular_location":"Membrane"
+    },
+    {
+        "target_drugbank_id":"BE0000385",
+        "source":"Swiss-Prot",
+        "external_id":"P48551",
+        "polypeptide_name":"Interferon alpha\/beta receptor 2",
+        "gene_name":"IFNAR2",
+        "genatlas_id":"IFNAR2",
+        "chromosome":"21",
+        "cellular_location":"Membrane"
+    },
+    {
+        "target_drugbank_id":"BE0000793",
+        "source":"Swiss-Prot",
+        "external_id":"Q99062",
+        "polypeptide_name":"Granulocyte colony-stimulating factor receptor",
+        "gene_name":"CSF3R",
+        "genatlas_id":"CSF3R",
+        "chromosome":"1",
+        "cellular_location":"Secreted"
+    },
+    {
+        "target_drugbank_id":"BE0000628",
+        "source":"Swiss-Prot",
+        "external_id":"P15509",
+        "polypeptide_name":"Granulocyte-macrophage colony-stimulating factor receptor subunit alpha",
+        "gene_name":"CSF2RA",
+        "genatlas_id":"CSF2RA",
+        "chromosome":"X, Y",
+        "cellular_location":"Cell membrane"
+    },
+    {
+        "target_drugbank_id":"BE0001036",
+        "source":"Swiss-Prot",
+        "external_id":"P26951",
+        "polypeptide_name":"Interleukin-3 receptor subunit alpha",
+        "gene_name":"IL3RA",
+        "genatlas_id":"IL3RA",
+        "chromosome":"X, Y",
+        "cellular_location":"Membrane"
+    },
+    {
+        "target_drugbank_id":"BE0002115",
+        "source":"Swiss-Prot",
+        "external_id":"P32927",
+        "polypeptide_name":"Cytokine receptor common subunit beta",
+        "gene_name":"CSF2RB",
+        "genatlas_id":"CSF2RB",
+        "chromosome":"22",
+        "cellular_location":"Membrane"
+    },
+    {
+        "target_drugbank_id":"BE0002116",
+        "source":"Swiss-Prot",
+        "external_id":"P34741",
+        "polypeptide_name":"Syndecan-2",
+        "gene_name":"SDC2",
+        "genatlas_id":"SDC2",
+        "chromosome":"8",
+        "cellular_location":"Membrane"
+    },
+    {
+        "target_drugbank_id":"BE0002114",
+        "source":"Swiss-Prot",
+        "external_id":"P13727",
+        "polypeptide_name":"Bone marrow proteoglycan",
+        "gene_name":"PRG2",
+        "genatlas_id":"PRG2",
+        "chromosome":"11",
+        "cellular_location":"Secreted"
+    },
+    {
+        "target_drugbank_id":"BE0000661",
+        "source":"Swiss-Prot",
+        "external_id":"P17181",
+        "polypeptide_name":"Interferon alpha\/beta receptor 1",
+        "gene_name":"IFNAR1",
+        "genatlas_id":"IFNAR1",
+        "chromosome":"21",
+        "cellular_location":"Membrane"
+    },
+    {
+        "target_drugbank_id":"BE0000385",
+        "source":"Swiss-Prot",
+        "external_id":"P48551",
+        "polypeptide_name":"Interferon alpha\/beta receptor 2",
+        "gene_name":"IFNAR2",
+        "genatlas_id":"IFNAR2",
+        "chromosome":"21",
+        "cellular_location":"Membrane"
+    },
+    {
+        "target_drugbank_id":"BE0004798",
+        "source":null,
+        "external_id":null,
+        "polypeptide_name":null,
+        "gene_name":null,
+        "genatlas_id":null,
+        "chromosome":null,
+        "cellular_location":null
+    },
+    {
+        "target_drugbank_id":"BE0000490",
+        "source":"Swiss-Prot",
+        "external_id":"P16473",
+        "polypeptide_name":"Thyrotropin receptor",
+        "gene_name":"TSHR",
+        "genatlas_id":"TSHR",
+        "chromosome":"14",
+        "cellular_location":"Cell membrane"
+    },
+    {
+        "target_drugbank_id":"BE0000216",
+        "source":"Swiss-Prot",
+        "external_id":"P00742",
+        "polypeptide_name":"Coagulation factor X",
+        "gene_name":"F10",
+        "genatlas_id":"F10",
+        "chromosome":"13",
+        "cellular_location":"Secreted"
+    },
+    {
+        "target_drugbank_id":"BE0000364",
+        "source":"Swiss-Prot",
+        "external_id":"P00740",
+        "polypeptide_name":"Coagulation factor IX",
+        "gene_name":"F9",
+        "genatlas_id":"F9",
+        "chromosome":"X",
+        "cellular_location":"Secreted"
+    },
+    {
+        "target_drugbank_id":"BE0001043",
+        "source":"Swiss-Prot",
+        "external_id":"P04275",
+        "polypeptide_name":"von Willebrand factor",
+        "gene_name":"VWF",
+        "genatlas_id":"VWF",
+        "chromosome":"12",
+        "cellular_location":"Secreted"
+    },
+    {
+        "target_drugbank_id":"BE0002117",
+        "source":"Swiss-Prot",
+        "external_id":"O14832",
+        "polypeptide_name":"Phytanoyl-CoA dioxygenase, peroxisomal",
+        "gene_name":"PHYH",
+        "genatlas_id":"PHYH",
+        "chromosome":"10",
+        "cellular_location":"Peroxisome"
+    },
+    {
+        "target_drugbank_id":"BE0002118",
+        "source":"Swiss-Prot",
+        "external_id":"P07307",
+        "polypeptide_name":"Asialoglycoprotein receptor 2",
+        "gene_name":"ASGR2",
+        "genatlas_id":"ASGR2",
+        "chromosome":"17",
+        "cellular_location":"Membrane"
+    },
+    {
+        "target_drugbank_id":"BE0001098",
+        "source":"Swiss-Prot",
+        "external_id":"P11021",
+        "polypeptide_name":"78 kDa glucose-regulated protein",
+        "gene_name":"HSPA5",
+        "genatlas_id":"HSPA5",
+        "chromosome":"9",
+        "cellular_location":"Endoplasmic reticulum lumen"
+    },
+    {
+        "target_drugbank_id":"BE0002109",
+        "source":"Swiss-Prot",
+        "external_id":"P27797",
+        "polypeptide_name":"Calreticulin",
+        "gene_name":"CALR",
+        "genatlas_id":"CALR",
+        "chromosome":"19",
+        "cellular_location":"Endoplasmic reticulum lumen"
+    },
+    {
+        "target_drugbank_id":"BE0001011",
+        "source":"Swiss-Prot",
+        "external_id":"P27824",
+        "polypeptide_name":"Calnexin",
+        "gene_name":"CANX",
+        "genatlas_id":"CANX",
+        "chromosome":"5",
+        "cellular_location":"Endoplasmic reticulum membrane"
+    },
+    {
+        "target_drugbank_id":"BE0002119",
+        "source":"Swiss-Prot",
+        "external_id":"P49257",
+        "polypeptide_name":"Protein ERGIC-53",
+        "gene_name":"LMAN1",
+        "genatlas_id":"LMAN1",
+        "chromosome":"18",
+        "cellular_location":"Endoplasmic reticulum-Golgi intermediate compartment membrane"
+    },
+    {
+        "target_drugbank_id":"BE0002110",
+        "source":"Swiss-Prot",
+        "external_id":"Q07954",
+        "polypeptide_name":"Prolow-density lipoprotein receptor-related protein 1",
+        "gene_name":"LRP1",
+        "genatlas_id":"LRP1",
+        "chromosome":"12",
+        "cellular_location":"Cell membrane"
+    },
+    {
+        "target_drugbank_id":"BE0002120",
+        "source":"Swiss-Prot",
+        "external_id":"Q8NI22",
+        "polypeptide_name":"Multiple coagulation factor deficiency protein 2",
+        "gene_name":"MCFD2",
+        "genatlas_id":"MCFD2",
+        "chromosome":"2",
+        "cellular_location":"Endoplasmic reticulum-Golgi intermediate compartment"
+    },
+    {
+        "target_drugbank_id":"BE0000565",
+        "source":"Swiss-Prot",
+        "external_id":"P14778",
+        "polypeptide_name":"Interleukin-1 receptor type 1",
+        "gene_name":"IL1R1",
+        "genatlas_id":"IL1R1",
+        "chromosome":"2",
+        "cellular_location":"Membrane"
+    },
+    {
+        "target_drugbank_id":"BE0000710",
+        "source":"Swiss-Prot",
+        "external_id":"P12314",
+        "polypeptide_name":"High affinity immunoglobulin gamma Fc receptor I",
+        "gene_name":"FCGR1A",
+        "genatlas_id":"FCGR1A",
+        "chromosome":"1",
+        "cellular_location":"Cell membrane"
+    },
+    {
+        "target_drugbank_id":"BE0004684",
+        "source":"Swiss-Prot",
+        "external_id":"Q92637",
+        "polypeptide_name":"High affinity immunoglobulin gamma Fc receptor IB",
+        "gene_name":"FCGR1B",
+        "genatlas_id":null,
+        "chromosome":"1",
+        "cellular_location":"Cell membrane"
+    },
+    {
+        "target_drugbank_id":"BE0002098",
+        "source":"Swiss-Prot",
+        "external_id":"P12318",
+        "polypeptide_name":"Low affinity immunoglobulin gamma Fc region receptor II-a",
+        "gene_name":"FCGR2A",
+        "genatlas_id":"FCGR2A",
+        "chromosome":"1",
+        "cellular_location":"Cell membrane"
+    },
+    {
+        "target_drugbank_id":"BE0002099",
+        "source":"Swiss-Prot",
+        "external_id":"P31994",
+        "polypeptide_name":"Low affinity immunoglobulin gamma Fc region receptor II-b",
+        "gene_name":"FCGR2B",
+        "genatlas_id":"FCGR2B",
+        "chromosome":"1",
+        "cellular_location":"Cell membrane"
+    },
+    {
+        "target_drugbank_id":"BE0002100",
+        "source":"Swiss-Prot",
+        "external_id":"P31995",
+        "polypeptide_name":"Low affinity immunoglobulin gamma Fc region receptor II-c",
+        "gene_name":"FCGR2C",
+        "genatlas_id":"FCGR2C",
+        "chromosome":"1",
+        "cellular_location":"Cytoplasm"
+    },
+    {
+        "target_drugbank_id":"BE0002097",
+        "source":"Swiss-Prot",
+        "external_id":"P08637",
+        "polypeptide_name":"Low affinity immunoglobulin gamma Fc region receptor III-A",
+        "gene_name":"FCGR3A",
+        "genatlas_id":"FCGR3A",
+        "chromosome":"1",
+        "cellular_location":"Cell membrane"
+    },
+    {
+        "target_drugbank_id":"BE0000901",
+        "source":"Swiss-Prot",
+        "external_id":"O75015",
+        "polypeptide_name":"Low affinity immunoglobulin gamma Fc region receptor III-B",
+        "gene_name":"FCGR3B",
+        "genatlas_id":"FCGR3B",
+        "chromosome":"1",
+        "cellular_location":"Cell membrane"
+    },
+    {
+        "target_drugbank_id":"BE0003455",
+        "source":"Swiss-Prot",
+        "external_id":"P01024",
+        "polypeptide_name":"Complement C3",
+        "gene_name":"C3",
+        "genatlas_id":"C3",
+        "chromosome":"19",
+        "cellular_location":"Secreted"
+    },
+    {
+        "target_drugbank_id":"BE0004685",
+        "source":"Swiss-Prot",
+        "external_id":"P0C0L4",
+        "polypeptide_name":"Complement C4-A",
+        "gene_name":"C4A",
+        "genatlas_id":null,
+        "chromosome":"6",
+        "cellular_location":"Secreted"
+    },
+    {
+        "target_drugbank_id":"BE0004686",
+        "source":"Swiss-Prot",
+        "external_id":"P0C0L5",
+        "polypeptide_name":"Complement C4-B",
+        "gene_name":"C4B",
+        "genatlas_id":null,
+        "chromosome":null,
+        "cellular_location":"Secreted"
+    },
+    {
+        "target_drugbank_id":"BE0000855",
+        "source":"Swiss-Prot",
+        "external_id":"P01031",
+        "polypeptide_name":"Complement C5",
+        "gene_name":"C5",
+        "genatlas_id":"C5",
+        "chromosome":"9",
+        "cellular_location":"Secreted"
+    },
+    {
+        "target_drugbank_id":"BE0000211",
+        "source":"Swiss-Prot",
+        "external_id":"P00747",
+        "polypeptide_name":"Plasminogen",
+        "gene_name":"PLG",
+        "genatlas_id":"PLG",
+        "chromosome":"6",
+        "cellular_location":"Secreted"
+    },
+    {
+        "target_drugbank_id":"BE0000538",
+        "source":"Swiss-Prot",
+        "external_id":"P02671",
+        "polypeptide_name":"Fibrinogen alpha chain",
+        "gene_name":"FGA",
+        "genatlas_id":"FGA",
+        "chromosome":"4",
+        "cellular_location":"Secreted"
+    },
+    {
+        "target_drugbank_id":"BE0000240",
+        "source":"Swiss-Prot",
+        "external_id":"P05121",
+        "polypeptide_name":"Plasminogen activator inhibitor 1",
+        "gene_name":"SERPINE1",
+        "genatlas_id":"SERPINE1",
+        "chromosome":"7",
+        "cellular_location":"Secreted"
+    },
+    {
+        "target_drugbank_id":"BE0000033",
+        "source":"Swiss-Prot",
+        "external_id":"P06213",
+        "polypeptide_name":"Insulin receptor",
+        "gene_name":"INSR",
+        "genatlas_id":"INSR",
+        "chromosome":"19",
+        "cellular_location":"Cell membrane"
+    },
+    {
+        "target_drugbank_id":"BE0000858",
+        "source":"Swiss-Prot",
+        "external_id":"P08069",
+        "polypeptide_name":"Insulin-like growth factor 1 receptor",
+        "gene_name":"IGF1R",
+        "genatlas_id":"IGF1R",
+        "chromosome":"15",
+        "cellular_location":"Cell membrane"
+    },
+    {
+        "target_drugbank_id":"BE0001123",
+        "source":"Swiss-Prot",
+        "external_id":"P16870",
+        "polypeptide_name":"Carboxypeptidase E",
+        "gene_name":"CPE",
+        "genatlas_id":"CPE",
+        "chromosome":"4",
+        "cellular_location":"Cytoplasmic vesicle"
+    },
+    {
+        "target_drugbank_id":"BE0001147",
+        "source":"Swiss-Prot",
+        "external_id":"P48745",
+        "polypeptide_name":"Protein NOV homolog",
+        "gene_name":"NOV",
+        "genatlas_id":"NOV",
+        "chromosome":"8",
+        "cellular_location":"Secreted"
+    },
+    {
+        "target_drugbank_id":"BE0000942",
+        "source":"Swiss-Prot",
+        "external_id":"P98164",
+        "polypeptide_name":"Low-density lipoprotein receptor-related protein 2",
+        "gene_name":"LRP2",
+        "genatlas_id":"LRP2",
+        "chromosome":"2",
+        "cellular_location":"Membrane"
+    },
+    {
+        "target_drugbank_id":"BE0002126",
+        "source":"Swiss-Prot",
+        "external_id":"Q16270",
+        "polypeptide_name":"Insulin-like growth factor-binding protein 7",
+        "gene_name":"IGFBP7",
+        "genatlas_id":"IGFBP7",
+        "chromosome":"4",
+        "cellular_location":"Secreted"
+    },
+    {
+        "target_drugbank_id":"BE0000211",
+        "source":"Swiss-Prot",
+        "external_id":"P00747",
+        "polypeptide_name":"Plasminogen",
+        "gene_name":"PLG",
+        "genatlas_id":"PLG",
+        "chromosome":"6",
+        "cellular_location":"Secreted"
+    },
+    {
+        "target_drugbank_id":"BE0000538",
+        "source":"Swiss-Prot",
+        "external_id":"P02671",
+        "polypeptide_name":"Fibrinogen alpha chain",
+        "gene_name":"FGA",
+        "genatlas_id":"FGA",
+        "chromosome":"4",
+        "cellular_location":"Secreted"
+    },
+    {
+        "target_drugbank_id":"BE0000717",
+        "source":"Swiss-Prot",
+        "external_id":"Q03405",
+        "polypeptide_name":"Urokinase plasminogen activator surface receptor",
+        "gene_name":"PLAUR",
+        "genatlas_id":"PLAUR",
+        "chromosome":"19",
+        "cellular_location":"Cell membrane"
+    },
+    {
+        "target_drugbank_id":"BE0000240",
+        "source":"Swiss-Prot",
+        "external_id":"P05121",
+        "polypeptide_name":"Plasminogen activator inhibitor 1",
+        "gene_name":"SERPINE1",
+        "genatlas_id":"SERPINE1",
+        "chromosome":"7",
+        "cellular_location":"Secreted"
+    },
+    {
+        "target_drugbank_id":"BE0000969",
+        "source":"Swiss-Prot",
+        "external_id":"P05120",
+        "polypeptide_name":"Plasminogen activator inhibitor 2",
+        "gene_name":"SERPINB2",
+        "genatlas_id":"SERPINB2",
+        "chromosome":"18",
+        "cellular_location":"Cytoplasm"
+    },
+    {
+        "target_drugbank_id":"BE0002104",
+        "source":"Swiss-Prot",
+        "external_id":"P05452",
+        "polypeptide_name":"Tetranectin",
+        "gene_name":"CLEC3B",
+        "genatlas_id":"CLEC3B",
+        "chromosome":null,
+        "cellular_location":"Secreted"
+    },
+    {
+        "target_drugbank_id":"BE0002105",
+        "source":"Swiss-Prot",
+        "external_id":"P05787",
+        "polypeptide_name":"Keratin, type II cytoskeletal 8",
+        "gene_name":"KRT8",
+        "genatlas_id":"KRT8",
+        "chromosome":null,
+        "cellular_location":"Cytoplasm"
+    },
+    {
+        "target_drugbank_id":"BE0001170",
+        "source":"Swiss-Prot",
+        "external_id":"P07355",
+        "polypeptide_name":"Annexin A2",
+        "gene_name":"ANXA2",
+        "genatlas_id":"ANXA2",
+        "chromosome":"15",
+        "cellular_location":"Secreted"
+    },
+    {
+        "target_drugbank_id":"BE0002109",
+        "source":"Swiss-Prot",
+        "external_id":"P27797",
+        "polypeptide_name":"Calreticulin",
+        "gene_name":"CALR",
+        "genatlas_id":"CALR",
+        "chromosome":"19",
+        "cellular_location":"Endoplasmic reticulum lumen"
+    },
+    {
+        "target_drugbank_id":"BE0001011",
+        "source":"Swiss-Prot",
+        "external_id":"P27824",
+        "polypeptide_name":"Calnexin",
+        "gene_name":"CANX",
+        "genatlas_id":"CANX",
+        "chromosome":"5",
+        "cellular_location":"Endoplasmic reticulum membrane"
+    },
+    {
+        "target_drugbank_id":"BE0002110",
+        "source":"Swiss-Prot",
+        "external_id":"Q07954",
+        "polypeptide_name":"Prolow-density lipoprotein receptor-related protein 1",
+        "gene_name":"LRP1",
+        "genatlas_id":"LRP1",
+        "chromosome":"12",
+        "cellular_location":"Cell membrane"
+    },
+    {
+        "target_drugbank_id":"BE0000387",
+        "source":"Swiss-Prot",
+        "external_id":"P23945",
+        "polypeptide_name":"Follicle-stimulating hormone receptor",
+        "gene_name":"FSHR",
+        "genatlas_id":"FSHR",
+        "chromosome":"2",
+        "cellular_location":"Cell membrane"
+    },
+    {
+        "target_drugbank_id":"BE0000134",
+        "source":"Swiss-Prot",
+        "external_id":"P22888",
+        "polypeptide_name":"Lutropin-choriogonadotropic hormone receptor",
+        "gene_name":"LHCGR",
+        "genatlas_id":"LHCGR",
+        "chromosome":"2",
+        "cellular_location":"Cell membrane"
+    },
+    {
+        "target_drugbank_id":"BE0000711",
+        "source":"Swiss-Prot",
+        "external_id":"P15260",
+        "polypeptide_name":"Interferon gamma receptor 1",
+        "gene_name":"IFNGR1",
+        "genatlas_id":"IFNGR1",
+        "chromosome":"6",
+        "cellular_location":"Membrane"
+    },
+    {
+        "target_drugbank_id":"BE0000467",
+        "source":"Swiss-Prot",
+        "external_id":"P38484",
+        "polypeptide_name":"Interferon gamma receptor 2",
+        "gene_name":"IFNGR2",
+        "genatlas_id":"IFNGR2",
+        "chromosome":"21",
+        "cellular_location":"Membrane"
+    },
+    {
+        "target_drugbank_id":"BE0000661",
+        "source":"Swiss-Prot",
+        "external_id":"P17181",
+        "polypeptide_name":"Interferon alpha\/beta receptor 1",
+        "gene_name":"IFNAR1",
+        "genatlas_id":"IFNAR1",
+        "chromosome":"21",
+        "cellular_location":"Membrane"
+    },
+    {
+        "target_drugbank_id":"BE0000385",
+        "source":"Swiss-Prot",
+        "external_id":"P48551",
+        "polypeptide_name":"Interferon alpha\/beta receptor 2",
+        "gene_name":"IFNAR2",
+        "genatlas_id":"IFNAR2",
+        "chromosome":"21",
+        "cellular_location":"Membrane"
+    },
+    {
+        "target_drugbank_id":"BE0000293",
+        "source":"Swiss-Prot",
+        "external_id":"P30518",
+        "polypeptide_name":"Vasopressin V2 receptor",
+        "gene_name":"AVPR2",
+        "genatlas_id":"AVPR2",
+        "chromosome":"X",
+        "cellular_location":"Cell membrane"
+    },
+    {
+        "target_drugbank_id":"BE0000165",
+        "source":"Swiss-Prot",
+        "external_id":"P37288",
+        "polypeptide_name":"Vasopressin V1a receptor",
+        "gene_name":"AVPR1A",
+        "genatlas_id":"AVPR1A",
+        "chromosome":"12",
+        "cellular_location":"Cell membrane"
+    },
+    {
+        "target_drugbank_id":"BE0000773",
+        "source":"Swiss-Prot",
+        "external_id":"P47901",
+        "polypeptide_name":"Vasopressin V1b receptor",
+        "gene_name":"AVPR1B",
+        "genatlas_id":"AVPR1B",
+        "chromosome":"1",
+        "cellular_location":"Cell membrane"
+    },
+    {
+        "target_drugbank_id":"BE0000216",
+        "source":"Swiss-Prot",
+        "external_id":"P00742",
+        "polypeptide_name":"Coagulation factor X",
+        "gene_name":"F10",
+        "genatlas_id":"F10",
+        "chromosome":"13",
+        "cellular_location":"Secreted"
+    },
+    {
+        "target_drugbank_id":"BE0001178",
+        "source":"Swiss-Prot",
+        "external_id":"P13726",
+        "polypeptide_name":"Tissue factor",
+        "gene_name":"F3",
+        "genatlas_id":"F3",
+        "chromosome":"1",
+        "cellular_location":"Membrane"
+    },
+    {
+        "target_drugbank_id":"BE0000967",
+        "source":"Swiss-Prot",
+        "external_id":"P10646",
+        "polypeptide_name":"Tissue factor pathway inhibitor",
+        "gene_name":"TFPI",
+        "genatlas_id":"TFPI",
+        "chromosome":"2",
+        "cellular_location":"Secreted"
+    },
+    {
+        "target_drugbank_id":"BE0000403",
+        "source":"Swiss-Prot",
+        "external_id":"P38435",
+        "polypeptide_name":"Vitamin K-dependent gamma-carboxylase",
+        "gene_name":"GGCX",
+        "genatlas_id":"GGCX",
+        "chromosome":"2",
+        "cellular_location":"Endoplasmic reticulum membrane"
+    },
+    {
+        "target_drugbank_id":"BE0000333",
+        "source":"Swiss-Prot",
+        "external_id":"P08709",
+        "polypeptide_name":"Coagulation factor VII",
+        "gene_name":"F7",
+        "genatlas_id":"F7",
+        "chromosome":"13",
+        "cellular_location":"Secreted"
+    },
+    {
+        "target_drugbank_id":"BE0000416",
+        "source":"Swiss-Prot",
+        "external_id":"Q14626",
+        "polypeptide_name":"Interleukin-11 receptor subunit alpha",
+        "gene_name":"IL11RA",
+        "genatlas_id":"IL11RA",
+        "chromosome":"9",
+        "cellular_location":"Membrane"
+    },
+    {
+        "target_drugbank_id":"BE0000748",
+        "source":"Swiss-Prot",
+        "external_id":"P21802",
+        "polypeptide_name":"Fibroblast growth factor receptor 2",
+        "gene_name":"FGFR2",
+        "genatlas_id":"FGFR2",
+        "chromosome":"10",
+        "cellular_location":"Cell membrane"
+    },
+    {
+        "target_drugbank_id":"BE0002131",
+        "source":"Swiss-Prot",
+        "external_id":"P11362",
+        "polypeptide_name":"Fibroblast growth factor receptor 1",
+        "gene_name":"FGFR1",
+        "genatlas_id":"FGFR1",
+        "chromosome":"8",
+        "cellular_location":"Cell membrane"
+    },
+    {
+        "target_drugbank_id":"BE0001031",
+        "source":"Swiss-Prot",
+        "external_id":"P98160",
+        "polypeptide_name":"Basement membrane-specific heparan sulfate proteoglycan core protein",
+        "gene_name":"HSPG2",
+        "genatlas_id":"HSPG2",
+        "chromosome":"1",
+        "cellular_location":"Secreted"
+    },
+    {
+        "target_drugbank_id":"BE0000527",
+        "source":"Swiss-Prot",
+        "external_id":"P47871",
+        "polypeptide_name":"Glucagon receptor",
+        "gene_name":"GCGR",
+        "genatlas_id":"GCGR",
+        "chromosome":"17",
+        "cellular_location":"Cell membrane"
+    },
+    {
+        "target_drugbank_id":"BE0002134",
+        "source":"Swiss-Prot",
+        "external_id":"O95838",
+        "polypeptide_name":"Glucagon-like peptide 2 receptor",
+        "gene_name":"GLP2R",
+        "genatlas_id":"GLP2R",
+        "chromosome":"17",
+        "cellular_location":"Cell membrane"
+    },
+    {
+        "target_drugbank_id":"BE0000857",
+        "source":"Swiss-Prot",
+        "external_id":"P43220",
+        "polypeptide_name":"Glucagon-like peptide 1 receptor",
+        "gene_name":"GLP1R",
+        "genatlas_id":"GLP1R",
+        "chromosome":"6",
+        "cellular_location":"Cell membrane"
+    },
+    {
+        "target_drugbank_id":"BE0000651",
+        "source":"Swiss-Prot",
+        "external_id":"P14784",
+        "polypeptide_name":"Interleukin-2 receptor subunit beta",
+        "gene_name":"IL2RB",
+        "genatlas_id":"IL2RB",
+        "chromosome":"22",
+        "cellular_location":"Membrane"
+    },
+    {
+        "target_drugbank_id":"BE0000658",
+        "source":"Swiss-Prot",
+        "external_id":"P01589",
+        "polypeptide_name":"Interleukin-2 receptor subunit alpha",
+        "gene_name":"IL2RA",
+        "genatlas_id":"IL2RA",
+        "chromosome":"10",
+        "cellular_location":"Membrane"
+    },
+    {
+        "target_drugbank_id":"BE0002102",
+        "source":"Swiss-Prot",
+        "external_id":"P31785",
+        "polypeptide_name":"Cytokine receptor common subunit gamma",
+        "gene_name":"IL2RG",
+        "genatlas_id":"IL2RG",
+        "chromosome":"X",
+        "cellular_location":"Membrane"
+    },
+    {
+        "target_drugbank_id":"BE0002137",
+        "source":"Swiss-Prot",
+        "external_id":"P63027",
+        "polypeptide_name":"Vesicle-associated membrane protein 2",
+        "gene_name":"VAMP2",
+        "genatlas_id":"VAMP2",
+        "chromosome":"17",
+        "cellular_location":"Cytoplasmic vesicle"
+    },
+    {
+        "target_drugbank_id":"BE0002136",
+        "source":"Swiss-Prot",
+        "external_id":"P23763",
+        "polypeptide_name":"Vesicle-associated membrane protein 1",
+        "gene_name":"VAMP1",
+        "genatlas_id":"VAMP1",
+        "chromosome":"12",
+        "cellular_location":"Cytoplasmic vesicle"
+    },
+    {
+        "target_drugbank_id":"BE0002138",
+        "source":"Swiss-Prot",
+        "external_id":"Q8N9I0",
+        "polypeptide_name":"Synaptotagmin-2",
+        "gene_name":"SYT2",
+        "genatlas_id":"SYT2",
+        "chromosome":"1",
+        "cellular_location":"Cytoplasmic vesicle"
+    },
+    {
+        "target_drugbank_id":"BE0000015",
+        "source":"Swiss-Prot",
+        "external_id":"P12319",
+        "polypeptide_name":"High affinity immunoglobulin epsilon receptor subunit alpha",
+        "gene_name":"FCER1A",
+        "genatlas_id":"FCER1A",
+        "chromosome":"1",
+        "cellular_location":"Cell membrane"
+    },
+    {
+        "target_drugbank_id":"BE0002139",
+        "source":"Swiss-Prot",
+        "external_id":"Q01362",
+        "polypeptide_name":"High affinity immunoglobulin epsilon receptor subunit beta",
+        "gene_name":"MS4A2",
+        "genatlas_id":"MS4A2",
+        "chromosome":"11",
+        "cellular_location":"Membrane"
+    },
+    {
+        "target_drugbank_id":"BE0000134",
+        "source":"Swiss-Prot",
+        "external_id":"P22888",
+        "polypeptide_name":"Lutropin-choriogonadotropic hormone receptor",
+        "gene_name":"LHCGR",
+        "genatlas_id":"LHCGR",
+        "chromosome":"2",
+        "cellular_location":"Cell membrane"
+    },
+    {
+        "target_drugbank_id":"BE0001164",
+        "source":"Swiss-Prot",
+        "external_id":"O60603",
+        "polypeptide_name":"Toll-like receptor 2",
+        "gene_name":"TLR2",
+        "genatlas_id":"TLR2",
+        "chromosome":"4",
+        "cellular_location":"Membrane"
+    },
+    {
+        "target_drugbank_id":"BE0000033",
+        "source":"Swiss-Prot",
+        "external_id":"P06213",
+        "polypeptide_name":"Insulin receptor",
+        "gene_name":"INSR",
+        "genatlas_id":"INSR",
+        "chromosome":"19",
+        "cellular_location":"Cell membrane"
+    },
+    {
+        "target_drugbank_id":"BE0000858",
+        "source":"Swiss-Prot",
+        "external_id":"P08069",
+        "polypeptide_name":"Insulin-like growth factor 1 receptor",
+        "gene_name":"IGF1R",
+        "genatlas_id":"IGF1R",
+        "chromosome":"15",
+        "cellular_location":"Cell membrane"
+    },
+    {
+        "target_drugbank_id":"BE0000033",
+        "source":"Swiss-Prot",
+        "external_id":"P06213",
+        "polypeptide_name":"Insulin receptor",
+        "gene_name":"INSR",
+        "genatlas_id":"INSR",
+        "chromosome":"19",
+        "cellular_location":"Cell membrane"
+    },
+    {
+        "target_drugbank_id":"BE0000858",
+        "source":"Swiss-Prot",
+        "external_id":"P08069",
+        "polypeptide_name":"Insulin-like growth factor 1 receptor",
+        "gene_name":"IGF1R",
+        "genatlas_id":"IGF1R",
+        "chromosome":"15",
+        "cellular_location":"Cell membrane"
+    },
+    {
+        "target_drugbank_id":"BE0000025",
+        "source":"Swiss-Prot",
+        "external_id":"P02452",
+        "polypeptide_name":"Collagen alpha-1(I) chain",
+        "gene_name":"COL1A1",
+        "genatlas_id":"COL1A1",
+        "chromosome":"17",
+        "cellular_location":"Secreted"
+    },
+    {
+        "target_drugbank_id":"BE0002140",
+        "source":"Swiss-Prot",
+        "external_id":"P02458",
+        "polypeptide_name":"Collagen alpha-1(II) chain",
+        "gene_name":"COL2A1",
+        "genatlas_id":"COL2A1",
+        "chromosome":"12",
+        "cellular_location":"Secreted"
+    },
+    {
+        "target_drugbank_id":"BE0002130",
+        "source":"Swiss-Prot",
+        "external_id":"P02461",
+        "polypeptide_name":"Collagen alpha-1(III) chain",
+        "gene_name":"COL3A1",
+        "genatlas_id":"COL3A1",
+        "chromosome":"2",
+        "cellular_location":"Secreted"
+    },
+    {
+        "target_drugbank_id":"BE0004823",
+        "source":null,
+        "external_id":null,
+        "polypeptide_name":null,
+        "gene_name":null,
+        "genatlas_id":null,
+        "chromosome":null,
+        "cellular_location":null
+    },
+    {
+        "target_drugbank_id":"BE0000203",
+        "source":"Swiss-Prot",
+        "external_id":"P30968",
+        "polypeptide_name":"Gonadotropin-releasing hormone receptor",
+        "gene_name":"GNRHR",
+        "genatlas_id":"GNRHR",
+        "chromosome":"4",
+        "cellular_location":"Cell membrane"
+    },
+    {
+        "target_drugbank_id":"BE0000134",
+        "source":"Swiss-Prot",
+        "external_id":"P22888",
+        "polypeptide_name":"Lutropin-choriogonadotropic hormone receptor",
+        "gene_name":"LHCGR",
+        "genatlas_id":"LHCGR",
+        "chromosome":"2",
+        "cellular_location":"Cell membrane"
+    },
+    {
+        "target_drugbank_id":"BE0000704",
+        "source":"Swiss-Prot",
+        "external_id":"P01375",
+        "polypeptide_name":"Tumor necrosis factor",
+        "gene_name":"TNF",
+        "genatlas_id":"TNF",
+        "chromosome":"6",
+        "cellular_location":"Cell membrane"
+    },
+    {
+        "target_drugbank_id":"BE0000075",
+        "source":"Swiss-Prot",
+        "external_id":"P10912",
+        "polypeptide_name":"Growth hormone receptor",
+        "gene_name":"GHR",
+        "genatlas_id":"GHR",
+        "chromosome":"5",
+        "cellular_location":"Cell membrane"
+    },
+    {
+        "target_drugbank_id":"BE0000345",
+        "source":"Swiss-Prot",
+        "external_id":"P16471",
+        "polypeptide_name":"Prolactin receptor",
+        "gene_name":"PRLR",
+        "genatlas_id":"PRLR",
+        "chromosome":"5",
+        "cellular_location":"Membrane"
+    },
+    {
+        "target_drugbank_id":"BE0004806",
+        "source":null,
+        "external_id":null,
+        "polypeptide_name":null,
+        "gene_name":null,
+        "genatlas_id":null,
+        "chromosome":null,
+        "cellular_location":null
+    },
+    {
+        "target_drugbank_id":"BE0001155",
+        "source":"Swiss-Prot",
+        "external_id":"P05106",
+        "polypeptide_name":"Integrin beta-3",
+        "gene_name":"ITGB3",
+        "genatlas_id":"ITGB3",
+        "chromosome":"17",
+        "cellular_location":"Cell membrane"
+    },
+    {
+        "target_drugbank_id":"BE0000439",
+        "source":"Swiss-Prot",
+        "external_id":"P08514",
+        "polypeptide_name":"Integrin alpha-IIb",
+        "gene_name":"ITGA2B",
+        "genatlas_id":"ITGA2B",
+        "chromosome":"17",
+        "cellular_location":"Membrane"
+    },
+    {
+        "target_drugbank_id":"BE0002098",
+        "source":"Swiss-Prot",
+        "external_id":"P12318",
+        "polypeptide_name":"Low affinity immunoglobulin gamma Fc region receptor II-a",
+        "gene_name":"FCGR2A",
+        "genatlas_id":"FCGR2A",
+        "chromosome":"1",
+        "cellular_location":"Cell membrane"
+    },
+    {
+        "target_drugbank_id":"BE0002099",
+        "source":"Swiss-Prot",
+        "external_id":"P31994",
+        "polypeptide_name":"Low affinity immunoglobulin gamma Fc region receptor II-b",
+        "gene_name":"FCGR2B",
+        "genatlas_id":"FCGR2B",
+        "chromosome":"1",
+        "cellular_location":"Cell membrane"
+    },
+    {
+        "target_drugbank_id":"BE0001068",
+        "source":"Swiss-Prot",
+        "external_id":"P04004",
+        "polypeptide_name":"Vitronectin",
+        "gene_name":"VTN",
+        "genatlas_id":"VTN",
+        "chromosome":"17",
+        "cellular_location":"Secreted"
+    },
+    {
+        "target_drugbank_id":"BE0000016",
+        "source":"Swiss-Prot",
+        "external_id":"P00451",
+        "polypeptide_name":"Coagulation factor VIII",
+        "gene_name":"F8",
+        "genatlas_id":"F8",
+        "chromosome":"X",
+        "cellular_location":"Secreted"
+    },
+    {
+        "target_drugbank_id":"BE0000041",
+        "source":"Swiss-Prot",
+        "external_id":"P12259",
+        "polypeptide_name":"Coagulation factor V",
+        "gene_name":"F5",
+        "genatlas_id":"F5",
+        "chromosome":"1",
+        "cellular_location":"Secreted"
+    },
+    {
+        "target_drugbank_id":"BE0000240",
+        "source":"Swiss-Prot",
+        "external_id":"P05121",
+        "polypeptide_name":"Plasminogen activator inhibitor 1",
+        "gene_name":"SERPINE1",
+        "genatlas_id":"SERPINE1",
+        "chromosome":"7",
+        "cellular_location":"Secreted"
+    },
+    {
+        "target_drugbank_id":"BE0001151",
+        "source":"Swiss-Prot",
+        "external_id":"P07204",
+        "polypeptide_name":"Thrombomodulin",
+        "gene_name":"THBD",
+        "genatlas_id":"THBD",
+        "chromosome":"20",
+        "cellular_location":"Membrane"
+    },
+    {
+        "target_drugbank_id":"BE0000943",
+        "source":"Swiss-Prot",
+        "external_id":"P07225",
+        "polypeptide_name":"Vitamin K-dependent protein S",
+        "gene_name":"PROS1",
+        "genatlas_id":"PROS1",
+        "chromosome":"3",
+        "cellular_location":"Secreted"
+    },
+    {
+        "target_drugbank_id":"BE0000048",
+        "source":"Swiss-Prot",
+        "external_id":"P00734",
+        "polypeptide_name":"Prothrombin",
+        "gene_name":"F2",
+        "genatlas_id":"F2",
+        "chromosome":"11",
+        "cellular_location":"Secreted"
+    },
+    {
+        "target_drugbank_id":"BE0001129",
+        "source":"Swiss-Prot",
+        "external_id":"P02776",
+        "polypeptide_name":"Platelet factor 4",
+        "gene_name":"PF4",
+        "genatlas_id":"PF4",
+        "chromosome":"4",
+        "cellular_location":"Secreted"
+    },
+    {
+        "target_drugbank_id":"BE0002112",
+        "source":"Swiss-Prot",
+        "external_id":"P05154",
+        "polypeptide_name":"Plasma serine protease inhibitor",
+        "gene_name":"SERPINA5",
+        "genatlas_id":"SERPINA5",
+        "chromosome":"14",
+        "cellular_location":"Secreted"
+    },
+    {
+        "target_drugbank_id":"BE0002142",
+        "source":"Swiss-Prot",
+        "external_id":"P35237",
+        "polypeptide_name":"Serpin B6",
+        "gene_name":"SERPINB6",
+        "genatlas_id":"SERPINB6",
+        "chromosome":"6",
+        "cellular_location":"Cytoplasm"
+    },
+    {
+        "target_drugbank_id":"BE0001161",
+        "source":"Swiss-Prot",
+        "external_id":"Q9UNN8",
+        "polypeptide_name":"Endothelial protein C receptor",
+        "gene_name":"PROCR",
+        "genatlas_id":"PROCR",
+        "chromosome":"20",
+        "cellular_location":"Membrane"
+    },
+    {
+        "target_drugbank_id":"BE0000674",
+        "source":"Swiss-Prot",
+        "external_id":"P20138",
+        "polypeptide_name":"Myeloid cell surface antigen CD33",
+        "gene_name":"CD33",
+        "genatlas_id":"CD33",
+        "chromosome":"19",
+        "cellular_location":"Cell membrane"
+    },
+    {
+        "target_drugbank_id":"BE0000901",
+        "source":"Swiss-Prot",
+        "external_id":"O75015",
+        "polypeptide_name":"Low affinity immunoglobulin gamma Fc region receptor III-B",
+        "gene_name":"FCGR3B",
+        "genatlas_id":"FCGR3B",
+        "chromosome":"1",
+        "cellular_location":"Cell membrane"
+    },
+    {
+        "target_drugbank_id":"BE0002097",
+        "source":"Swiss-Prot",
+        "external_id":"P08637",
+        "polypeptide_name":"Low affinity immunoglobulin gamma Fc region receptor III-A",
+        "gene_name":"FCGR3A",
+        "genatlas_id":"FCGR3A",
+        "chromosome":"1",
+        "cellular_location":"Cell membrane"
+    },
+    {
+        "target_drugbank_id":"BE0000710",
+        "source":"Swiss-Prot",
+        "external_id":"P12314",
+        "polypeptide_name":"High affinity immunoglobulin gamma Fc receptor I",
+        "gene_name":"FCGR1A",
+        "genatlas_id":"FCGR1A",
+        "chromosome":"1",
+        "cellular_location":"Cell membrane"
+    },
+    {
+        "target_drugbank_id":"BE0004842",
+        "source":null,
+        "external_id":null,
+        "polypeptide_name":null,
+        "gene_name":null,
+        "genatlas_id":null,
+        "chromosome":null,
+        "cellular_location":null
+    },
+    {
+        "target_drugbank_id":"BE0000394",
+        "source":"Swiss-Prot",
+        "external_id":"P08246",
+        "polypeptide_name":"Neutrophil elastase",
+        "gene_name":"ELANE",
+        "genatlas_id":"ELA2",
+        "chromosome":"19",
+        "cellular_location":"Cytoplasmic"
+    },
+    {
+        "target_drugbank_id":"BE0004798",
+        "source":null,
+        "external_id":null,
+        "polypeptide_name":null,
+        "gene_name":null,
+        "genatlas_id":null,
+        "chromosome":null,
+        "cellular_location":null
+    },
+    {
+        "target_drugbank_id":"BE0000661",
+        "source":"Swiss-Prot",
+        "external_id":"P17181",
+        "polypeptide_name":"Interferon alpha\/beta receptor 1",
+        "gene_name":"IFNAR1",
+        "genatlas_id":"IFNAR1",
+        "chromosome":"21",
+        "cellular_location":"Membrane"
+    },
+    {
+        "target_drugbank_id":"BE0000385",
+        "source":"Swiss-Prot",
+        "external_id":"P48551",
+        "polypeptide_name":"Interferon alpha\/beta receptor 2",
+        "gene_name":"IFNAR2",
+        "genatlas_id":"IFNAR2",
+        "chromosome":"21",
+        "cellular_location":"Membrane"
+    },
+    {
+        "target_drugbank_id":"BE0004828",
+        "source":null,
+        "external_id":null,
+        "polypeptide_name":null,
+        "gene_name":null,
+        "genatlas_id":null,
+        "chromosome":null,
+        "cellular_location":null
+    },
+    {
+        "target_drugbank_id":"BE0000917",
+        "source":"Swiss-Prot",
+        "external_id":"P62993",
+        "polypeptide_name":"Growth factor receptor-bound protein 2",
+        "gene_name":"GRB2",
+        "genatlas_id":"GRB2",
+        "chromosome":"17",
+        "cellular_location":"Nucleus"
+    },
+    {
+        "target_drugbank_id":"BE0009576",
+        "source":null,
+        "external_id":null,
+        "polypeptide_name":null,
+        "gene_name":null,
+        "genatlas_id":null,
+        "chromosome":null,
+        "cellular_location":null
+    },
+    {
+        "target_drugbank_id":"BE0001155",
+        "source":"Swiss-Prot",
+        "external_id":"P05106",
+        "polypeptide_name":"Integrin beta-3",
+        "gene_name":"ITGB3",
+        "genatlas_id":"ITGB3",
+        "chromosome":"17",
+        "cellular_location":"Cell membrane"
+    },
+    {
+        "target_drugbank_id":"BE0009351",
+        "source":"TrEMBL",
+        "external_id":"A0A024R8I1",
+        "polypeptide_name":"Voltage-dependent N-type calcium channel subunit alpha",
+        "gene_name":"CACNA1B",
+        "genatlas_id":null,
+        "chromosome":null,
+        "cellular_location":"Membrane"
+    },
+    {
+        "target_drugbank_id":"BE0000704",
+        "source":"Swiss-Prot",
+        "external_id":"P01375",
+        "polypeptide_name":"Tumor necrosis factor",
+        "gene_name":"TNF",
+        "genatlas_id":"TNF",
+        "chromosome":"6",
+        "cellular_location":"Cell membrane"
+    },
+    {
+        "target_drugbank_id":"BE0000387",
+        "source":"Swiss-Prot",
+        "external_id":"P23945",
+        "polypeptide_name":"Follicle-stimulating hormone receptor",
+        "gene_name":"FSHR",
+        "genatlas_id":"FSHR",
+        "chromosome":"2",
+        "cellular_location":"Cell membrane"
+    },
+    {
+        "target_drugbank_id":"BE0000293",
+        "source":"Swiss-Prot",
+        "external_id":"P30518",
+        "polypeptide_name":"Vasopressin V2 receptor",
+        "gene_name":"AVPR2",
+        "genatlas_id":"AVPR2",
+        "chromosome":"X",
+        "cellular_location":"Cell membrane"
+    },
+    {
+        "target_drugbank_id":"BE0000165",
+        "source":"Swiss-Prot",
+        "external_id":"P37288",
+        "polypeptide_name":"Vasopressin V1a receptor",
+        "gene_name":"AVPR1A",
+        "genatlas_id":"AVPR1A",
+        "chromosome":"12",
+        "cellular_location":"Cell membrane"
+    },
+    {
+        "target_drugbank_id":"BE0000773",
+        "source":"Swiss-Prot",
+        "external_id":"P47901",
+        "polypeptide_name":"Vasopressin V1b receptor",
+        "gene_name":"AVPR1B",
+        "genatlas_id":"AVPR1B",
+        "chromosome":"1",
+        "cellular_location":"Cell membrane"
+    },
+    {
+        "target_drugbank_id":"BE0000844",
+        "source":"Swiss-Prot",
+        "external_id":"P30559",
+        "polypeptide_name":"Oxytocin receptor",
+        "gene_name":"OXTR",
+        "genatlas_id":"OXTR",
+        "chromosome":"3",
+        "cellular_location":"Cell membrane"
+    },
+    {
+        "target_drugbank_id":"BE0000661",
+        "source":"Swiss-Prot",
+        "external_id":"P17181",
+        "polypeptide_name":"Interferon alpha\/beta receptor 1",
+        "gene_name":"IFNAR1",
+        "genatlas_id":"IFNAR1",
+        "chromosome":"21",
+        "cellular_location":"Membrane"
+    },
+    {
+        "target_drugbank_id":"BE0000385",
+        "source":"Swiss-Prot",
+        "external_id":"P48551",
+        "polypeptide_name":"Interferon alpha\/beta receptor 2",
+        "gene_name":"IFNAR2",
+        "genatlas_id":"IFNAR2",
+        "chromosome":"21",
+        "cellular_location":"Membrane"
+    },
+    {
+        "target_drugbank_id":"BE0000661",
+        "source":"Swiss-Prot",
+        "external_id":"P17181",
+        "polypeptide_name":"Interferon alpha\/beta receptor 1",
+        "gene_name":"IFNAR1",
+        "genatlas_id":"IFNAR1",
+        "chromosome":"21",
+        "cellular_location":"Membrane"
+    },
+    {
+        "target_drugbank_id":"BE0000385",
+        "source":"Swiss-Prot",
+        "external_id":"P48551",
+        "polypeptide_name":"Interferon alpha\/beta receptor 2",
+        "gene_name":"IFNAR2",
+        "genatlas_id":"IFNAR2",
+        "chromosome":"21",
+        "cellular_location":"Membrane"
+    },
+    {
+        "target_drugbank_id":"BE0004821",
+        "source":null,
+        "external_id":null,
+        "polypeptide_name":null,
+        "gene_name":null,
+        "genatlas_id":null,
+        "chromosome":null,
+        "cellular_location":null
+    },
+    {
+        "target_drugbank_id":"BE0000984",
+        "source":"Swiss-Prot",
+        "external_id":"P01137",
+        "polypeptide_name":"Transforming growth factor beta-1",
+        "gene_name":"TGFB1",
+        "genatlas_id":"TGFB1",
+        "chromosome":"19",
+        "cellular_location":"Secreted"
+    },
+    {
+        "target_drugbank_id":"BE0000033",
+        "source":"Swiss-Prot",
+        "external_id":"P06213",
+        "polypeptide_name":"Insulin receptor",
+        "gene_name":"INSR",
+        "genatlas_id":"INSR",
+        "chromosome":"19",
+        "cellular_location":"Cell membrane"
+    },
+    {
+        "target_drugbank_id":"BE0000858",
+        "source":"Swiss-Prot",
+        "external_id":"P08069",
+        "polypeptide_name":"Insulin-like growth factor 1 receptor",
+        "gene_name":"IGF1R",
+        "genatlas_id":"IGF1R",
+        "chromosome":"15",
+        "cellular_location":"Cell membrane"
+    },
+    {
+        "target_drugbank_id":"BE0000511",
+        "source":"Swiss-Prot",
+        "external_id":"P04626",
+        "polypeptide_name":"Receptor tyrosine-protein kinase erbB-2",
+        "gene_name":"ERBB2",
+        "genatlas_id":"ERBB2",
+        "chromosome":"17",
+        "cellular_location":"Cell membrane"
+    },
+    {
+        "target_drugbank_id":"BE0000066",
+        "source":"Swiss-Prot",
+        "external_id":"P11836",
+        "polypeptide_name":"B-lymphocyte antigen CD20",
+        "gene_name":"MS4A1",
+        "genatlas_id":"MS4A1",
+        "chromosome":"11",
+        "cellular_location":"Cell membrane"
+    },
+    {
+        "target_drugbank_id":"BE0000658",
+        "source":"Swiss-Prot",
+        "external_id":"P01589",
+        "polypeptide_name":"Interleukin-2 receptor subunit alpha",
+        "gene_name":"IL2RA",
+        "genatlas_id":"IL2RA",
+        "chromosome":"10",
+        "cellular_location":"Membrane"
+    },
+    {
+        "target_drugbank_id":"BE0000651",
+        "source":"Swiss-Prot",
+        "external_id":"P14784",
+        "polypeptide_name":"Interleukin-2 receptor subunit beta",
+        "gene_name":"IL2RB",
+        "genatlas_id":"IL2RB",
+        "chromosome":"22",
+        "cellular_location":"Membrane"
+    },
+    {
+        "target_drugbank_id":"BE0003456",
+        "source":"Swiss-Prot",
+        "external_id":"P04234",
+        "polypeptide_name":"T-cell surface glycoprotein CD3 delta chain",
+        "gene_name":"CD3D",
+        "genatlas_id":"CD3D",
+        "chromosome":"11",
+        "cellular_location":"Membrane"
+    },
+    {
+        "target_drugbank_id":"BE0000274",
+        "source":"Swiss-Prot",
+        "external_id":"P07766",
+        "polypeptide_name":"T-cell surface glycoprotein CD3 epsilon chain",
+        "gene_name":"CD3E",
+        "genatlas_id":"CD3E",
+        "chromosome":"11",
+        "cellular_location":"Cell membrane"
+    },
+    {
+        "target_drugbank_id":"BE0003457",
+        "source":"Swiss-Prot",
+        "external_id":"P09693",
+        "polypeptide_name":"T-cell surface glycoprotein CD3 gamma chain",
+        "gene_name":"CD3G",
+        "genatlas_id":"CD3G",
+        "chromosome":"11",
+        "cellular_location":"Membrane"
+    },
+    {
+        "target_drugbank_id":"BE0003458",
+        "source":"Swiss-Prot",
+        "external_id":"P20963",
+        "polypeptide_name":"T-cell surface glycoprotein CD3 zeta chain",
+        "gene_name":"CD247",
+        "genatlas_id":"CD247",
+        "chromosome":"1",
+        "cellular_location":"Membrane"
+    },
+    {
+        "target_drugbank_id":"BE0000901",
+        "source":"Swiss-Prot",
+        "external_id":"O75015",
+        "polypeptide_name":"Low affinity immunoglobulin gamma Fc region receptor III-B",
+        "gene_name":"FCGR3B",
+        "genatlas_id":"FCGR3B",
+        "chromosome":"1",
+        "cellular_location":"Cell membrane"
+    },
+    {
+        "target_drugbank_id":"BE0004837",
+        "source":null,
+        "external_id":null,
+        "polypeptide_name":null,
+        "gene_name":null,
+        "genatlas_id":null,
+        "chromosome":null,
+        "cellular_location":null
+    },
+    {
+        "target_drugbank_id":"BE0000066",
+        "source":"Swiss-Prot",
+        "external_id":"P11836",
+        "polypeptide_name":"B-lymphocyte antigen CD20",
+        "gene_name":"MS4A1",
+        "genatlas_id":"MS4A1",
+        "chromosome":"11",
+        "cellular_location":"Cell membrane"
+    },
+    {
+        "target_drugbank_id":"BE0010021",
+        "source":null,
+        "external_id":null,
+        "polypeptide_name":null,
+        "gene_name":null,
+        "genatlas_id":null,
+        "chromosome":null,
+        "cellular_location":null
+    },
+    {
+        "target_drugbank_id":"BE0000066",
+        "source":"Swiss-Prot",
+        "external_id":"P11836",
+        "polypeptide_name":"B-lymphocyte antigen CD20",
+        "gene_name":"MS4A1",
+        "genatlas_id":"MS4A1",
+        "chromosome":"11",
+        "cellular_location":"Cell membrane"
+    },
+    {
+        "target_drugbank_id":"BE0002099",
+        "source":"Swiss-Prot",
+        "external_id":"P31994",
+        "polypeptide_name":"Low affinity immunoglobulin gamma Fc region receptor II-b",
+        "gene_name":"FCGR2B",
+        "genatlas_id":"FCGR2B",
+        "chromosome":"1",
+        "cellular_location":"Cell membrane"
+    },
+    {
+        "target_drugbank_id":"BE0000075",
+        "source":"Swiss-Prot",
+        "external_id":"P10912",
+        "polypeptide_name":"Growth hormone receptor",
+        "gene_name":"GHR",
+        "genatlas_id":"GHR",
+        "chromosome":"5",
+        "cellular_location":"Cell membrane"
+    },
+    {
+        "target_drugbank_id":"BE0000390",
+        "source":"Swiss-Prot",
+        "external_id":"P60880",
+        "polypeptide_name":"Synaptosomal-associated protein 25",
+        "gene_name":"SNAP25",
+        "genatlas_id":"SNAP25",
+        "chromosome":"20",
+        "cellular_location":"Cytoplasm"
+    },
+    {
+        "target_drugbank_id":"BE0003572",
+        "source":"Swiss-Prot",
+        "external_id":"P62745",
+        "polypeptide_name":"Rho-related GTP-binding protein RhoB",
+        "gene_name":"RHOB",
+        "genatlas_id":null,
+        "chromosome":"2",
+        "cellular_location":"Late endosome membrane"
+    },
+    {
+        "target_drugbank_id":"BE0004834",
+        "source":null,
+        "external_id":null,
+        "polypeptide_name":null,
+        "gene_name":null,
+        "genatlas_id":null,
+        "chromosome":null,
+        "cellular_location":null
+    },
+    {
+        "target_drugbank_id":"BE0004835",
+        "source":null,
+        "external_id":null,
+        "polypeptide_name":null,
+        "gene_name":null,
+        "genatlas_id":null,
+        "chromosome":null,
+        "cellular_location":null
+    },
+    {
+        "target_drugbank_id":"BE0004836",
+        "source":null,
+        "external_id":null,
+        "polypeptide_name":null,
+        "gene_name":null,
+        "genatlas_id":null,
+        "chromosome":null,
+        "cellular_location":null
+    },
+    {
+        "target_drugbank_id":"BE0000211",
+        "source":"Swiss-Prot",
+        "external_id":"P00747",
+        "polypeptide_name":"Plasminogen",
+        "gene_name":"PLG",
+        "genatlas_id":"PLG",
+        "chromosome":"6",
+        "cellular_location":"Secreted"
+    },
+    {
+        "target_drugbank_id":"BE0000928",
+        "source":"Swiss-Prot",
+        "external_id":"P25116",
+        "polypeptide_name":"Proteinase-activated receptor 1",
+        "gene_name":"F2R",
+        "genatlas_id":"F2R",
+        "chromosome":"5",
+        "cellular_location":"Cell membrane"
+    },
+    {
+        "target_drugbank_id":"BE0000083",
+        "source":"Swiss-Prot",
+        "external_id":"P31358",
+        "polypeptide_name":"CAMPATH-1 antigen",
+        "gene_name":"CD52",
+        "genatlas_id":"CD52",
+        "chromosome":"1",
+        "cellular_location":"Cell membrane"
+    },
+    {
+        "target_drugbank_id":"BE0000901",
+        "source":"Swiss-Prot",
+        "external_id":"O75015",
+        "polypeptide_name":"Low affinity immunoglobulin gamma Fc region receptor III-B",
+        "gene_name":"FCGR3B",
+        "genatlas_id":"FCGR3B",
+        "chromosome":"1",
+        "cellular_location":"Cell membrane"
+    },
+    {
+        "target_drugbank_id":"BE0002097",
+        "source":"Swiss-Prot",
+        "external_id":"P08637",
+        "polypeptide_name":"Low affinity immunoglobulin gamma Fc region receptor III-A",
+        "gene_name":"FCGR3A",
+        "genatlas_id":"FCGR3A",
+        "chromosome":"1",
+        "cellular_location":"Cell membrane"
+    },
+    {
+        "target_drugbank_id":"BE0000710",
+        "source":"Swiss-Prot",
+        "external_id":"P12314",
+        "polypeptide_name":"High affinity immunoglobulin gamma Fc receptor I",
+        "gene_name":"FCGR1A",
+        "genatlas_id":"FCGR1A",
+        "chromosome":"1",
+        "cellular_location":"Cell membrane"
+    },
+    {
+        "target_drugbank_id":"BE0002098",
+        "source":"Swiss-Prot",
+        "external_id":"P12318",
+        "polypeptide_name":"Low affinity immunoglobulin gamma Fc region receptor II-a",
+        "gene_name":"FCGR2A",
+        "genatlas_id":"FCGR2A",
+        "chromosome":"1",
+        "cellular_location":"Cell membrane"
+    },
+    {
+        "target_drugbank_id":"BE0002099",
+        "source":"Swiss-Prot",
+        "external_id":"P31994",
+        "polypeptide_name":"Low affinity immunoglobulin gamma Fc region receptor II-b",
+        "gene_name":"FCGR2B",
+        "genatlas_id":"FCGR2B",
+        "chromosome":"1",
+        "cellular_location":"Cell membrane"
+    },
+    {
+        "target_drugbank_id":"BE0002100",
+        "source":"Swiss-Prot",
+        "external_id":"P31995",
+        "polypeptide_name":"Low affinity immunoglobulin gamma Fc region receptor II-c",
+        "gene_name":"FCGR2C",
+        "genatlas_id":"FCGR2C",
+        "chromosome":"1",
+        "cellular_location":"Cytoplasm"
+    },
+    {
+        "target_drugbank_id":"BE0004806",
+        "source":null,
+        "external_id":null,
+        "polypeptide_name":null,
+        "gene_name":null,
+        "genatlas_id":null,
+        "chromosome":null,
+        "cellular_location":null
+    },
+    {
+        "target_drugbank_id":"BE0000568",
+        "source":"Swiss-Prot",
+        "external_id":"Q04609",
+        "polypeptide_name":"Glutamate carboxypeptidase 2",
+        "gene_name":"FOLH1",
+        "genatlas_id":"FOLH1",
+        "chromosome":"11",
+        "cellular_location":"Cell membrane"
+    },
+    {
+        "target_drugbank_id":"BE0004822",
+        "source":null,
+        "external_id":null,
+        "polypeptide_name":null,
+        "gene_name":null,
+        "genatlas_id":null,
+        "chromosome":null,
+        "cellular_location":null
+    },
+    {
+        "target_drugbank_id":"BE0000379",
+        "source":"Swiss-Prot",
+        "external_id":"P49069",
+        "polypeptide_name":"Calcium signal-modulating cyclophilin ligand",
+        "gene_name":"CAMLG",
+        "genatlas_id":"CAMLG",
+        "chromosome":"5",
+        "cellular_location":"Membrane"
+    },
+    {
+        "target_drugbank_id":"BE0002143",
+        "source":"Swiss-Prot",
+        "external_id":"Q96LZ3",
+        "polypeptide_name":"Calcineurin subunit B type 2",
+        "gene_name":"PPP3R2",
+        "genatlas_id":"PPP3R2",
+        "chromosome":"9",
+        "cellular_location":null
+    },
+    {
+        "target_drugbank_id":"BE0001014",
+        "source":"Swiss-Prot",
+        "external_id":"P62937",
+        "polypeptide_name":"Peptidyl-prolyl cis-trans isomerase A",
+        "gene_name":"PPIA",
+        "genatlas_id":"PPIA",
+        "chromosome":"7",
+        "cellular_location":"Cytoplasm"
+    },
+    {
+        "target_drugbank_id":"BE0001399",
+        "source":"Swiss-Prot",
+        "external_id":"P30405",
+        "polypeptide_name":"Peptidyl-prolyl cis-trans isomerase F, mitochondrial",
+        "gene_name":"PPIF",
+        "genatlas_id":"PPIF",
+        "chromosome":"10",
+        "cellular_location":"Mitochondrion matrix"
+    },
+    {
+        "target_drugbank_id":"BE0000719",
+        "source":"Swiss-Prot",
+        "external_id":"P06729",
+        "polypeptide_name":"T-cell surface antigen CD2",
+        "gene_name":"CD2",
+        "genatlas_id":"CD2",
+        "chromosome":"1",
+        "cellular_location":"Membrane"
+    },
+    {
+        "target_drugbank_id":"BE0002097",
+        "source":"Swiss-Prot",
+        "external_id":"P08637",
+        "polypeptide_name":"Low affinity immunoglobulin gamma Fc region receptor III-A",
+        "gene_name":"FCGR3A",
+        "genatlas_id":"FCGR3A",
+        "chromosome":"1",
+        "cellular_location":"Cell membrane"
+    },
+    {
+        "target_drugbank_id":"BE0000901",
+        "source":"Swiss-Prot",
+        "external_id":"O75015",
+        "polypeptide_name":"Low affinity immunoglobulin gamma Fc region receptor III-B",
+        "gene_name":"FCGR3B",
+        "genatlas_id":"FCGR3B",
+        "chromosome":"1",
+        "cellular_location":"Cell membrane"
+    },
+    {
+        "target_drugbank_id":"BE0000165",
+        "source":"Swiss-Prot",
+        "external_id":"P37288",
+        "polypeptide_name":"Vasopressin V1a receptor",
+        "gene_name":"AVPR1A",
+        "genatlas_id":"AVPR1A",
+        "chromosome":"12",
+        "cellular_location":"Cell membrane"
+    },
+    {
+        "target_drugbank_id":"BE0000387",
+        "source":"Swiss-Prot",
+        "external_id":"P23945",
+        "polypeptide_name":"Follicle-stimulating hormone receptor",
+        "gene_name":"FSHR",
+        "genatlas_id":"FSHR",
+        "chromosome":"2",
+        "cellular_location":"Cell membrane"
+    },
+    {
+        "target_drugbank_id":"BE0009967",
+        "source":"Swiss-Prot",
+        "external_id":"P20702",
+        "polypeptide_name":"Integrin alpha-X",
+        "gene_name":"ITGAX",
+        "genatlas_id":null,
+        "chromosome":"16",
+        "cellular_location":"Membrane"
+    },
+    {
+        "target_drugbank_id":"BE0000516",
+        "source":"Swiss-Prot",
+        "external_id":"P20701",
+        "polypeptide_name":"Integrin alpha-L",
+        "gene_name":"ITGAL",
+        "genatlas_id":"ITGAL",
+        "chromosome":"16",
+        "cellular_location":"Membrane"
+    },
+    {
+        "target_drugbank_id":"BE0000134",
+        "source":"Swiss-Prot",
+        "external_id":"P22888",
+        "polypeptide_name":"Lutropin-choriogonadotropic hormone receptor",
+        "gene_name":"LHCGR",
+        "genatlas_id":"LHCGR",
+        "chromosome":"2",
+        "cellular_location":"Cell membrane"
+    },
+    {
+        "target_drugbank_id":"BE0000387",
+        "source":"Swiss-Prot",
+        "external_id":"P23945",
+        "polypeptide_name":"Follicle-stimulating hormone receptor",
+        "gene_name":"FSHR",
+        "genatlas_id":"FSHR",
+        "chromosome":"2",
+        "cellular_location":"Cell membrane"
+    },
+    {
+        "target_drugbank_id":"BE0003573",
+        "source":"Swiss-Prot",
+        "external_id":"Q95460",
+        "polypeptide_name":"Major histocompatibility complex class I-related gene protein",
+        "gene_name":"MR1",
+        "genatlas_id":null,
+        "chromosome":"1",
+        "cellular_location":"Cell membrane"
+    },
+    {
+        "target_drugbank_id":"BE0000516",
+        "source":"Swiss-Prot",
+        "external_id":"P20701",
+        "polypeptide_name":"Integrin alpha-L",
+        "gene_name":"ITGAL",
+        "genatlas_id":"ITGAL",
+        "chromosome":"16",
+        "cellular_location":"Membrane"
+    },
+    {
+        "target_drugbank_id":"BE0000846",
+        "source":"Swiss-Prot",
+        "external_id":"P42081",
+        "polypeptide_name":"T-lymphocyte activation antigen CD86",
+        "gene_name":"CD86",
+        "genatlas_id":"CD86",
+        "chromosome":"3",
+        "cellular_location":"Cell membrane"
+    },
+    {
+        "target_drugbank_id":"BE0002099",
+        "source":"Swiss-Prot",
+        "external_id":"P31994",
+        "polypeptide_name":"Low affinity immunoglobulin gamma Fc region receptor II-b",
+        "gene_name":"FCGR2B",
+        "genatlas_id":"FCGR2B",
+        "chromosome":"1",
+        "cellular_location":"Cell membrane"
+    },
+    {
+        "target_drugbank_id":"BE0003488",
+        "source":"Swiss-Prot",
+        "external_id":"P01730",
+        "polypeptide_name":"T-cell surface glycoprotein CD4",
+        "gene_name":"CD4",
+        "genatlas_id":"CD4",
+        "chromosome":"12",
+        "cellular_location":"Cell membrane"
+    },
+    {
+        "target_drugbank_id":"BE0003575",
+        "source":"Swiss-Prot",
+        "external_id":"P05556",
+        "polypeptide_name":"Integrin beta-1",
+        "gene_name":"ITGB1",
+        "genatlas_id":null,
+        "chromosome":"10",
+        "cellular_location":"Cell membrane"
+    },
+    {
+        "target_drugbank_id":"BE0003576",
+        "source":"Swiss-Prot",
+        "external_id":"P06756",
+        "polypeptide_name":"Integrin alpha-V",
+        "gene_name":"ITGAV",
+        "genatlas_id":null,
+        "chromosome":"2",
+        "cellular_location":"Membrane"
+    },
+    {
+        "target_drugbank_id":"BE0001155",
+        "source":"Swiss-Prot",
+        "external_id":"P05106",
+        "polypeptide_name":"Integrin beta-3",
+        "gene_name":"ITGB3",
+        "genatlas_id":"ITGB3",
+        "chromosome":"17",
+        "cellular_location":"Cell membrane"
+    },
+    {
+        "target_drugbank_id":"BE0000598",
+        "source":"Swiss-Prot",
+        "external_id":"P06126",
+        "polypeptide_name":"T-cell surface glycoprotein CD1a",
+        "gene_name":"CD1A",
+        "genatlas_id":"CD1A",
+        "chromosome":"1",
+        "cellular_location":"Cell membrane"
+    },
+    {
+        "target_drugbank_id":"BE0000793",
+        "source":"Swiss-Prot",
+        "external_id":"Q99062",
+        "polypeptide_name":"Granulocyte colony-stimulating factor receptor",
+        "gene_name":"CSF3R",
+        "genatlas_id":"CSF3R",
+        "chromosome":"1",
+        "cellular_location":"Secreted"
+    },
+    {
+        "target_drugbank_id":"BE0000216",
+        "source":"Swiss-Prot",
+        "external_id":"P00742",
+        "polypeptide_name":"Coagulation factor X",
+        "gene_name":"F10",
+        "genatlas_id":"F10",
+        "chromosome":"13",
+        "cellular_location":"Secreted"
+    },
+    {
+        "target_drugbank_id":"BE0001021",
+        "source":"Swiss-Prot",
+        "external_id":"P03951",
+        "polypeptide_name":"Coagulation factor XI",
+        "gene_name":"F11",
+        "genatlas_id":"F11",
+        "chromosome":"4",
+        "cellular_location":"Secreted"
+    },
+    {
+        "target_drugbank_id":"BE0000333",
+        "source":"Swiss-Prot",
+        "external_id":"P08709",
+        "polypeptide_name":"Coagulation factor VII",
+        "gene_name":"F7",
+        "genatlas_id":"F7",
+        "chromosome":"13",
+        "cellular_location":"Secreted"
+    },
+    {
+        "target_drugbank_id":"BE0000016",
+        "source":"Swiss-Prot",
+        "external_id":"P00451",
+        "polypeptide_name":"Coagulation factor VIII",
+        "gene_name":"F8",
+        "genatlas_id":"F8",
+        "chromosome":"X",
+        "cellular_location":"Secreted"
+    },
+    {
+        "target_drugbank_id":"BE0000048",
+        "source":"Swiss-Prot",
+        "external_id":"P00734",
+        "polypeptide_name":"Prothrombin",
+        "gene_name":"F2",
+        "genatlas_id":"F2",
+        "chromosome":"11",
+        "cellular_location":"Secreted"
+    },
+    {
+        "target_drugbank_id":"BE0002110",
+        "source":"Swiss-Prot",
+        "external_id":"Q07954",
+        "polypeptide_name":"Prolow-density lipoprotein receptor-related protein 1",
+        "gene_name":"LRP1",
+        "genatlas_id":"LRP1",
+        "chromosome":"12",
+        "cellular_location":"Cell membrane"
+    },
+    {
+        "target_drugbank_id":"BE0000403",
+        "source":"Swiss-Prot",
+        "external_id":"P38435",
+        "polypeptide_name":"Vitamin K-dependent gamma-carboxylase",
+        "gene_name":"GGCX",
+        "genatlas_id":"GGCX",
+        "chromosome":"2",
+        "cellular_location":"Endoplasmic reticulum membrane"
+    },
+    {
+        "target_drugbank_id":"BE0000205",
+        "source":"Swiss-Prot",
+        "external_id":"P09619",
+        "polypeptide_name":"Platelet-derived growth factor receptor beta",
+        "gene_name":"PDGFRB",
+        "genatlas_id":"PDGFRB",
+        "chromosome":"5",
+        "cellular_location":"Cell membrane"
+    },
+    {
+        "target_drugbank_id":"BE0000852",
+        "source":"Swiss-Prot",
+        "external_id":"P16234",
+        "polypeptide_name":"Platelet-derived growth factor receptor alpha",
+        "gene_name":"PDGFRA",
+        "genatlas_id":"PDGFRA",
+        "chromosome":"4",
+        "cellular_location":"Cell membrane"
+    },
+    {
+        "target_drugbank_id":"BE0000910",
+        "source":"Swiss-Prot",
+        "external_id":"P01023",
+        "polypeptide_name":"Alpha-2-macroglobulin",
+        "gene_name":"A2M",
+        "genatlas_id":"A2M",
+        "chromosome":"12",
+        "cellular_location":"Secreted"
+    },
+    {
+        "target_drugbank_id":"BE0004830",
+        "source":null,
+        "external_id":null,
+        "polypeptide_name":null,
+        "gene_name":null,
+        "genatlas_id":null,
+        "chromosome":null,
+        "cellular_location":null
+    },
+    {
+        "target_drugbank_id":"BE0010008",
+        "source":null,
+        "external_id":null,
+        "polypeptide_name":null,
+        "gene_name":null,
+        "genatlas_id":null,
+        "chromosome":null,
+        "cellular_location":null
+    },
+    {
+        "target_drugbank_id":"BE0000385",
+        "source":"Swiss-Prot",
+        "external_id":"P48551",
+        "polypeptide_name":"Interferon alpha\/beta receptor 2",
+        "gene_name":"IFNAR2",
+        "genatlas_id":"IFNAR2",
+        "chromosome":"21",
+        "cellular_location":"Membrane"
+    },
+    {
+        "target_drugbank_id":"BE0000661",
+        "source":"Swiss-Prot",
+        "external_id":"P17181",
+        "polypeptide_name":"Interferon alpha\/beta receptor 1",
+        "gene_name":"IFNAR1",
+        "genatlas_id":"IFNAR1",
+        "chromosome":"21",
+        "cellular_location":"Membrane"
+    },
+    {
+        "target_drugbank_id":"BE0000203",
+        "source":"Swiss-Prot",
+        "external_id":"P30968",
+        "polypeptide_name":"Gonadotropin-releasing hormone receptor",
+        "gene_name":"GNRHR",
+        "genatlas_id":"GNRHR",
+        "chromosome":"4",
+        "cellular_location":"Cell membrane"
+    },
+    {
+        "target_drugbank_id":"BE0000844",
+        "source":"Swiss-Prot",
+        "external_id":"P30559",
+        "polypeptide_name":"Oxytocin receptor",
+        "gene_name":"OXTR",
+        "genatlas_id":"OXTR",
+        "chromosome":"3",
+        "cellular_location":"Cell membrane"
+    },
+    {
+        "target_drugbank_id":"BE0000590",
+        "source":"Swiss-Prot",
+        "external_id":"P13612",
+        "polypeptide_name":"Integrin alpha-4",
+        "gene_name":"ITGA4",
+        "genatlas_id":"ITGA4",
+        "chromosome":"2",
+        "cellular_location":"Membrane"
+    },
+    {
+        "target_drugbank_id":"BE0000901",
+        "source":"Swiss-Prot",
+        "external_id":"O75015",
+        "polypeptide_name":"Low affinity immunoglobulin gamma Fc region receptor III-B",
+        "gene_name":"FCGR3B",
+        "genatlas_id":"FCGR3B",
+        "chromosome":"1",
+        "cellular_location":"Cell membrane"
+    },
+    {
+        "target_drugbank_id":"BE0000710",
+        "source":"Swiss-Prot",
+        "external_id":"P12314",
+        "polypeptide_name":"High affinity immunoglobulin gamma Fc receptor I",
+        "gene_name":"FCGR1A",
+        "genatlas_id":"FCGR1A",
+        "chromosome":"1",
+        "cellular_location":"Cell membrane"
+    },
+    {
+        "target_drugbank_id":"BE0001085",
+        "source":"Swiss-Prot",
+        "external_id":"P05362",
+        "polypeptide_name":"Intercellular adhesion molecule 1",
+        "gene_name":"ICAM1",
+        "genatlas_id":"ICAM1",
+        "chromosome":"19",
+        "cellular_location":"Membrane"
+    },
+    {
+        "target_drugbank_id":"BE0000211",
+        "source":"Swiss-Prot",
+        "external_id":"P00747",
+        "polypeptide_name":"Plasminogen",
+        "gene_name":"PLG",
+        "genatlas_id":"PLG",
+        "chromosome":"6",
+        "cellular_location":"Secreted"
+    },
+    {
+        "target_drugbank_id":"BE0000538",
+        "source":"Swiss-Prot",
+        "external_id":"P02671",
+        "polypeptide_name":"Fibrinogen alpha chain",
+        "gene_name":"FGA",
+        "genatlas_id":"FGA",
+        "chromosome":"4",
+        "cellular_location":"Secreted"
+    },
+    {
+        "target_drugbank_id":"BE0000717",
+        "source":"Swiss-Prot",
+        "external_id":"Q03405",
+        "polypeptide_name":"Urokinase plasminogen activator surface receptor",
+        "gene_name":"PLAUR",
+        "genatlas_id":"PLAUR",
+        "chromosome":"19",
+        "cellular_location":"Cell membrane"
+    },
+    {
+        "target_drugbank_id":"BE0000240",
+        "source":"Swiss-Prot",
+        "external_id":"P05121",
+        "polypeptide_name":"Plasminogen activator inhibitor 1",
+        "gene_name":"SERPINE1",
+        "genatlas_id":"SERPINE1",
+        "chromosome":"7",
+        "cellular_location":"Secreted"
+    },
+    {
+        "target_drugbank_id":"BE0000969",
+        "source":"Swiss-Prot",
+        "external_id":"P05120",
+        "polypeptide_name":"Plasminogen activator inhibitor 2",
+        "gene_name":"SERPINB2",
+        "genatlas_id":"SERPINB2",
+        "chromosome":"18",
+        "cellular_location":"Cytoplasm"
+    },
+    {
+        "target_drugbank_id":"BE0002104",
+        "source":"Swiss-Prot",
+        "external_id":"P05452",
+        "polypeptide_name":"Tetranectin",
+        "gene_name":"CLEC3B",
+        "genatlas_id":"CLEC3B",
+        "chromosome":null,
+        "cellular_location":"Secreted"
+    },
+    {
+        "target_drugbank_id":"BE0002105",
+        "source":"Swiss-Prot",
+        "external_id":"P05787",
+        "polypeptide_name":"Keratin, type II cytoskeletal 8",
+        "gene_name":"KRT8",
+        "genatlas_id":"KRT8",
+        "chromosome":null,
+        "cellular_location":"Cytoplasm"
+    },
+    {
+        "target_drugbank_id":"BE0001170",
+        "source":"Swiss-Prot",
+        "external_id":"P07355",
+        "polypeptide_name":"Annexin A2",
+        "gene_name":"ANXA2",
+        "genatlas_id":"ANXA2",
+        "chromosome":"15",
+        "cellular_location":"Secreted"
+    },
+    {
+        "target_drugbank_id":"BE0002109",
+        "source":"Swiss-Prot",
+        "external_id":"P27797",
+        "polypeptide_name":"Calreticulin",
+        "gene_name":"CALR",
+        "genatlas_id":"CALR",
+        "chromosome":"19",
+        "cellular_location":"Endoplasmic reticulum lumen"
+    },
+    {
+        "target_drugbank_id":"BE0001011",
+        "source":"Swiss-Prot",
+        "external_id":"P27824",
+        "polypeptide_name":"Calnexin",
+        "gene_name":"CANX",
+        "genatlas_id":"CANX",
+        "chromosome":"5",
+        "cellular_location":"Endoplasmic reticulum membrane"
+    },
+    {
+        "target_drugbank_id":"BE0002110",
+        "source":"Swiss-Prot",
+        "external_id":"Q07954",
+        "polypeptide_name":"Prolow-density lipoprotein receptor-related protein 1",
+        "gene_name":"LRP1",
+        "genatlas_id":"LRP1",
+        "chromosome":"12",
+        "cellular_location":"Cell membrane"
+    },
+    {
+        "target_drugbank_id":"BE0000704",
+        "source":"Swiss-Prot",
+        "external_id":"P01375",
+        "polypeptide_name":"Tumor necrosis factor",
+        "gene_name":"TNF",
+        "genatlas_id":"TNF",
+        "chromosome":"6",
+        "cellular_location":"Cell membrane"
+    },
+    {
+        "target_drugbank_id":"BE0001087",
+        "source":"Swiss-Prot",
+        "external_id":"P01374",
+        "polypeptide_name":"Lymphotoxin-alpha",
+        "gene_name":"LTA",
+        "genatlas_id":"LTA",
+        "chromosome":"6",
+        "cellular_location":"Secreted"
+    },
+    {
+        "target_drugbank_id":"BE0000710",
+        "source":"Swiss-Prot",
+        "external_id":"P12314",
+        "polypeptide_name":"High affinity immunoglobulin gamma Fc receptor I",
+        "gene_name":"FCGR1A",
+        "genatlas_id":"FCGR1A",
+        "chromosome":"1",
+        "cellular_location":"Cell membrane"
+    },
+    {
+        "target_drugbank_id":"BE0002098",
+        "source":"Swiss-Prot",
+        "external_id":"P12318",
+        "polypeptide_name":"Low affinity immunoglobulin gamma Fc region receptor II-a",
+        "gene_name":"FCGR2A",
+        "genatlas_id":"FCGR2A",
+        "chromosome":"1",
+        "cellular_location":"Cell membrane"
+    },
+    {
+        "target_drugbank_id":"BE0002099",
+        "source":"Swiss-Prot",
+        "external_id":"P31994",
+        "polypeptide_name":"Low affinity immunoglobulin gamma Fc region receptor II-b",
+        "gene_name":"FCGR2B",
+        "genatlas_id":"FCGR2B",
+        "chromosome":"1",
+        "cellular_location":"Cell membrane"
+    },
+    {
+        "target_drugbank_id":"BE0002100",
+        "source":"Swiss-Prot",
+        "external_id":"P31995",
+        "polypeptide_name":"Low affinity immunoglobulin gamma Fc region receptor II-c",
+        "gene_name":"FCGR2C",
+        "genatlas_id":"FCGR2C",
+        "chromosome":"1",
+        "cellular_location":"Cytoplasm"
+    },
+    {
+        "target_drugbank_id":"BE0002097",
+        "source":"Swiss-Prot",
+        "external_id":"P08637",
+        "polypeptide_name":"Low affinity immunoglobulin gamma Fc region receptor III-A",
+        "gene_name":"FCGR3A",
+        "genatlas_id":"FCGR3A",
+        "chromosome":"1",
+        "cellular_location":"Cell membrane"
+    },
+    {
+        "target_drugbank_id":"BE0000901",
+        "source":"Swiss-Prot",
+        "external_id":"O75015",
+        "polypeptide_name":"Low affinity immunoglobulin gamma Fc region receptor III-B",
+        "gene_name":"FCGR3B",
+        "genatlas_id":"FCGR3B",
+        "chromosome":"1",
+        "cellular_location":"Cell membrane"
+    },
+    {
+        "target_drugbank_id":"BE0009995",
+        "source":"Swiss-Prot",
+        "external_id":"P02745",
+        "polypeptide_name":"Complement C1q subcomponent subunit A",
+        "gene_name":"C1QA",
+        "genatlas_id":"C1QA",
+        "chromosome":"1",
+        "cellular_location":"Secreted"
+    },
+    {
+        "target_drugbank_id":"BE0000748",
+        "source":"Swiss-Prot",
+        "external_id":"P21802",
+        "polypeptide_name":"Fibroblast growth factor receptor 2",
+        "gene_name":"FGFR2",
+        "genatlas_id":"FGFR2",
+        "chromosome":"10",
+        "cellular_location":"Cell membrane"
+    },
+    {
+        "target_drugbank_id":"BE0002131",
+        "source":"Swiss-Prot",
+        "external_id":"P11362",
+        "polypeptide_name":"Fibroblast growth factor receptor 1",
+        "gene_name":"FGFR1",
+        "genatlas_id":"FGFR1",
+        "chromosome":"8",
+        "cellular_location":"Cell membrane"
+    },
+    {
+        "target_drugbank_id":"BE0001031",
+        "source":"Swiss-Prot",
+        "external_id":"P98160",
+        "polypeptide_name":"Basement membrane-specific heparan sulfate proteoglycan core protein",
+        "gene_name":"HSPG2",
+        "genatlas_id":"HSPG2",
+        "chromosome":"1",
+        "cellular_location":"Secreted"
+    },
+    {
+        "target_drugbank_id":"BE0000066",
+        "source":"Swiss-Prot",
+        "external_id":"P11836",
+        "polypeptide_name":"B-lymphocyte antigen CD20",
+        "gene_name":"MS4A1",
+        "genatlas_id":"MS4A1",
+        "chromosome":"11",
+        "cellular_location":"Cell membrane"
+    },
+    {
+        "target_drugbank_id":"BE0002099",
+        "source":"Swiss-Prot",
+        "external_id":"P31994",
+        "polypeptide_name":"Low affinity immunoglobulin gamma Fc region receptor II-b",
+        "gene_name":"FCGR2B",
+        "genatlas_id":"FCGR2B",
+        "chromosome":"1",
+        "cellular_location":"Cell membrane"
+    },
+    {
+        "target_drugbank_id":"BE0004830",
+        "source":null,
+        "external_id":null,
+        "polypeptide_name":null,
+        "gene_name":null,
+        "genatlas_id":null,
+        "chromosome":null,
+        "cellular_location":null
+    },
+    {
+        "target_drugbank_id":"BE0000033",
+        "source":"Swiss-Prot",
+        "external_id":"P06213",
+        "polypeptide_name":"Insulin receptor",
+        "gene_name":"INSR",
+        "genatlas_id":"INSR",
+        "chromosome":"19",
+        "cellular_location":"Cell membrane"
+    },
+    {
+        "target_drugbank_id":"BE0000858",
+        "source":"Swiss-Prot",
+        "external_id":"P08069",
+        "polypeptide_name":"Insulin-like growth factor 1 receptor",
+        "gene_name":"IGF1R",
+        "genatlas_id":"IGF1R",
+        "chromosome":"15",
+        "cellular_location":"Cell membrane"
+    },
+    {
+        "target_drugbank_id":"BE0000416",
+        "source":"Swiss-Prot",
+        "external_id":"Q14626",
+        "polypeptide_name":"Interleukin-11 receptor subunit alpha",
+        "gene_name":"IL11RA",
+        "genatlas_id":"IL11RA",
+        "chromosome":"9",
+        "cellular_location":"Membrane"
+    },
+    {
+        "target_drugbank_id":"BE0000211",
+        "source":"Swiss-Prot",
+        "external_id":"P00747",
+        "polypeptide_name":"Plasminogen",
+        "gene_name":"PLG",
+        "genatlas_id":"PLG",
+        "chromosome":"6",
+        "cellular_location":"Secreted"
+    },
+    {
+        "target_drugbank_id":"BE0000717",
+        "source":"Swiss-Prot",
+        "external_id":"Q03405",
+        "polypeptide_name":"Urokinase plasminogen activator surface receptor",
+        "gene_name":"PLAUR",
+        "genatlas_id":"PLAUR",
+        "chromosome":"19",
+        "cellular_location":"Cell membrane"
+    },
+    {
+        "target_drugbank_id":"BE0000240",
+        "source":"Swiss-Prot",
+        "external_id":"P05121",
+        "polypeptide_name":"Plasminogen activator inhibitor 1",
+        "gene_name":"SERPINE1",
+        "genatlas_id":"SERPINE1",
+        "chromosome":"7",
+        "cellular_location":"Secreted"
+    },
+    {
+        "target_drugbank_id":"BE0000969",
+        "source":"Swiss-Prot",
+        "external_id":"P05120",
+        "polypeptide_name":"Plasminogen activator inhibitor 2",
+        "gene_name":"SERPINB2",
+        "genatlas_id":"SERPINB2",
+        "chromosome":"18",
+        "cellular_location":"Cytoplasm"
+    },
+    {
+        "target_drugbank_id":"BE0002112",
+        "source":"Swiss-Prot",
+        "external_id":"P05154",
+        "polypeptide_name":"Plasma serine protease inhibitor",
+        "gene_name":"SERPINA5",
+        "genatlas_id":"SERPINA5",
+        "chromosome":"14",
+        "cellular_location":"Secreted"
+    },
+    {
+        "target_drugbank_id":"BE0000942",
+        "source":"Swiss-Prot",
+        "external_id":"P98164",
+        "polypeptide_name":"Low-density lipoprotein receptor-related protein 2",
+        "gene_name":"LRP2",
+        "genatlas_id":"LRP2",
+        "chromosome":"2",
+        "cellular_location":"Membrane"
+    },
+    {
+        "target_drugbank_id":"BE0001656",
+        "source":"Swiss-Prot",
+        "external_id":"Q9Y5Y6",
+        "polypeptide_name":"Suppressor of tumorigenicity 14 protein",
+        "gene_name":"ST14",
+        "genatlas_id":"ST14",
+        "chromosome":"11",
+        "cellular_location":"Membrane"
+    },
+    {
+        "target_drugbank_id":"BE0002113",
+        "source":"Swiss-Prot",
+        "external_id":"P14543",
+        "polypeptide_name":"Nidogen-1",
+        "gene_name":"NID1",
+        "genatlas_id":"NID1",
+        "chromosome":"1",
+        "cellular_location":"Secreted"
+    },
+    {
+        "target_drugbank_id":"BE0002137",
+        "source":"Swiss-Prot",
+        "external_id":"P63027",
+        "polypeptide_name":"Vesicle-associated membrane protein 2",
+        "gene_name":"VAMP2",
+        "genatlas_id":"VAMP2",
+        "chromosome":"17",
+        "cellular_location":"Cytoplasmic vesicle"
+    },
+    {
+        "target_drugbank_id":"BE0002136",
+        "source":"Swiss-Prot",
+        "external_id":"P23763",
+        "polypeptide_name":"Vesicle-associated membrane protein 1",
+        "gene_name":"VAMP1",
+        "genatlas_id":"VAMP1",
+        "chromosome":"12",
+        "cellular_location":"Cytoplasmic vesicle"
+    },
+    {
+        "target_drugbank_id":"BE0002138",
+        "source":"Swiss-Prot",
+        "external_id":"Q8N9I0",
+        "polypeptide_name":"Synaptotagmin-2",
+        "gene_name":"SYT2",
+        "genatlas_id":"SYT2",
+        "chromosome":"1",
+        "cellular_location":"Cytoplasmic vesicle"
+    },
+    {
+        "target_drugbank_id":"BE0000844",
+        "source":"Swiss-Prot",
+        "external_id":"P30559",
+        "polypeptide_name":"Oxytocin receptor",
+        "gene_name":"OXTR",
+        "genatlas_id":"OXTR",
+        "chromosome":"3",
+        "cellular_location":"Cell membrane"
+    },
+    {
+        "target_drugbank_id":"BE0010008",
+        "source":null,
+        "external_id":null,
+        "polypeptide_name":null,
+        "gene_name":null,
+        "genatlas_id":null,
+        "chromosome":null,
+        "cellular_location":null
+    },
+    {
+        "target_drugbank_id":"BE0000793",
+        "source":"Swiss-Prot",
+        "external_id":"Q99062",
+        "polypeptide_name":"Granulocyte colony-stimulating factor receptor",
+        "gene_name":"CSF3R",
+        "genatlas_id":"CSF3R",
+        "chromosome":"1",
+        "cellular_location":"Secreted"
+    },
+    {
+        "target_drugbank_id":"BE0003573",
+        "source":"Swiss-Prot",
+        "external_id":"Q95460",
+        "polypeptide_name":"Major histocompatibility complex class I-related gene protein",
+        "gene_name":"MR1",
+        "genatlas_id":null,
+        "chromosome":"1",
+        "cellular_location":"Cell membrane"
+    },
+    {
+        "target_drugbank_id":"BE0000516",
+        "source":"Swiss-Prot",
+        "external_id":"P20701",
+        "polypeptide_name":"Integrin alpha-L",
+        "gene_name":"ITGAL",
+        "genatlas_id":"ITGAL",
+        "chromosome":"16",
+        "cellular_location":"Membrane"
+    },
+    {
+        "target_drugbank_id":"BE0000846",
+        "source":"Swiss-Prot",
+        "external_id":"P42081",
+        "polypeptide_name":"T-lymphocyte activation antigen CD86",
+        "gene_name":"CD86",
+        "genatlas_id":"CD86",
+        "chromosome":"3",
+        "cellular_location":"Cell membrane"
+    },
+    {
+        "target_drugbank_id":"BE0002099",
+        "source":"Swiss-Prot",
+        "external_id":"P31994",
+        "polypeptide_name":"Low affinity immunoglobulin gamma Fc region receptor II-b",
+        "gene_name":"FCGR2B",
+        "genatlas_id":"FCGR2B",
+        "chromosome":"1",
+        "cellular_location":"Cell membrane"
+    },
+    {
+        "target_drugbank_id":"BE0003488",
+        "source":"Swiss-Prot",
+        "external_id":"P01730",
+        "polypeptide_name":"T-cell surface glycoprotein CD4",
+        "gene_name":"CD4",
+        "genatlas_id":"CD4",
+        "chromosome":"12",
+        "cellular_location":"Cell membrane"
+    },
+    {
+        "target_drugbank_id":"BE0003575",
+        "source":"Swiss-Prot",
+        "external_id":"P05556",
+        "polypeptide_name":"Integrin beta-1",
+        "gene_name":"ITGB1",
+        "genatlas_id":null,
+        "chromosome":"10",
+        "cellular_location":"Cell membrane"
+    },
+    {
+        "target_drugbank_id":"BE0003576",
+        "source":"Swiss-Prot",
+        "external_id":"P06756",
+        "polypeptide_name":"Integrin alpha-V",
+        "gene_name":"ITGAV",
+        "genatlas_id":null,
+        "chromosome":"2",
+        "cellular_location":"Membrane"
+    },
+    {
+        "target_drugbank_id":"BE0001155",
+        "source":"Swiss-Prot",
+        "external_id":"P05106",
+        "polypeptide_name":"Integrin beta-3",
+        "gene_name":"ITGB3",
+        "genatlas_id":"ITGB3",
+        "chromosome":"17",
+        "cellular_location":"Cell membrane"
+    },
+    {
+        "target_drugbank_id":"BE0000598",
+        "source":"Swiss-Prot",
+        "external_id":"P06126",
+        "polypeptide_name":"T-cell surface glycoprotein CD1a",
+        "gene_name":"CD1A",
+        "genatlas_id":"CD1A",
+        "chromosome":"1",
+        "cellular_location":"Cell membrane"
+    },
+    {
+        "target_drugbank_id":"BE0000844",
+        "source":"Swiss-Prot",
+        "external_id":"P30559",
+        "polypeptide_name":"Oxytocin receptor",
+        "gene_name":"OXTR",
+        "genatlas_id":"OXTR",
+        "chromosome":"3",
+        "cellular_location":"Cell membrane"
+    },
+    {
+        "target_drugbank_id":"BE0000033",
+        "source":"Swiss-Prot",
+        "external_id":"P06213",
+        "polypeptide_name":"Insulin receptor",
+        "gene_name":"INSR",
+        "genatlas_id":"INSR",
+        "chromosome":"19",
+        "cellular_location":"Cell membrane"
+    },
+    {
+        "target_drugbank_id":"BE0000858",
+        "source":"Swiss-Prot",
+        "external_id":"P08069",
+        "polypeptide_name":"Insulin-like growth factor 1 receptor",
+        "gene_name":"IGF1R",
+        "genatlas_id":"IGF1R",
+        "chromosome":"15",
+        "cellular_location":"Cell membrane"
+    },
+    {
+        "target_drugbank_id":"BE0000568",
+        "source":"Swiss-Prot",
+        "external_id":"Q04609",
+        "polypeptide_name":"Glutamate carboxypeptidase 2",
+        "gene_name":"FOLH1",
+        "genatlas_id":"FOLH1",
+        "chromosome":"11",
+        "cellular_location":"Cell membrane"
+    },
+    {
+        "target_drugbank_id":"BE0000625",
+        "source":"Swiss-Prot",
+        "external_id":"Q02643",
+        "polypeptide_name":"Growth hormone-releasing hormone receptor",
+        "gene_name":"GHRHR",
+        "genatlas_id":"GHRHR",
+        "chromosome":"7",
+        "cellular_location":"Cell membrane"
+    },
+    {
+        "target_drugbank_id":"BE0000216",
+        "source":"Swiss-Prot",
+        "external_id":"P00742",
+        "polypeptide_name":"Coagulation factor X",
+        "gene_name":"F10",
+        "genatlas_id":"F10",
+        "chromosome":"13",
+        "cellular_location":"Secreted"
+    },
+    {
+        "target_drugbank_id":"BE0001178",
+        "source":"Swiss-Prot",
+        "external_id":"P13726",
+        "polypeptide_name":"Tissue factor",
+        "gene_name":"F3",
+        "genatlas_id":"F3",
+        "chromosome":"1",
+        "cellular_location":"Membrane"
+    },
+    {
+        "target_drugbank_id":"BE0000967",
+        "source":"Swiss-Prot",
+        "external_id":"P10646",
+        "polypeptide_name":"Tissue factor pathway inhibitor",
+        "gene_name":"TFPI",
+        "genatlas_id":"TFPI",
+        "chromosome":"2",
+        "cellular_location":"Secreted"
+    },
+    {
+        "target_drugbank_id":"BE0000403",
+        "source":"Swiss-Prot",
+        "external_id":"P38435",
+        "polypeptide_name":"Vitamin K-dependent gamma-carboxylase",
+        "gene_name":"GGCX",
+        "genatlas_id":"GGCX",
+        "chromosome":"2",
+        "cellular_location":"Endoplasmic reticulum membrane"
+    },
+    {
+        "target_drugbank_id":"BE0000333",
+        "source":"Swiss-Prot",
+        "external_id":"P08709",
+        "polypeptide_name":"Coagulation factor VII",
+        "gene_name":"F7",
+        "genatlas_id":"F7",
+        "chromosome":"13",
+        "cellular_location":"Secreted"
+    },
+    {
+        "target_drugbank_id":"BE0004798",
+        "source":null,
+        "external_id":null,
+        "polypeptide_name":null,
+        "gene_name":null,
+        "genatlas_id":null,
+        "chromosome":null,
+        "cellular_location":null
+    },
+    {
+        "target_drugbank_id":"BE0000628",
+        "source":"Swiss-Prot",
+        "external_id":"P15509",
+        "polypeptide_name":"Granulocyte-macrophage colony-stimulating factor receptor subunit alpha",
+        "gene_name":"CSF2RA",
+        "genatlas_id":"CSF2RA",
+        "chromosome":"X, Y",
+        "cellular_location":"Cell membrane"
+    },
+    {
+        "target_drugbank_id":"BE0001036",
+        "source":"Swiss-Prot",
+        "external_id":"P26951",
+        "polypeptide_name":"Interleukin-3 receptor subunit alpha",
+        "gene_name":"IL3RA",
+        "genatlas_id":"IL3RA",
+        "chromosome":"X, Y",
+        "cellular_location":"Membrane"
+    },
+    {
+        "target_drugbank_id":"BE0002115",
+        "source":"Swiss-Prot",
+        "external_id":"P32927",
+        "polypeptide_name":"Cytokine receptor common subunit beta",
+        "gene_name":"CSF2RB",
+        "genatlas_id":"CSF2RB",
+        "chromosome":"22",
+        "cellular_location":"Membrane"
+    },
+    {
+        "target_drugbank_id":"BE0002116",
+        "source":"Swiss-Prot",
+        "external_id":"P34741",
+        "polypeptide_name":"Syndecan-2",
+        "gene_name":"SDC2",
+        "genatlas_id":"SDC2",
+        "chromosome":"8",
+        "cellular_location":"Membrane"
+    },
+    {
+        "target_drugbank_id":"BE0002114",
+        "source":"Swiss-Prot",
+        "external_id":"P13727",
+        "polypeptide_name":"Bone marrow proteoglycan",
+        "gene_name":"PRG2",
+        "genatlas_id":"PRG2",
+        "chromosome":"11",
+        "cellular_location":"Secreted"
+    },
+    {
+        "target_drugbank_id":"BE0000416",
+        "source":"Swiss-Prot",
+        "external_id":"Q14626",
+        "polypeptide_name":"Interleukin-11 receptor subunit alpha",
+        "gene_name":"IL11RA",
+        "genatlas_id":"IL11RA",
+        "chromosome":"9",
+        "cellular_location":"Membrane"
+    },
+    {
+        "target_drugbank_id":"BE0000048",
+        "source":"Swiss-Prot",
+        "external_id":"P00734",
+        "polypeptide_name":"Prothrombin",
+        "gene_name":"F2",
+        "genatlas_id":"F2",
+        "chromosome":"11",
+        "cellular_location":"Secreted"
+    },
+    {
+        "target_drugbank_id":"BE0000654",
+        "source":"Swiss-Prot",
+        "external_id":"P19235",
+        "polypeptide_name":"Erythropoietin receptor",
+        "gene_name":"EPOR",
+        "genatlas_id":"EPOR",
+        "chromosome":"19",
+        "cellular_location":"Cell membrane"
+    },
+    {
+        "target_drugbank_id":"BE0004830",
+        "source":null,
+        "external_id":null,
+        "polypeptide_name":null,
+        "gene_name":null,
+        "genatlas_id":null,
+        "chromosome":null,
+        "cellular_location":null
+    },
+    {
+        "target_drugbank_id":"BE0000075",
+        "source":"Swiss-Prot",
+        "external_id":"P10912",
+        "polypeptide_name":"Growth hormone receptor",
+        "gene_name":"GHR",
+        "genatlas_id":"GHR",
+        "chromosome":"5",
+        "cellular_location":"Cell membrane"
+    },
+    {
+        "target_drugbank_id":"BE0000345",
+        "source":"Swiss-Prot",
+        "external_id":"P16471",
+        "polypeptide_name":"Prolactin receptor",
+        "gene_name":"PRLR",
+        "genatlas_id":"PRLR",
+        "chromosome":"5",
+        "cellular_location":"Membrane"
+    },
+    {
+        "target_drugbank_id":"BE0010008",
+        "source":null,
+        "external_id":null,
+        "polypeptide_name":null,
+        "gene_name":null,
+        "genatlas_id":null,
+        "chromosome":null,
+        "cellular_location":null
+    },
+    {
+        "target_drugbank_id":"BE0000066",
+        "source":"Swiss-Prot",
+        "external_id":"P11836",
+        "polypeptide_name":"B-lymphocyte antigen CD20",
+        "gene_name":"MS4A1",
+        "genatlas_id":"MS4A1",
+        "chromosome":"11",
+        "cellular_location":"Cell membrane"
+    },
+    {
+        "target_drugbank_id":"BE0000066",
+        "source":"Swiss-Prot",
+        "external_id":"P11836",
+        "polypeptide_name":"B-lymphocyte antigen CD20",
+        "gene_name":"MS4A1",
+        "genatlas_id":"MS4A1",
+        "chromosome":"11",
+        "cellular_location":"Cell membrane"
+    },
+    {
+        "target_drugbank_id":"BE0000565",
+        "source":"Swiss-Prot",
+        "external_id":"P14778",
+        "polypeptide_name":"Interleukin-1 receptor type 1",
+        "gene_name":"IL1R1",
+        "genatlas_id":"IL1R1",
+        "chromosome":"2",
+        "cellular_location":"Membrane"
+    },
+    {
+        "target_drugbank_id":"BE0004822",
+        "source":null,
+        "external_id":null,
+        "polypeptide_name":null,
+        "gene_name":null,
+        "genatlas_id":null,
+        "chromosome":null,
+        "cellular_location":null
+    },
+    {
+        "target_drugbank_id":"BE0000216",
+        "source":"Swiss-Prot",
+        "external_id":"P00742",
+        "polypeptide_name":"Coagulation factor X",
+        "gene_name":"F10",
+        "genatlas_id":"F10",
+        "chromosome":"13",
+        "cellular_location":"Secreted"
+    },
+    {
+        "target_drugbank_id":"BE0001178",
+        "source":"Swiss-Prot",
+        "external_id":"P13726",
+        "polypeptide_name":"Tissue factor",
+        "gene_name":"F3",
+        "genatlas_id":"F3",
+        "chromosome":"1",
+        "cellular_location":"Membrane"
+    },
+    {
+        "target_drugbank_id":"BE0000967",
+        "source":"Swiss-Prot",
+        "external_id":"P10646",
+        "polypeptide_name":"Tissue factor pathway inhibitor",
+        "gene_name":"TFPI",
+        "genatlas_id":"TFPI",
+        "chromosome":"2",
+        "cellular_location":"Secreted"
+    },
+    {
+        "target_drugbank_id":"BE0000403",
+        "source":"Swiss-Prot",
+        "external_id":"P38435",
+        "polypeptide_name":"Vitamin K-dependent gamma-carboxylase",
+        "gene_name":"GGCX",
+        "genatlas_id":"GGCX",
+        "chromosome":"2",
+        "cellular_location":"Endoplasmic reticulum membrane"
+    },
+    {
+        "target_drugbank_id":"BE0000333",
+        "source":"Swiss-Prot",
+        "external_id":"P08709",
+        "polypeptide_name":"Coagulation factor VII",
+        "gene_name":"F7",
+        "genatlas_id":"F7",
+        "chromosome":"13",
+        "cellular_location":"Secreted"
+    },
+    {
+        "target_drugbank_id":"BE0000416",
+        "source":"Swiss-Prot",
+        "external_id":"Q14626",
+        "polypeptide_name":"Interleukin-11 receptor subunit alpha",
+        "gene_name":"IL11RA",
+        "genatlas_id":"IL11RA",
+        "chromosome":"9",
+        "cellular_location":"Membrane"
+    },
+    {
+        "target_drugbank_id":"BE0000390",
+        "source":"Swiss-Prot",
+        "external_id":"P60880",
+        "polypeptide_name":"Synaptosomal-associated protein 25",
+        "gene_name":"SNAP25",
+        "genatlas_id":"SNAP25",
+        "chromosome":"20",
+        "cellular_location":"Cytoplasm"
+    },
+    {
+        "target_drugbank_id":"BE0003572",
+        "source":"Swiss-Prot",
+        "external_id":"P62745",
+        "polypeptide_name":"Rho-related GTP-binding protein RhoB",
+        "gene_name":"RHOB",
+        "genatlas_id":null,
+        "chromosome":"2",
+        "cellular_location":"Late endosome membrane"
+    },
+    {
+        "target_drugbank_id":"BE0000390",
+        "source":"Swiss-Prot",
+        "external_id":"P60880",
+        "polypeptide_name":"Synaptosomal-associated protein 25",
+        "gene_name":"SNAP25",
+        "genatlas_id":"SNAP25",
+        "chromosome":"20",
+        "cellular_location":"Cytoplasm"
+    },
+    {
+        "target_drugbank_id":"BE0003572",
+        "source":"Swiss-Prot",
+        "external_id":"P62745",
+        "polypeptide_name":"Rho-related GTP-binding protein RhoB",
+        "gene_name":"RHOB",
+        "genatlas_id":null,
+        "chromosome":"2",
+        "cellular_location":"Late endosome membrane"
+    },
+    {
+        "target_drugbank_id":"BE0004837",
+        "source":null,
+        "external_id":null,
+        "polypeptide_name":null,
+        "gene_name":null,
+        "genatlas_id":null,
+        "chromosome":null,
+        "cellular_location":null
+    },
+    {
+        "target_drugbank_id":"BE0000387",
+        "source":"Swiss-Prot",
+        "external_id":"P23945",
+        "polypeptide_name":"Follicle-stimulating hormone receptor",
+        "gene_name":"FSHR",
+        "genatlas_id":"FSHR",
+        "chromosome":"2",
+        "cellular_location":"Cell membrane"
+    },
+    {
+        "target_drugbank_id":"BE0000661",
+        "source":"Swiss-Prot",
+        "external_id":"P17181",
+        "polypeptide_name":"Interferon alpha\/beta receptor 1",
+        "gene_name":"IFNAR1",
+        "genatlas_id":"IFNAR1",
+        "chromosome":"21",
+        "cellular_location":"Membrane"
+    },
+    {
+        "target_drugbank_id":"BE0000385",
+        "source":"Swiss-Prot",
+        "external_id":"P48551",
+        "polypeptide_name":"Interferon alpha\/beta receptor 2",
+        "gene_name":"IFNAR2",
+        "genatlas_id":"IFNAR2",
+        "chromosome":"21",
+        "cellular_location":"Membrane"
+    },
+    {
+        "target_drugbank_id":"BE0000293",
+        "source":"Swiss-Prot",
+        "external_id":"P30518",
+        "polypeptide_name":"Vasopressin V2 receptor",
+        "gene_name":"AVPR2",
+        "genatlas_id":"AVPR2",
+        "chromosome":"X",
+        "cellular_location":"Cell membrane"
+    },
+    {
+        "target_drugbank_id":"BE0000165",
+        "source":"Swiss-Prot",
+        "external_id":"P37288",
+        "polypeptide_name":"Vasopressin V1a receptor",
+        "gene_name":"AVPR1A",
+        "genatlas_id":"AVPR1A",
+        "chromosome":"12",
+        "cellular_location":"Cell membrane"
+    },
+    {
+        "target_drugbank_id":"BE0000773",
+        "source":"Swiss-Prot",
+        "external_id":"P47901",
+        "polypeptide_name":"Vasopressin V1b receptor",
+        "gene_name":"AVPR1B",
+        "genatlas_id":"AVPR1B",
+        "chromosome":"1",
+        "cellular_location":"Cell membrane"
+    },
+    {
+        "target_drugbank_id":"BE0000658",
+        "source":"Swiss-Prot",
+        "external_id":"P01589",
+        "polypeptide_name":"Interleukin-2 receptor subunit alpha",
+        "gene_name":"IL2RA",
+        "genatlas_id":"IL2RA",
+        "chromosome":"10",
+        "cellular_location":"Membrane"
+    },
+    {
+        "target_drugbank_id":"BE0000651",
+        "source":"Swiss-Prot",
+        "external_id":"P14784",
+        "polypeptide_name":"Interleukin-2 receptor subunit beta",
+        "gene_name":"IL2RB",
+        "genatlas_id":"IL2RB",
+        "chromosome":"22",
+        "cellular_location":"Membrane"
+    },
+    {
+        "target_drugbank_id":"BE0001155",
+        "source":"Swiss-Prot",
+        "external_id":"P05106",
+        "polypeptide_name":"Integrin beta-3",
+        "gene_name":"ITGB3",
+        "genatlas_id":"ITGB3",
+        "chromosome":"17",
+        "cellular_location":"Cell membrane"
+    },
+    {
+        "target_drugbank_id":"BE0000439",
+        "source":"Swiss-Prot",
+        "external_id":"P08514",
+        "polypeptide_name":"Integrin alpha-IIb",
+        "gene_name":"ITGA2B",
+        "genatlas_id":"ITGA2B",
+        "chromosome":"17",
+        "cellular_location":"Membrane"
+    },
+    {
+        "target_drugbank_id":"BE0002098",
+        "source":"Swiss-Prot",
+        "external_id":"P12318",
+        "polypeptide_name":"Low affinity immunoglobulin gamma Fc region receptor II-a",
+        "gene_name":"FCGR2A",
+        "genatlas_id":"FCGR2A",
+        "chromosome":"1",
+        "cellular_location":"Cell membrane"
+    },
+    {
+        "target_drugbank_id":"BE0002099",
+        "source":"Swiss-Prot",
+        "external_id":"P31994",
+        "polypeptide_name":"Low affinity immunoglobulin gamma Fc region receptor II-b",
+        "gene_name":"FCGR2B",
+        "genatlas_id":"FCGR2B",
+        "chromosome":"1",
+        "cellular_location":"Cell membrane"
+    },
+    {
+        "target_drugbank_id":"BE0001068",
+        "source":"Swiss-Prot",
+        "external_id":"P04004",
+        "polypeptide_name":"Vitronectin",
+        "gene_name":"VTN",
+        "genatlas_id":"VTN",
+        "chromosome":"17",
+        "cellular_location":"Secreted"
+    },
+    {
+        "target_drugbank_id":"BE0000211",
+        "source":"Swiss-Prot",
+        "external_id":"P00747",
+        "polypeptide_name":"Plasminogen",
+        "gene_name":"PLG",
+        "genatlas_id":"PLG",
+        "chromosome":"6",
+        "cellular_location":"Secreted"
+    },
+    {
+        "target_drugbank_id":"BE0000538",
+        "source":"Swiss-Prot",
+        "external_id":"P02671",
+        "polypeptide_name":"Fibrinogen alpha chain",
+        "gene_name":"FGA",
+        "genatlas_id":"FGA",
+        "chromosome":"4",
+        "cellular_location":"Secreted"
+    },
+    {
+        "target_drugbank_id":"BE0000717",
+        "source":"Swiss-Prot",
+        "external_id":"Q03405",
+        "polypeptide_name":"Urokinase plasminogen activator surface receptor",
+        "gene_name":"PLAUR",
+        "genatlas_id":"PLAUR",
+        "chromosome":"19",
+        "cellular_location":"Cell membrane"
+    },
+    {
+        "target_drugbank_id":"BE0000240",
+        "source":"Swiss-Prot",
+        "external_id":"P05121",
+        "polypeptide_name":"Plasminogen activator inhibitor 1",
+        "gene_name":"SERPINE1",
+        "genatlas_id":"SERPINE1",
+        "chromosome":"7",
+        "cellular_location":"Secreted"
+    },
+    {
+        "target_drugbank_id":"BE0000969",
+        "source":"Swiss-Prot",
+        "external_id":"P05120",
+        "polypeptide_name":"Plasminogen activator inhibitor 2",
+        "gene_name":"SERPINB2",
+        "genatlas_id":"SERPINB2",
+        "chromosome":"18",
+        "cellular_location":"Cytoplasm"
+    },
+    {
+        "target_drugbank_id":"BE0002104",
+        "source":"Swiss-Prot",
+        "external_id":"P05452",
+        "polypeptide_name":"Tetranectin",
+        "gene_name":"CLEC3B",
+        "genatlas_id":"CLEC3B",
+        "chromosome":null,
+        "cellular_location":"Secreted"
+    },
+    {
+        "target_drugbank_id":"BE0002105",
+        "source":"Swiss-Prot",
+        "external_id":"P05787",
+        "polypeptide_name":"Keratin, type II cytoskeletal 8",
+        "gene_name":"KRT8",
+        "genatlas_id":"KRT8",
+        "chromosome":null,
+        "cellular_location":"Cytoplasm"
+    },
+    {
+        "target_drugbank_id":"BE0001170",
+        "source":"Swiss-Prot",
+        "external_id":"P07355",
+        "polypeptide_name":"Annexin A2",
+        "gene_name":"ANXA2",
+        "genatlas_id":"ANXA2",
+        "chromosome":"15",
+        "cellular_location":"Secreted"
+    },
+    {
+        "target_drugbank_id":"BE0002109",
+        "source":"Swiss-Prot",
+        "external_id":"P27797",
+        "polypeptide_name":"Calreticulin",
+        "gene_name":"CALR",
+        "genatlas_id":"CALR",
+        "chromosome":"19",
+        "cellular_location":"Endoplasmic reticulum lumen"
+    },
+    {
+        "target_drugbank_id":"BE0001011",
+        "source":"Swiss-Prot",
+        "external_id":"P27824",
+        "polypeptide_name":"Calnexin",
+        "gene_name":"CANX",
+        "genatlas_id":"CANX",
+        "chromosome":"5",
+        "cellular_location":"Endoplasmic reticulum membrane"
+    },
+    {
+        "target_drugbank_id":"BE0002110",
+        "source":"Swiss-Prot",
+        "external_id":"Q07954",
+        "polypeptide_name":"Prolow-density lipoprotein receptor-related protein 1",
+        "gene_name":"LRP1",
+        "genatlas_id":"LRP1",
+        "chromosome":"12",
+        "cellular_location":"Cell membrane"
+    },
+    {
+        "target_drugbank_id":"BE0001155",
+        "source":"Swiss-Prot",
+        "external_id":"P05106",
+        "polypeptide_name":"Integrin beta-3",
+        "gene_name":"ITGB3",
+        "genatlas_id":"ITGB3",
+        "chromosome":"17",
+        "cellular_location":"Cell membrane"
+    },
+    {
+        "target_drugbank_id":"BE0009351",
+        "source":"TrEMBL",
+        "external_id":"A0A024R8I1",
+        "polypeptide_name":"Voltage-dependent N-type calcium channel subunit alpha",
+        "gene_name":"CACNA1B",
+        "genatlas_id":null,
+        "chromosome":null,
+        "cellular_location":"Membrane"
+    },
+    {
+        "target_drugbank_id":"BE0000628",
+        "source":"Swiss-Prot",
+        "external_id":"P15509",
+        "polypeptide_name":"Granulocyte-macrophage colony-stimulating factor receptor subunit alpha",
+        "gene_name":"CSF2RA",
+        "genatlas_id":"CSF2RA",
+        "chromosome":"X, Y",
+        "cellular_location":"Cell membrane"
+    },
+    {
+        "target_drugbank_id":"BE0001036",
+        "source":"Swiss-Prot",
+        "external_id":"P26951",
+        "polypeptide_name":"Interleukin-3 receptor subunit alpha",
+        "gene_name":"IL3RA",
+        "genatlas_id":"IL3RA",
+        "chromosome":"X, Y",
+        "cellular_location":"Membrane"
+    },
+    {
+        "target_drugbank_id":"BE0002115",
+        "source":"Swiss-Prot",
+        "external_id":"P32927",
+        "polypeptide_name":"Cytokine receptor common subunit beta",
+        "gene_name":"CSF2RB",
+        "genatlas_id":"CSF2RB",
+        "chromosome":"22",
+        "cellular_location":"Membrane"
+    },
+    {
+        "target_drugbank_id":"BE0002116",
+        "source":"Swiss-Prot",
+        "external_id":"P34741",
+        "polypeptide_name":"Syndecan-2",
+        "gene_name":"SDC2",
+        "genatlas_id":"SDC2",
+        "chromosome":"8",
+        "cellular_location":"Membrane"
+    },
+    {
+        "target_drugbank_id":"BE0002114",
+        "source":"Swiss-Prot",
+        "external_id":"P13727",
+        "polypeptide_name":"Bone marrow proteoglycan",
+        "gene_name":"PRG2",
+        "genatlas_id":"PRG2",
+        "chromosome":"11",
+        "cellular_location":"Secreted"
+    },
+    {
+        "target_drugbank_id":"BE0000211",
+        "source":"Swiss-Prot",
+        "external_id":"P00747",
+        "polypeptide_name":"Plasminogen",
+        "gene_name":"PLG",
+        "genatlas_id":"PLG",
+        "chromosome":"6",
+        "cellular_location":"Secreted"
+    },
+    {
+        "target_drugbank_id":"BE0000717",
+        "source":"Swiss-Prot",
+        "external_id":"Q03405",
+        "polypeptide_name":"Urokinase plasminogen activator surface receptor",
+        "gene_name":"PLAUR",
+        "genatlas_id":"PLAUR",
+        "chromosome":"19",
+        "cellular_location":"Cell membrane"
+    },
+    {
+        "target_drugbank_id":"BE0000240",
+        "source":"Swiss-Prot",
+        "external_id":"P05121",
+        "polypeptide_name":"Plasminogen activator inhibitor 1",
+        "gene_name":"SERPINE1",
+        "genatlas_id":"SERPINE1",
+        "chromosome":"7",
+        "cellular_location":"Secreted"
+    },
+    {
+        "target_drugbank_id":"BE0000969",
+        "source":"Swiss-Prot",
+        "external_id":"P05120",
+        "polypeptide_name":"Plasminogen activator inhibitor 2",
+        "gene_name":"SERPINB2",
+        "genatlas_id":"SERPINB2",
+        "chromosome":"18",
+        "cellular_location":"Cytoplasm"
+    },
+    {
+        "target_drugbank_id":"BE0002112",
+        "source":"Swiss-Prot",
+        "external_id":"P05154",
+        "polypeptide_name":"Plasma serine protease inhibitor",
+        "gene_name":"SERPINA5",
+        "genatlas_id":"SERPINA5",
+        "chromosome":"14",
+        "cellular_location":"Secreted"
+    },
+    {
+        "target_drugbank_id":"BE0000942",
+        "source":"Swiss-Prot",
+        "external_id":"P98164",
+        "polypeptide_name":"Low-density lipoprotein receptor-related protein 2",
+        "gene_name":"LRP2",
+        "genatlas_id":"LRP2",
+        "chromosome":"2",
+        "cellular_location":"Membrane"
+    },
+    {
+        "target_drugbank_id":"BE0001656",
+        "source":"Swiss-Prot",
+        "external_id":"Q9Y5Y6",
+        "polypeptide_name":"Suppressor of tumorigenicity 14 protein",
+        "gene_name":"ST14",
+        "genatlas_id":"ST14",
+        "chromosome":"11",
+        "cellular_location":"Membrane"
+    },
+    {
+        "target_drugbank_id":"BE0002113",
+        "source":"Swiss-Prot",
+        "external_id":"P14543",
+        "polypeptide_name":"Nidogen-1",
+        "gene_name":"NID1",
+        "genatlas_id":"NID1",
+        "chromosome":"1",
+        "cellular_location":"Secreted"
+    },
+    {
+        "target_drugbank_id":"BE0000165",
+        "source":"Swiss-Prot",
+        "external_id":"P37288",
+        "polypeptide_name":"Vasopressin V1a receptor",
+        "gene_name":"AVPR1A",
+        "genatlas_id":"AVPR1A",
+        "chromosome":"12",
+        "cellular_location":"Cell membrane"
+    },
+    {
+        "target_drugbank_id":"BE0004830",
+        "source":null,
+        "external_id":null,
+        "polypeptide_name":null,
+        "gene_name":null,
+        "genatlas_id":null,
+        "chromosome":null,
+        "cellular_location":null
+    },
+    {
+        "target_drugbank_id":"BE0000661",
+        "source":"Swiss-Prot",
+        "external_id":"P17181",
+        "polypeptide_name":"Interferon alpha\/beta receptor 1",
+        "gene_name":"IFNAR1",
+        "genatlas_id":"IFNAR1",
+        "chromosome":"21",
+        "cellular_location":"Membrane"
+    },
+    {
+        "target_drugbank_id":"BE0000385",
+        "source":"Swiss-Prot",
+        "external_id":"P48551",
+        "polypeptide_name":"Interferon alpha\/beta receptor 2",
+        "gene_name":"IFNAR2",
+        "genatlas_id":"IFNAR2",
+        "chromosome":"21",
+        "cellular_location":"Membrane"
+    },
+    {
+        "target_drugbank_id":"BE0003456",
+        "source":"Swiss-Prot",
+        "external_id":"P04234",
+        "polypeptide_name":"T-cell surface glycoprotein CD3 delta chain",
+        "gene_name":"CD3D",
+        "genatlas_id":"CD3D",
+        "chromosome":"11",
+        "cellular_location":"Membrane"
+    },
+    {
+        "target_drugbank_id":"BE0000274",
+        "source":"Swiss-Prot",
+        "external_id":"P07766",
+        "polypeptide_name":"T-cell surface glycoprotein CD3 epsilon chain",
+        "gene_name":"CD3E",
+        "genatlas_id":"CD3E",
+        "chromosome":"11",
+        "cellular_location":"Cell membrane"
+    },
+    {
+        "target_drugbank_id":"BE0003457",
+        "source":"Swiss-Prot",
+        "external_id":"P09693",
+        "polypeptide_name":"T-cell surface glycoprotein CD3 gamma chain",
+        "gene_name":"CD3G",
+        "genatlas_id":"CD3G",
+        "chromosome":"11",
+        "cellular_location":"Membrane"
+    },
+    {
+        "target_drugbank_id":"BE0003458",
+        "source":"Swiss-Prot",
+        "external_id":"P20963",
+        "polypeptide_name":"T-cell surface glycoprotein CD3 zeta chain",
+        "gene_name":"CD247",
+        "genatlas_id":"CD247",
+        "chromosome":"1",
+        "cellular_location":"Membrane"
+    },
+    {
+        "target_drugbank_id":"BE0000901",
+        "source":"Swiss-Prot",
+        "external_id":"O75015",
+        "polypeptide_name":"Low affinity immunoglobulin gamma Fc region receptor III-B",
+        "gene_name":"FCGR3B",
+        "genatlas_id":"FCGR3B",
+        "chromosome":"1",
+        "cellular_location":"Cell membrane"
+    },
+    {
+        "target_drugbank_id":"BE0004806",
+        "source":null,
+        "external_id":null,
+        "polypeptide_name":null,
+        "gene_name":null,
+        "genatlas_id":null,
+        "chromosome":null,
+        "cellular_location":null
+    },
+    {
+        "target_drugbank_id":"BE0000654",
+        "source":"Swiss-Prot",
+        "external_id":"P19235",
+        "polypeptide_name":"Erythropoietin receptor",
+        "gene_name":"EPOR",
+        "genatlas_id":"EPOR",
+        "chromosome":"19",
+        "cellular_location":"Cell membrane"
+    },
+    {
+        "target_drugbank_id":"BE0000710",
+        "source":"Swiss-Prot",
+        "external_id":"P12314",
+        "polypeptide_name":"High affinity immunoglobulin gamma Fc receptor I",
+        "gene_name":"FCGR1A",
+        "genatlas_id":"FCGR1A",
+        "chromosome":"1",
+        "cellular_location":"Cell membrane"
+    },
+    {
+        "target_drugbank_id":"BE0004684",
+        "source":"Swiss-Prot",
+        "external_id":"Q92637",
+        "polypeptide_name":"High affinity immunoglobulin gamma Fc receptor IB",
+        "gene_name":"FCGR1B",
+        "genatlas_id":null,
+        "chromosome":"1",
+        "cellular_location":"Cell membrane"
+    },
+    {
+        "target_drugbank_id":"BE0002098",
+        "source":"Swiss-Prot",
+        "external_id":"P12318",
+        "polypeptide_name":"Low affinity immunoglobulin gamma Fc region receptor II-a",
+        "gene_name":"FCGR2A",
+        "genatlas_id":"FCGR2A",
+        "chromosome":"1",
+        "cellular_location":"Cell membrane"
+    },
+    {
+        "target_drugbank_id":"BE0002099",
+        "source":"Swiss-Prot",
+        "external_id":"P31994",
+        "polypeptide_name":"Low affinity immunoglobulin gamma Fc region receptor II-b",
+        "gene_name":"FCGR2B",
+        "genatlas_id":"FCGR2B",
+        "chromosome":"1",
+        "cellular_location":"Cell membrane"
+    },
+    {
+        "target_drugbank_id":"BE0002100",
+        "source":"Swiss-Prot",
+        "external_id":"P31995",
+        "polypeptide_name":"Low affinity immunoglobulin gamma Fc region receptor II-c",
+        "gene_name":"FCGR2C",
+        "genatlas_id":"FCGR2C",
+        "chromosome":"1",
+        "cellular_location":"Cytoplasm"
+    },
+    {
+        "target_drugbank_id":"BE0002097",
+        "source":"Swiss-Prot",
+        "external_id":"P08637",
+        "polypeptide_name":"Low affinity immunoglobulin gamma Fc region receptor III-A",
+        "gene_name":"FCGR3A",
+        "genatlas_id":"FCGR3A",
+        "chromosome":"1",
+        "cellular_location":"Cell membrane"
+    },
+    {
+        "target_drugbank_id":"BE0000901",
+        "source":"Swiss-Prot",
+        "external_id":"O75015",
+        "polypeptide_name":"Low affinity immunoglobulin gamma Fc region receptor III-B",
+        "gene_name":"FCGR3B",
+        "genatlas_id":"FCGR3B",
+        "chromosome":"1",
+        "cellular_location":"Cell membrane"
+    },
+    {
+        "target_drugbank_id":"BE0003455",
+        "source":"Swiss-Prot",
+        "external_id":"P01024",
+        "polypeptide_name":"Complement C3",
+        "gene_name":"C3",
+        "genatlas_id":"C3",
+        "chromosome":"19",
+        "cellular_location":"Secreted"
+    },
+    {
+        "target_drugbank_id":"BE0004685",
+        "source":"Swiss-Prot",
+        "external_id":"P0C0L4",
+        "polypeptide_name":"Complement C4-A",
+        "gene_name":"C4A",
+        "genatlas_id":null,
+        "chromosome":"6",
+        "cellular_location":"Secreted"
+    },
+    {
+        "target_drugbank_id":"BE0004686",
+        "source":"Swiss-Prot",
+        "external_id":"P0C0L5",
+        "polypeptide_name":"Complement C4-B",
+        "gene_name":"C4B",
+        "genatlas_id":null,
+        "chromosome":null,
+        "cellular_location":"Secreted"
+    },
+    {
+        "target_drugbank_id":"BE0000855",
+        "source":"Swiss-Prot",
+        "external_id":"P01031",
+        "polypeptide_name":"Complement C5",
+        "gene_name":"C5",
+        "genatlas_id":"C5",
+        "chromosome":"9",
+        "cellular_location":"Secreted"
+    },
+    {
+        "target_drugbank_id":"BE0000394",
+        "source":"Swiss-Prot",
+        "external_id":"P08246",
+        "polypeptide_name":"Neutrophil elastase",
+        "gene_name":"ELANE",
+        "genatlas_id":"ELA2",
+        "chromosome":"19",
+        "cellular_location":"Cytoplasmic"
+    },
+    {
+        "target_drugbank_id":"BE0000134",
+        "source":"Swiss-Prot",
+        "external_id":"P22888",
+        "polypeptide_name":"Lutropin-choriogonadotropic hormone receptor",
+        "gene_name":"LHCGR",
+        "genatlas_id":"LHCGR",
+        "chromosome":"2",
+        "cellular_location":"Cell membrane"
+    },
+    {
+        "target_drugbank_id":"BE0000387",
+        "source":"Swiss-Prot",
+        "external_id":"P23945",
+        "polypeptide_name":"Follicle-stimulating hormone receptor",
+        "gene_name":"FSHR",
+        "genatlas_id":"FSHR",
+        "chromosome":"2",
+        "cellular_location":"Cell membrane"
+    },
+    {
+        "target_drugbank_id":"BE0000048",
+        "source":"Swiss-Prot",
+        "external_id":"P00734",
+        "polypeptide_name":"Prothrombin",
+        "gene_name":"F2",
+        "genatlas_id":"F2",
+        "chromosome":"11",
+        "cellular_location":"Secreted"
+    },
+    {
+        "target_drugbank_id":"BE0000390",
+        "source":"Swiss-Prot",
+        "external_id":"P60880",
+        "polypeptide_name":"Synaptosomal-associated protein 25",
+        "gene_name":"SNAP25",
+        "genatlas_id":"SNAP25",
+        "chromosome":"20",
+        "cellular_location":"Cytoplasm"
+    },
+    {
+        "target_drugbank_id":"BE0003572",
+        "source":"Swiss-Prot",
+        "external_id":"P62745",
+        "polypeptide_name":"Rho-related GTP-binding protein RhoB",
+        "gene_name":"RHOB",
+        "genatlas_id":null,
+        "chromosome":"2",
+        "cellular_location":"Late endosome membrane"
+    },
+    {
+        "target_drugbank_id":"BE0004828",
+        "source":null,
+        "external_id":null,
+        "polypeptide_name":null,
+        "gene_name":null,
+        "genatlas_id":null,
+        "chromosome":null,
+        "cellular_location":null
+    },
+    {
+        "target_drugbank_id":"BE0000917",
+        "source":"Swiss-Prot",
+        "external_id":"P62993",
+        "polypeptide_name":"Growth factor receptor-bound protein 2",
+        "gene_name":"GRB2",
+        "genatlas_id":"GRB2",
+        "chromosome":"17",
+        "cellular_location":"Nucleus"
+    },
+    {
+        "target_drugbank_id":"BE0000654",
+        "source":"Swiss-Prot",
+        "external_id":"P19235",
+        "polypeptide_name":"Erythropoietin receptor",
+        "gene_name":"EPOR",
+        "genatlas_id":"EPOR",
+        "chromosome":"19",
+        "cellular_location":"Cell membrane"
+    },
+    {
+        "target_drugbank_id":"BE0000654",
+        "source":"Swiss-Prot",
+        "external_id":"P19235",
+        "polypeptide_name":"Erythropoietin receptor",
+        "gene_name":"EPOR",
+        "genatlas_id":"EPOR",
+        "chromosome":"19",
+        "cellular_location":"Cell membrane"
+    },
+    {
+        "target_drugbank_id":"BE0000704",
+        "source":"Swiss-Prot",
+        "external_id":"P01375",
+        "polypeptide_name":"Tumor necrosis factor",
+        "gene_name":"TNF",
+        "genatlas_id":"TNF",
+        "chromosome":"6",
+        "cellular_location":"Cell membrane"
+    },
+    {
+        "target_drugbank_id":"BE0001087",
+        "source":"Swiss-Prot",
+        "external_id":"P01374",
+        "polypeptide_name":"Lymphotoxin-alpha",
+        "gene_name":"LTA",
+        "genatlas_id":"LTA",
+        "chromosome":"6",
+        "cellular_location":"Secreted"
+    },
+    {
+        "target_drugbank_id":"BE0000710",
+        "source":"Swiss-Prot",
+        "external_id":"P12314",
+        "polypeptide_name":"High affinity immunoglobulin gamma Fc receptor I",
+        "gene_name":"FCGR1A",
+        "genatlas_id":"FCGR1A",
+        "chromosome":"1",
+        "cellular_location":"Cell membrane"
+    },
+    {
+        "target_drugbank_id":"BE0002098",
+        "source":"Swiss-Prot",
+        "external_id":"P12318",
+        "polypeptide_name":"Low affinity immunoglobulin gamma Fc region receptor II-a",
+        "gene_name":"FCGR2A",
+        "genatlas_id":"FCGR2A",
+        "chromosome":"1",
+        "cellular_location":"Cell membrane"
+    },
+    {
+        "target_drugbank_id":"BE0002099",
+        "source":"Swiss-Prot",
+        "external_id":"P31994",
+        "polypeptide_name":"Low affinity immunoglobulin gamma Fc region receptor II-b",
+        "gene_name":"FCGR2B",
+        "genatlas_id":"FCGR2B",
+        "chromosome":"1",
+        "cellular_location":"Cell membrane"
+    },
+    {
+        "target_drugbank_id":"BE0002100",
+        "source":"Swiss-Prot",
+        "external_id":"P31995",
+        "polypeptide_name":"Low affinity immunoglobulin gamma Fc region receptor II-c",
+        "gene_name":"FCGR2C",
+        "genatlas_id":"FCGR2C",
+        "chromosome":"1",
+        "cellular_location":"Cytoplasm"
+    },
+    {
+        "target_drugbank_id":"BE0002097",
+        "source":"Swiss-Prot",
+        "external_id":"P08637",
+        "polypeptide_name":"Low affinity immunoglobulin gamma Fc region receptor III-A",
+        "gene_name":"FCGR3A",
+        "genatlas_id":"FCGR3A",
+        "chromosome":"1",
+        "cellular_location":"Cell membrane"
+    },
+    {
+        "target_drugbank_id":"BE0000901",
+        "source":"Swiss-Prot",
+        "external_id":"O75015",
+        "polypeptide_name":"Low affinity immunoglobulin gamma Fc region receptor III-B",
+        "gene_name":"FCGR3B",
+        "genatlas_id":"FCGR3B",
+        "chromosome":"1",
+        "cellular_location":"Cell membrane"
+    },
+    {
+        "target_drugbank_id":"BE0009995",
+        "source":"Swiss-Prot",
+        "external_id":"P02745",
+        "polypeptide_name":"Complement C1q subcomponent subunit A",
+        "gene_name":"C1QA",
+        "genatlas_id":"C1QA",
+        "chromosome":"1",
+        "cellular_location":"Secreted"
+    },
+    {
+        "target_drugbank_id":"BE0000211",
+        "source":"Swiss-Prot",
+        "external_id":"P00747",
+        "polypeptide_name":"Plasminogen",
+        "gene_name":"PLG",
+        "genatlas_id":"PLG",
+        "chromosome":"6",
+        "cellular_location":"Secreted"
+    },
+    {
+        "target_drugbank_id":"BE0000717",
+        "source":"Swiss-Prot",
+        "external_id":"Q03405",
+        "polypeptide_name":"Urokinase plasminogen activator surface receptor",
+        "gene_name":"PLAUR",
+        "genatlas_id":"PLAUR",
+        "chromosome":"19",
+        "cellular_location":"Cell membrane"
+    },
+    {
+        "target_drugbank_id":"BE0000240",
+        "source":"Swiss-Prot",
+        "external_id":"P05121",
+        "polypeptide_name":"Plasminogen activator inhibitor 1",
+        "gene_name":"SERPINE1",
+        "genatlas_id":"SERPINE1",
+        "chromosome":"7",
+        "cellular_location":"Secreted"
+    },
+    {
+        "target_drugbank_id":"BE0000969",
+        "source":"Swiss-Prot",
+        "external_id":"P05120",
+        "polypeptide_name":"Plasminogen activator inhibitor 2",
+        "gene_name":"SERPINB2",
+        "genatlas_id":"SERPINB2",
+        "chromosome":"18",
+        "cellular_location":"Cytoplasm"
+    },
+    {
+        "target_drugbank_id":"BE0002112",
+        "source":"Swiss-Prot",
+        "external_id":"P05154",
+        "polypeptide_name":"Plasma serine protease inhibitor",
+        "gene_name":"SERPINA5",
+        "genatlas_id":"SERPINA5",
+        "chromosome":"14",
+        "cellular_location":"Secreted"
+    },
+    {
+        "target_drugbank_id":"BE0000942",
+        "source":"Swiss-Prot",
+        "external_id":"P98164",
+        "polypeptide_name":"Low-density lipoprotein receptor-related protein 2",
+        "gene_name":"LRP2",
+        "genatlas_id":"LRP2",
+        "chromosome":"2",
+        "cellular_location":"Membrane"
+    },
+    {
+        "target_drugbank_id":"BE0001656",
+        "source":"Swiss-Prot",
+        "external_id":"Q9Y5Y6",
+        "polypeptide_name":"Suppressor of tumorigenicity 14 protein",
+        "gene_name":"ST14",
+        "genatlas_id":"ST14",
+        "chromosome":"11",
+        "cellular_location":"Membrane"
+    },
+    {
+        "target_drugbank_id":"BE0002113",
+        "source":"Swiss-Prot",
+        "external_id":"P14543",
+        "polypeptide_name":"Nidogen-1",
+        "gene_name":"NID1",
+        "genatlas_id":"NID1",
+        "chromosome":"1",
+        "cellular_location":"Secreted"
+    },
+    {
+        "target_drugbank_id":"BE0000661",
+        "source":"Swiss-Prot",
+        "external_id":"P17181",
+        "polypeptide_name":"Interferon alpha\/beta receptor 1",
+        "gene_name":"IFNAR1",
+        "genatlas_id":"IFNAR1",
+        "chromosome":"21",
+        "cellular_location":"Membrane"
+    },
+    {
+        "target_drugbank_id":"BE0000385",
+        "source":"Swiss-Prot",
+        "external_id":"P48551",
+        "polypeptide_name":"Interferon alpha\/beta receptor 2",
+        "gene_name":"IFNAR2",
+        "genatlas_id":"IFNAR2",
+        "chromosome":"21",
+        "cellular_location":"Membrane"
+    },
+    {
+        "target_drugbank_id":"BE0000134",
+        "source":"Swiss-Prot",
+        "external_id":"P22888",
+        "polypeptide_name":"Lutropin-choriogonadotropic hormone receptor",
+        "gene_name":"LHCGR",
+        "genatlas_id":"LHCGR",
+        "chromosome":"2",
+        "cellular_location":"Cell membrane"
+    },
+    {
+        "target_drugbank_id":"BE0000387",
+        "source":"Swiss-Prot",
+        "external_id":"P23945",
+        "polypeptide_name":"Follicle-stimulating hormone receptor",
+        "gene_name":"FSHR",
+        "genatlas_id":"FSHR",
+        "chromosome":"2",
+        "cellular_location":"Cell membrane"
+    },
+    {
+        "target_drugbank_id":"BE0004834",
+        "source":null,
+        "external_id":null,
+        "polypeptide_name":null,
+        "gene_name":null,
+        "genatlas_id":null,
+        "chromosome":null,
+        "cellular_location":null
+    },
+    {
+        "target_drugbank_id":"BE0004835",
+        "source":null,
+        "external_id":null,
+        "polypeptide_name":null,
+        "gene_name":null,
+        "genatlas_id":null,
+        "chromosome":null,
+        "cellular_location":null
+    },
+    {
+        "target_drugbank_id":"BE0004836",
+        "source":null,
+        "external_id":null,
+        "polypeptide_name":null,
+        "gene_name":null,
+        "genatlas_id":null,
+        "chromosome":null,
+        "cellular_location":null
+    },
+    {
+        "target_drugbank_id":"BE0000216",
+        "source":"Swiss-Prot",
+        "external_id":"P00742",
+        "polypeptide_name":"Coagulation factor X",
+        "gene_name":"F10",
+        "genatlas_id":"F10",
+        "chromosome":"13",
+        "cellular_location":"Secreted"
+    },
+    {
+        "target_drugbank_id":"BE0001178",
+        "source":"Swiss-Prot",
+        "external_id":"P13726",
+        "polypeptide_name":"Tissue factor",
+        "gene_name":"F3",
+        "genatlas_id":"F3",
+        "chromosome":"1",
+        "cellular_location":"Membrane"
+    },
+    {
+        "target_drugbank_id":"BE0000967",
+        "source":"Swiss-Prot",
+        "external_id":"P10646",
+        "polypeptide_name":"Tissue factor pathway inhibitor",
+        "gene_name":"TFPI",
+        "genatlas_id":"TFPI",
+        "chromosome":"2",
+        "cellular_location":"Secreted"
+    },
+    {
+        "target_drugbank_id":"BE0000403",
+        "source":"Swiss-Prot",
+        "external_id":"P38435",
+        "polypeptide_name":"Vitamin K-dependent gamma-carboxylase",
+        "gene_name":"GGCX",
+        "genatlas_id":"GGCX",
+        "chromosome":"2",
+        "cellular_location":"Endoplasmic reticulum membrane"
+    },
+    {
+        "target_drugbank_id":"BE0000333",
+        "source":"Swiss-Prot",
+        "external_id":"P08709",
+        "polypeptide_name":"Coagulation factor VII",
+        "gene_name":"F7",
+        "genatlas_id":"F7",
+        "chromosome":"13",
+        "cellular_location":"Secreted"
+    },
+    {
+        "target_drugbank_id":"BE0004837",
+        "source":null,
+        "external_id":null,
+        "polypeptide_name":null,
+        "gene_name":null,
+        "genatlas_id":null,
+        "chromosome":null,
+        "cellular_location":null
+    },
+    {
+        "target_drugbank_id":"BE0000134",
+        "source":"Swiss-Prot",
+        "external_id":"P22888",
+        "polypeptide_name":"Lutropin-choriogonadotropic hormone receptor",
+        "gene_name":"LHCGR",
+        "genatlas_id":"LHCGR",
+        "chromosome":"2",
+        "cellular_location":"Cell membrane"
+    },
+    {
+        "target_drugbank_id":"BE0000216",
+        "source":"Swiss-Prot",
+        "external_id":"P00742",
+        "polypeptide_name":"Coagulation factor X",
+        "gene_name":"F10",
+        "genatlas_id":"F10",
+        "chromosome":"13",
+        "cellular_location":"Secreted"
+    },
+    {
+        "target_drugbank_id":"BE0001178",
+        "source":"Swiss-Prot",
+        "external_id":"P13726",
+        "polypeptide_name":"Tissue factor",
+        "gene_name":"F3",
+        "genatlas_id":"F3",
+        "chromosome":"1",
+        "cellular_location":"Membrane"
+    },
+    {
+        "target_drugbank_id":"BE0000967",
+        "source":"Swiss-Prot",
+        "external_id":"P10646",
+        "polypeptide_name":"Tissue factor pathway inhibitor",
+        "gene_name":"TFPI",
+        "genatlas_id":"TFPI",
+        "chromosome":"2",
+        "cellular_location":"Secreted"
+    },
+    {
+        "target_drugbank_id":"BE0000403",
+        "source":"Swiss-Prot",
+        "external_id":"P38435",
+        "polypeptide_name":"Vitamin K-dependent gamma-carboxylase",
+        "gene_name":"GGCX",
+        "genatlas_id":"GGCX",
+        "chromosome":"2",
+        "cellular_location":"Endoplasmic reticulum membrane"
+    },
+    {
+        "target_drugbank_id":"BE0000333",
+        "source":"Swiss-Prot",
+        "external_id":"P08709",
+        "polypeptide_name":"Coagulation factor VII",
+        "gene_name":"F7",
+        "genatlas_id":"F7",
+        "chromosome":"13",
+        "cellular_location":"Secreted"
+    },
+    {
+        "target_drugbank_id":"BE0004842",
+        "source":null,
+        "external_id":null,
+        "polypeptide_name":null,
+        "gene_name":null,
+        "genatlas_id":null,
+        "chromosome":null,
+        "cellular_location":null
+    },
+    {
+        "target_drugbank_id":"BE0000654",
+        "source":"Swiss-Prot",
+        "external_id":"P19235",
+        "polypeptide_name":"Erythropoietin receptor",
+        "gene_name":"EPOR",
+        "genatlas_id":"EPOR",
+        "chromosome":"19",
+        "cellular_location":"Cell membrane"
+    },
+    {
+        "target_drugbank_id":"BE0000590",
+        "source":"Swiss-Prot",
+        "external_id":"P13612",
+        "polypeptide_name":"Integrin alpha-4",
+        "gene_name":"ITGA4",
+        "genatlas_id":"ITGA4",
+        "chromosome":"2",
+        "cellular_location":"Membrane"
+    },
+    {
+        "target_drugbank_id":"BE0000901",
+        "source":"Swiss-Prot",
+        "external_id":"O75015",
+        "polypeptide_name":"Low affinity immunoglobulin gamma Fc region receptor III-B",
+        "gene_name":"FCGR3B",
+        "genatlas_id":"FCGR3B",
+        "chromosome":"1",
+        "cellular_location":"Cell membrane"
+    },
+    {
+        "target_drugbank_id":"BE0000710",
+        "source":"Swiss-Prot",
+        "external_id":"P12314",
+        "polypeptide_name":"High affinity immunoglobulin gamma Fc receptor I",
+        "gene_name":"FCGR1A",
+        "genatlas_id":"FCGR1A",
+        "chromosome":"1",
+        "cellular_location":"Cell membrane"
+    },
+    {
+        "target_drugbank_id":"BE0001085",
+        "source":"Swiss-Prot",
+        "external_id":"P05362",
+        "polypeptide_name":"Intercellular adhesion molecule 1",
+        "gene_name":"ICAM1",
+        "genatlas_id":"ICAM1",
+        "chromosome":"19",
+        "cellular_location":"Membrane"
+    },
+    {
+        "target_drugbank_id":"BE0000211",
+        "source":"Swiss-Prot",
+        "external_id":"P00747",
+        "polypeptide_name":"Plasminogen",
+        "gene_name":"PLG",
+        "genatlas_id":"PLG",
+        "chromosome":"6",
+        "cellular_location":"Secreted"
+    },
+    {
+        "target_drugbank_id":"BE0000717",
+        "source":"Swiss-Prot",
+        "external_id":"Q03405",
+        "polypeptide_name":"Urokinase plasminogen activator surface receptor",
+        "gene_name":"PLAUR",
+        "genatlas_id":"PLAUR",
+        "chromosome":"19",
+        "cellular_location":"Cell membrane"
+    },
+    {
+        "target_drugbank_id":"BE0000240",
+        "source":"Swiss-Prot",
+        "external_id":"P05121",
+        "polypeptide_name":"Plasminogen activator inhibitor 1",
+        "gene_name":"SERPINE1",
+        "genatlas_id":"SERPINE1",
+        "chromosome":"7",
+        "cellular_location":"Secreted"
+    },
+    {
+        "target_drugbank_id":"BE0000969",
+        "source":"Swiss-Prot",
+        "external_id":"P05120",
+        "polypeptide_name":"Plasminogen activator inhibitor 2",
+        "gene_name":"SERPINB2",
+        "genatlas_id":"SERPINB2",
+        "chromosome":"18",
+        "cellular_location":"Cytoplasm"
+    },
+    {
+        "target_drugbank_id":"BE0002112",
+        "source":"Swiss-Prot",
+        "external_id":"P05154",
+        "polypeptide_name":"Plasma serine protease inhibitor",
+        "gene_name":"SERPINA5",
+        "genatlas_id":"SERPINA5",
+        "chromosome":"14",
+        "cellular_location":"Secreted"
+    },
+    {
+        "target_drugbank_id":"BE0000942",
+        "source":"Swiss-Prot",
+        "external_id":"P98164",
+        "polypeptide_name":"Low-density lipoprotein receptor-related protein 2",
+        "gene_name":"LRP2",
+        "genatlas_id":"LRP2",
+        "chromosome":"2",
+        "cellular_location":"Membrane"
+    },
+    {
+        "target_drugbank_id":"BE0001656",
+        "source":"Swiss-Prot",
+        "external_id":"Q9Y5Y6",
+        "polypeptide_name":"Suppressor of tumorigenicity 14 protein",
+        "gene_name":"ST14",
+        "genatlas_id":"ST14",
+        "chromosome":"11",
+        "cellular_location":"Membrane"
+    },
+    {
+        "target_drugbank_id":"BE0002113",
+        "source":"Swiss-Prot",
+        "external_id":"P14543",
+        "polypeptide_name":"Nidogen-1",
+        "gene_name":"NID1",
+        "genatlas_id":"NID1",
+        "chromosome":"1",
+        "cellular_location":"Secreted"
+    },
+    {
+        "target_drugbank_id":"BE0000033",
+        "source":"Swiss-Prot",
+        "external_id":"P06213",
+        "polypeptide_name":"Insulin receptor",
+        "gene_name":"INSR",
+        "genatlas_id":"INSR",
+        "chromosome":"19",
+        "cellular_location":"Cell membrane"
+    },
+    {
+        "target_drugbank_id":"BE0000858",
+        "source":"Swiss-Prot",
+        "external_id":"P08069",
+        "polypeptide_name":"Insulin-like growth factor 1 receptor",
+        "gene_name":"IGF1R",
+        "genatlas_id":"IGF1R",
+        "chromosome":"15",
+        "cellular_location":"Cell membrane"
+    },
+    {
+        "target_drugbank_id":"BE0004796",
+        "source":null,
+        "external_id":null,
+        "polypeptide_name":null,
+        "gene_name":null,
+        "genatlas_id":null,
+        "chromosome":null,
+        "cellular_location":null
+    },
+    {
+        "target_drugbank_id":"BE0000033",
+        "source":"Swiss-Prot",
+        "external_id":"P06213",
+        "polypeptide_name":"Insulin receptor",
+        "gene_name":"INSR",
+        "genatlas_id":"INSR",
+        "chromosome":"19",
+        "cellular_location":"Cell membrane"
+    },
+    {
+        "target_drugbank_id":"BE0000858",
+        "source":"Swiss-Prot",
+        "external_id":"P08069",
+        "polypeptide_name":"Insulin-like growth factor 1 receptor",
+        "gene_name":"IGF1R",
+        "genatlas_id":"IGF1R",
+        "chromosome":"15",
+        "cellular_location":"Cell membrane"
+    },
+    {
+        "target_drugbank_id":"BE0000748",
+        "source":"Swiss-Prot",
+        "external_id":"P21802",
+        "polypeptide_name":"Fibroblast growth factor receptor 2",
+        "gene_name":"FGFR2",
+        "genatlas_id":"FGFR2",
+        "chromosome":"10",
+        "cellular_location":"Cell membrane"
+    },
+    {
+        "target_drugbank_id":"BE0002131",
+        "source":"Swiss-Prot",
+        "external_id":"P11362",
+        "polypeptide_name":"Fibroblast growth factor receptor 1",
+        "gene_name":"FGFR1",
+        "genatlas_id":"FGFR1",
+        "chromosome":"8",
+        "cellular_location":"Cell membrane"
+    },
+    {
+        "target_drugbank_id":"BE0001031",
+        "source":"Swiss-Prot",
+        "external_id":"P98160",
+        "polypeptide_name":"Basement membrane-specific heparan sulfate proteoglycan core protein",
+        "gene_name":"HSPG2",
+        "genatlas_id":"HSPG2",
+        "chromosome":"1",
+        "cellular_location":"Secreted"
+    },
+    {
+        "target_drugbank_id":"BE0004837",
+        "source":null,
+        "external_id":null,
+        "polypeptide_name":null,
+        "gene_name":null,
+        "genatlas_id":null,
+        "chromosome":null,
+        "cellular_location":null
+    },
+    {
+        "target_drugbank_id":"BE0004842",
+        "source":null,
+        "external_id":null,
+        "polypeptide_name":null,
+        "gene_name":null,
+        "genatlas_id":null,
+        "chromosome":null,
+        "cellular_location":null
+    },
+    {
+        "target_drugbank_id":"BE0000793",
+        "source":"Swiss-Prot",
+        "external_id":"Q99062",
+        "polypeptide_name":"Granulocyte colony-stimulating factor receptor",
+        "gene_name":"CSF3R",
+        "genatlas_id":"CSF3R",
+        "chromosome":"1",
+        "cellular_location":"Secreted"
+    },
+    {
+        "target_drugbank_id":"BE0000661",
+        "source":"Swiss-Prot",
+        "external_id":"P17181",
+        "polypeptide_name":"Interferon alpha\/beta receptor 1",
+        "gene_name":"IFNAR1",
+        "genatlas_id":"IFNAR1",
+        "chromosome":"21",
+        "cellular_location":"Membrane"
+    },
+    {
+        "target_drugbank_id":"BE0000385",
+        "source":"Swiss-Prot",
+        "external_id":"P48551",
+        "polypeptide_name":"Interferon alpha\/beta receptor 2",
+        "gene_name":"IFNAR2",
+        "genatlas_id":"IFNAR2",
+        "chromosome":"21",
+        "cellular_location":"Membrane"
+    },
+    {
+        "target_drugbank_id":"BE0000216",
+        "source":"Swiss-Prot",
+        "external_id":"P00742",
+        "polypeptide_name":"Coagulation factor X",
+        "gene_name":"F10",
+        "genatlas_id":"F10",
+        "chromosome":"13",
+        "cellular_location":"Secreted"
+    },
+    {
+        "target_drugbank_id":"BE0000364",
+        "source":"Swiss-Prot",
+        "external_id":"P00740",
+        "polypeptide_name":"Coagulation factor IX",
+        "gene_name":"F9",
+        "genatlas_id":"F9",
+        "chromosome":"X",
+        "cellular_location":"Secreted"
+    },
+    {
+        "target_drugbank_id":"BE0001043",
+        "source":"Swiss-Prot",
+        "external_id":"P04275",
+        "polypeptide_name":"von Willebrand factor",
+        "gene_name":"VWF",
+        "genatlas_id":"VWF",
+        "chromosome":"12",
+        "cellular_location":"Secreted"
+    },
+    {
+        "target_drugbank_id":"BE0002117",
+        "source":"Swiss-Prot",
+        "external_id":"O14832",
+        "polypeptide_name":"Phytanoyl-CoA dioxygenase, peroxisomal",
+        "gene_name":"PHYH",
+        "genatlas_id":"PHYH",
+        "chromosome":"10",
+        "cellular_location":"Peroxisome"
+    },
+    {
+        "target_drugbank_id":"BE0002118",
+        "source":"Swiss-Prot",
+        "external_id":"P07307",
+        "polypeptide_name":"Asialoglycoprotein receptor 2",
+        "gene_name":"ASGR2",
+        "genatlas_id":"ASGR2",
+        "chromosome":"17",
+        "cellular_location":"Membrane"
+    },
+    {
+        "target_drugbank_id":"BE0001098",
+        "source":"Swiss-Prot",
+        "external_id":"P11021",
+        "polypeptide_name":"78 kDa glucose-regulated protein",
+        "gene_name":"HSPA5",
+        "genatlas_id":"HSPA5",
+        "chromosome":"9",
+        "cellular_location":"Endoplasmic reticulum lumen"
+    },
+    {
+        "target_drugbank_id":"BE0002109",
+        "source":"Swiss-Prot",
+        "external_id":"P27797",
+        "polypeptide_name":"Calreticulin",
+        "gene_name":"CALR",
+        "genatlas_id":"CALR",
+        "chromosome":"19",
+        "cellular_location":"Endoplasmic reticulum lumen"
+    },
+    {
+        "target_drugbank_id":"BE0001011",
+        "source":"Swiss-Prot",
+        "external_id":"P27824",
+        "polypeptide_name":"Calnexin",
+        "gene_name":"CANX",
+        "genatlas_id":"CANX",
+        "chromosome":"5",
+        "cellular_location":"Endoplasmic reticulum membrane"
+    },
+    {
+        "target_drugbank_id":"BE0002119",
+        "source":"Swiss-Prot",
+        "external_id":"P49257",
+        "polypeptide_name":"Protein ERGIC-53",
+        "gene_name":"LMAN1",
+        "genatlas_id":"LMAN1",
+        "chromosome":"18",
+        "cellular_location":"Endoplasmic reticulum-Golgi intermediate compartment membrane"
+    },
+    {
+        "target_drugbank_id":"BE0002110",
+        "source":"Swiss-Prot",
+        "external_id":"Q07954",
+        "polypeptide_name":"Prolow-density lipoprotein receptor-related protein 1",
+        "gene_name":"LRP1",
+        "genatlas_id":"LRP1",
+        "chromosome":"12",
+        "cellular_location":"Cell membrane"
+    },
+    {
+        "target_drugbank_id":"BE0002120",
+        "source":"Swiss-Prot",
+        "external_id":"Q8NI22",
+        "polypeptide_name":"Multiple coagulation factor deficiency protein 2",
+        "gene_name":"MCFD2",
+        "genatlas_id":"MCFD2",
+        "chromosome":"2",
+        "cellular_location":"Endoplasmic reticulum-Golgi intermediate compartment"
+    },
+    {
+        "target_drugbank_id":"BE0000490",
+        "source":"Swiss-Prot",
+        "external_id":"P16473",
+        "polypeptide_name":"Thyrotropin receptor",
+        "gene_name":"TSHR",
+        "genatlas_id":"TSHR",
+        "chromosome":"14",
+        "cellular_location":"Cell membrane"
+    },
+    {
+        "target_drugbank_id":"BE0000658",
+        "source":"Swiss-Prot",
+        "external_id":"P01589",
+        "polypeptide_name":"Interleukin-2 receptor subunit alpha",
+        "gene_name":"IL2RA",
+        "genatlas_id":"IL2RA",
+        "chromosome":"10",
+        "cellular_location":"Membrane"
+    },
+    {
+        "target_drugbank_id":"BE0000651",
+        "source":"Swiss-Prot",
+        "external_id":"P14784",
+        "polypeptide_name":"Interleukin-2 receptor subunit beta",
+        "gene_name":"IL2RB",
+        "genatlas_id":"IL2RB",
+        "chromosome":"22",
+        "cellular_location":"Membrane"
+    },
+    {
+        "target_drugbank_id":"BE0000704",
+        "source":"Swiss-Prot",
+        "external_id":"P01375",
+        "polypeptide_name":"Tumor necrosis factor",
+        "gene_name":"TNF",
+        "genatlas_id":"TNF",
+        "chromosome":"6",
+        "cellular_location":"Cell membrane"
+    },
+    {
+        "target_drugbank_id":"BE0000075",
+        "source":"Swiss-Prot",
+        "external_id":"P10912",
+        "polypeptide_name":"Growth hormone receptor",
+        "gene_name":"GHR",
+        "genatlas_id":"GHR",
+        "chromosome":"5",
+        "cellular_location":"Cell membrane"
+    },
+    {
+        "target_drugbank_id":"BE0000345",
+        "source":"Swiss-Prot",
+        "external_id":"P16471",
+        "polypeptide_name":"Prolactin receptor",
+        "gene_name":"PRLR",
+        "genatlas_id":"PRLR",
+        "chromosome":"5",
+        "cellular_location":"Membrane"
+    },
+    {
+        "target_drugbank_id":"BE0000511",
+        "source":"Swiss-Prot",
+        "external_id":"P04626",
+        "polypeptide_name":"Receptor tyrosine-protein kinase erbB-2",
+        "gene_name":"ERBB2",
+        "genatlas_id":"ERBB2",
+        "chromosome":"17",
+        "cellular_location":"Cell membrane"
+    },
+    {
+        "target_drugbank_id":"BE0000134",
+        "source":"Swiss-Prot",
+        "external_id":"P22888",
+        "polypeptide_name":"Lutropin-choriogonadotropic hormone receptor",
+        "gene_name":"LHCGR",
+        "genatlas_id":"LHCGR",
+        "chromosome":"2",
+        "cellular_location":"Cell membrane"
+    },
+    {
+        "target_drugbank_id":"BE0000387",
+        "source":"Swiss-Prot",
+        "external_id":"P23945",
+        "polypeptide_name":"Follicle-stimulating hormone receptor",
+        "gene_name":"FSHR",
+        "genatlas_id":"FSHR",
+        "chromosome":"2",
+        "cellular_location":"Cell membrane"
+    },
+    {
+        "target_drugbank_id":"BE0000661",
+        "source":"Swiss-Prot",
+        "external_id":"P17181",
+        "polypeptide_name":"Interferon alpha\/beta receptor 1",
+        "gene_name":"IFNAR1",
+        "genatlas_id":"IFNAR1",
+        "chromosome":"21",
+        "cellular_location":"Membrane"
+    },
+    {
+        "target_drugbank_id":"BE0000385",
+        "source":"Swiss-Prot",
+        "external_id":"P48551",
+        "polypeptide_name":"Interferon alpha\/beta receptor 2",
+        "gene_name":"IFNAR2",
+        "genatlas_id":"IFNAR2",
+        "chromosome":"21",
+        "cellular_location":"Membrane"
+    },
+    {
+        "target_drugbank_id":"BE0000211",
+        "source":"Swiss-Prot",
+        "external_id":"P00747",
+        "polypeptide_name":"Plasminogen",
+        "gene_name":"PLG",
+        "genatlas_id":"PLG",
+        "chromosome":"6",
+        "cellular_location":"Secreted"
+    },
+    {
+        "target_drugbank_id":"BE0000928",
+        "source":"Swiss-Prot",
+        "external_id":"P25116",
+        "polypeptide_name":"Proteinase-activated receptor 1",
+        "gene_name":"F2R",
+        "genatlas_id":"F2R",
+        "chromosome":"5",
+        "cellular_location":"Cell membrane"
+    },
+    {
+        "target_drugbank_id":"BE0001155",
+        "source":"Swiss-Prot",
+        "external_id":"P05106",
+        "polypeptide_name":"Integrin beta-3",
+        "gene_name":"ITGB3",
+        "genatlas_id":"ITGB3",
+        "chromosome":"17",
+        "cellular_location":"Cell membrane"
+    },
+    {
+        "target_drugbank_id":"BE0009351",
+        "source":"TrEMBL",
+        "external_id":"A0A024R8I1",
+        "polypeptide_name":"Voltage-dependent N-type calcium channel subunit alpha",
+        "gene_name":"CACNA1B",
+        "genatlas_id":null,
+        "chromosome":null,
+        "cellular_location":"Membrane"
+    },
+    {
+        "target_drugbank_id":"BE0000844",
+        "source":"Swiss-Prot",
+        "external_id":"P30559",
+        "polypeptide_name":"Oxytocin receptor",
+        "gene_name":"OXTR",
+        "genatlas_id":"OXTR",
+        "chromosome":"3",
+        "cellular_location":"Cell membrane"
+    },
+    {
+        "target_drugbank_id":"BE0000793",
+        "source":"Swiss-Prot",
+        "external_id":"Q99062",
+        "polypeptide_name":"Granulocyte colony-stimulating factor receptor",
+        "gene_name":"CSF3R",
+        "genatlas_id":"CSF3R",
+        "chromosome":"1",
+        "cellular_location":"Secreted"
+    },
+    {
+        "target_drugbank_id":"BE0004806",
+        "source":null,
+        "external_id":null,
+        "polypeptide_name":null,
+        "gene_name":null,
+        "genatlas_id":null,
+        "chromosome":null,
+        "cellular_location":null
+    },
+    {
+        "target_drugbank_id":"BE0000661",
+        "source":"Swiss-Prot",
+        "external_id":"P17181",
+        "polypeptide_name":"Interferon alpha\/beta receptor 1",
+        "gene_name":"IFNAR1",
+        "genatlas_id":"IFNAR1",
+        "chromosome":"21",
+        "cellular_location":"Membrane"
+    },
+    {
+        "target_drugbank_id":"BE0000385",
+        "source":"Swiss-Prot",
+        "external_id":"P48551",
+        "polypeptide_name":"Interferon alpha\/beta receptor 2",
+        "gene_name":"IFNAR2",
+        "genatlas_id":"IFNAR2",
+        "chromosome":"21",
+        "cellular_location":"Membrane"
+    },
+    {
+        "target_drugbank_id":"BE0000048",
+        "source":"Swiss-Prot",
+        "external_id":"P00734",
+        "polypeptide_name":"Prothrombin",
+        "gene_name":"F2",
+        "genatlas_id":"F2",
+        "chromosome":"11",
+        "cellular_location":"Secreted"
+    },
+    {
+        "target_drugbank_id":"BE0000205",
+        "source":"Swiss-Prot",
+        "external_id":"P09619",
+        "polypeptide_name":"Platelet-derived growth factor receptor beta",
+        "gene_name":"PDGFRB",
+        "genatlas_id":"PDGFRB",
+        "chromosome":"5",
+        "cellular_location":"Cell membrane"
+    },
+    {
+        "target_drugbank_id":"BE0000852",
+        "source":"Swiss-Prot",
+        "external_id":"P16234",
+        "polypeptide_name":"Platelet-derived growth factor receptor alpha",
+        "gene_name":"PDGFRA",
+        "genatlas_id":"PDGFRA",
+        "chromosome":"4",
+        "cellular_location":"Cell membrane"
+    },
+    {
+        "target_drugbank_id":"BE0000910",
+        "source":"Swiss-Prot",
+        "external_id":"P01023",
+        "polypeptide_name":"Alpha-2-macroglobulin",
+        "gene_name":"A2M",
+        "genatlas_id":"A2M",
+        "chromosome":"12",
+        "cellular_location":"Secreted"
+    },
+    {
+        "target_drugbank_id":"BE0000016",
+        "source":"Swiss-Prot",
+        "external_id":"P00451",
+        "polypeptide_name":"Coagulation factor VIII",
+        "gene_name":"F8",
+        "genatlas_id":"F8",
+        "chromosome":"X",
+        "cellular_location":"Secreted"
+    },
+    {
+        "target_drugbank_id":"BE0000041",
+        "source":"Swiss-Prot",
+        "external_id":"P12259",
+        "polypeptide_name":"Coagulation factor V",
+        "gene_name":"F5",
+        "genatlas_id":"F5",
+        "chromosome":"1",
+        "cellular_location":"Secreted"
+    },
+    {
+        "target_drugbank_id":"BE0000240",
+        "source":"Swiss-Prot",
+        "external_id":"P05121",
+        "polypeptide_name":"Plasminogen activator inhibitor 1",
+        "gene_name":"SERPINE1",
+        "genatlas_id":"SERPINE1",
+        "chromosome":"7",
+        "cellular_location":"Secreted"
+    },
+    {
+        "target_drugbank_id":"BE0001151",
+        "source":"Swiss-Prot",
+        "external_id":"P07204",
+        "polypeptide_name":"Thrombomodulin",
+        "gene_name":"THBD",
+        "genatlas_id":"THBD",
+        "chromosome":"20",
+        "cellular_location":"Membrane"
+    },
+    {
+        "target_drugbank_id":"BE0000943",
+        "source":"Swiss-Prot",
+        "external_id":"P07225",
+        "polypeptide_name":"Vitamin K-dependent protein S",
+        "gene_name":"PROS1",
+        "genatlas_id":"PROS1",
+        "chromosome":"3",
+        "cellular_location":"Secreted"
+    },
+    {
+        "target_drugbank_id":"BE0000048",
+        "source":"Swiss-Prot",
+        "external_id":"P00734",
+        "polypeptide_name":"Prothrombin",
+        "gene_name":"F2",
+        "genatlas_id":"F2",
+        "chromosome":"11",
+        "cellular_location":"Secreted"
+    },
+    {
+        "target_drugbank_id":"BE0001129",
+        "source":"Swiss-Prot",
+        "external_id":"P02776",
+        "polypeptide_name":"Platelet factor 4",
+        "gene_name":"PF4",
+        "genatlas_id":"PF4",
+        "chromosome":"4",
+        "cellular_location":"Secreted"
+    },
+    {
+        "target_drugbank_id":"BE0002112",
+        "source":"Swiss-Prot",
+        "external_id":"P05154",
+        "polypeptide_name":"Plasma serine protease inhibitor",
+        "gene_name":"SERPINA5",
+        "genatlas_id":"SERPINA5",
+        "chromosome":"14",
+        "cellular_location":"Secreted"
+    },
+    {
+        "target_drugbank_id":"BE0002142",
+        "source":"Swiss-Prot",
+        "external_id":"P35237",
+        "polypeptide_name":"Serpin B6",
+        "gene_name":"SERPINB6",
+        "genatlas_id":"SERPINB6",
+        "chromosome":"6",
+        "cellular_location":"Cytoplasm"
+    },
+    {
+        "target_drugbank_id":"BE0001161",
+        "source":"Swiss-Prot",
+        "external_id":"Q9UNN8",
+        "polypeptide_name":"Endothelial protein C receptor",
+        "gene_name":"PROCR",
+        "genatlas_id":"PROCR",
+        "chromosome":"20",
+        "cellular_location":"Membrane"
+    },
+    {
+        "target_drugbank_id":"BE0000590",
+        "source":"Swiss-Prot",
+        "external_id":"P13612",
+        "polypeptide_name":"Integrin alpha-4",
+        "gene_name":"ITGA4",
+        "genatlas_id":"ITGA4",
+        "chromosome":"2",
+        "cellular_location":"Membrane"
+    },
+    {
+        "target_drugbank_id":"BE0000901",
+        "source":"Swiss-Prot",
+        "external_id":"O75015",
+        "polypeptide_name":"Low affinity immunoglobulin gamma Fc region receptor III-B",
+        "gene_name":"FCGR3B",
+        "genatlas_id":"FCGR3B",
+        "chromosome":"1",
+        "cellular_location":"Cell membrane"
+    },
+    {
+        "target_drugbank_id":"BE0000710",
+        "source":"Swiss-Prot",
+        "external_id":"P12314",
+        "polypeptide_name":"High affinity immunoglobulin gamma Fc receptor I",
+        "gene_name":"FCGR1A",
+        "genatlas_id":"FCGR1A",
+        "chromosome":"1",
+        "cellular_location":"Cell membrane"
+    },
+    {
+        "target_drugbank_id":"BE0001085",
+        "source":"Swiss-Prot",
+        "external_id":"P05362",
+        "polypeptide_name":"Intercellular adhesion molecule 1",
+        "gene_name":"ICAM1",
+        "genatlas_id":"ICAM1",
+        "chromosome":"19",
+        "cellular_location":"Membrane"
+    },
+    {
+        "target_drugbank_id":"BE0000628",
+        "source":"Swiss-Prot",
+        "external_id":"P15509",
+        "polypeptide_name":"Granulocyte-macrophage colony-stimulating factor receptor subunit alpha",
+        "gene_name":"CSF2RA",
+        "genatlas_id":"CSF2RA",
+        "chromosome":"X, Y",
+        "cellular_location":"Cell membrane"
+    },
+    {
+        "target_drugbank_id":"BE0001036",
+        "source":"Swiss-Prot",
+        "external_id":"P26951",
+        "polypeptide_name":"Interleukin-3 receptor subunit alpha",
+        "gene_name":"IL3RA",
+        "genatlas_id":"IL3RA",
+        "chromosome":"X, Y",
+        "cellular_location":"Membrane"
+    },
+    {
+        "target_drugbank_id":"BE0002115",
+        "source":"Swiss-Prot",
+        "external_id":"P32927",
+        "polypeptide_name":"Cytokine receptor common subunit beta",
+        "gene_name":"CSF2RB",
+        "genatlas_id":"CSF2RB",
+        "chromosome":"22",
+        "cellular_location":"Membrane"
+    },
+    {
+        "target_drugbank_id":"BE0002116",
+        "source":"Swiss-Prot",
+        "external_id":"P34741",
+        "polypeptide_name":"Syndecan-2",
+        "gene_name":"SDC2",
+        "genatlas_id":"SDC2",
+        "chromosome":"8",
+        "cellular_location":"Membrane"
+    },
+    {
+        "target_drugbank_id":"BE0002114",
+        "source":"Swiss-Prot",
+        "external_id":"P13727",
+        "polypeptide_name":"Bone marrow proteoglycan",
+        "gene_name":"PRG2",
+        "genatlas_id":"PRG2",
+        "chromosome":"11",
+        "cellular_location":"Secreted"
+    },
+    {
+        "target_drugbank_id":"BE0000216",
+        "source":"Swiss-Prot",
+        "external_id":"P00742",
+        "polypeptide_name":"Coagulation factor X",
+        "gene_name":"F10",
+        "genatlas_id":"F10",
+        "chromosome":"13",
+        "cellular_location":"Secreted"
+    },
+    {
+        "target_drugbank_id":"BE0000364",
+        "source":"Swiss-Prot",
+        "external_id":"P00740",
+        "polypeptide_name":"Coagulation factor IX",
+        "gene_name":"F9",
+        "genatlas_id":"F9",
+        "chromosome":"X",
+        "cellular_location":"Secreted"
+    },
+    {
+        "target_drugbank_id":"BE0001043",
+        "source":"Swiss-Prot",
+        "external_id":"P04275",
+        "polypeptide_name":"von Willebrand factor",
+        "gene_name":"VWF",
+        "genatlas_id":"VWF",
+        "chromosome":"12",
+        "cellular_location":"Secreted"
+    },
+    {
+        "target_drugbank_id":"BE0002117",
+        "source":"Swiss-Prot",
+        "external_id":"O14832",
+        "polypeptide_name":"Phytanoyl-CoA dioxygenase, peroxisomal",
+        "gene_name":"PHYH",
+        "genatlas_id":"PHYH",
+        "chromosome":"10",
+        "cellular_location":"Peroxisome"
+    },
+    {
+        "target_drugbank_id":"BE0002118",
+        "source":"Swiss-Prot",
+        "external_id":"P07307",
+        "polypeptide_name":"Asialoglycoprotein receptor 2",
+        "gene_name":"ASGR2",
+        "genatlas_id":"ASGR2",
+        "chromosome":"17",
+        "cellular_location":"Membrane"
+    },
+    {
+        "target_drugbank_id":"BE0001098",
+        "source":"Swiss-Prot",
+        "external_id":"P11021",
+        "polypeptide_name":"78 kDa glucose-regulated protein",
+        "gene_name":"HSPA5",
+        "genatlas_id":"HSPA5",
+        "chromosome":"9",
+        "cellular_location":"Endoplasmic reticulum lumen"
+    },
+    {
+        "target_drugbank_id":"BE0002109",
+        "source":"Swiss-Prot",
+        "external_id":"P27797",
+        "polypeptide_name":"Calreticulin",
+        "gene_name":"CALR",
+        "genatlas_id":"CALR",
+        "chromosome":"19",
+        "cellular_location":"Endoplasmic reticulum lumen"
+    },
+    {
+        "target_drugbank_id":"BE0001011",
+        "source":"Swiss-Prot",
+        "external_id":"P27824",
+        "polypeptide_name":"Calnexin",
+        "gene_name":"CANX",
+        "genatlas_id":"CANX",
+        "chromosome":"5",
+        "cellular_location":"Endoplasmic reticulum membrane"
+    },
+    {
+        "target_drugbank_id":"BE0002119",
+        "source":"Swiss-Prot",
+        "external_id":"P49257",
+        "polypeptide_name":"Protein ERGIC-53",
+        "gene_name":"LMAN1",
+        "genatlas_id":"LMAN1",
+        "chromosome":"18",
+        "cellular_location":"Endoplasmic reticulum-Golgi intermediate compartment membrane"
+    },
+    {
+        "target_drugbank_id":"BE0002110",
+        "source":"Swiss-Prot",
+        "external_id":"Q07954",
+        "polypeptide_name":"Prolow-density lipoprotein receptor-related protein 1",
+        "gene_name":"LRP1",
+        "genatlas_id":"LRP1",
+        "chromosome":"12",
+        "cellular_location":"Cell membrane"
+    },
+    {
+        "target_drugbank_id":"BE0002120",
+        "source":"Swiss-Prot",
+        "external_id":"Q8NI22",
+        "polypeptide_name":"Multiple coagulation factor deficiency protein 2",
+        "gene_name":"MCFD2",
+        "genatlas_id":"MCFD2",
+        "chromosome":"2",
+        "cellular_location":"Endoplasmic reticulum-Golgi intermediate compartment"
+    }
+]

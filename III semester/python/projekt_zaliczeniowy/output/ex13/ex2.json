@@ -1,0 +1,2230 @@
+[
+    {
+        "drug_id":"DB00001",
+        "synonyms":[
+            "[Leu1, Thr2]-63-desulfohirudin",
+            "Desulfatohirudin",
+            "Hirudin variant-1",
+            "Lepirudin",
+            "Lepirudin recombinant",
+            "R-hirudin"
+        ]
+    },
+    {
+        "drug_id":"DB00002",
+        "synonyms":[
+            "Cetuximab",
+            "Cétuximab",
+            "Cetuximabum"
+        ]
+    },
+    {
+        "drug_id":"DB00003",
+        "synonyms":[
+            "Deoxyribonuclease (human clone 18-1 protein moiety)",
+            "Dornasa alfa",
+            "Dornase alfa",
+            "Dornase alfa, recombinant",
+            "Dornase alpha",
+            "Recombinant deoxyribonuclease (DNAse)"
+        ]
+    },
+    {
+        "drug_id":"DB00004",
+        "synonyms":[
+            "Denileukin",
+            "Denileukin diftitox",
+            "Interleukin-2\/diptheria toxin fusion protein"
+        ]
+    },
+    {
+        "drug_id":"DB00005",
+        "synonyms":[
+            "Etanercept",
+            "etanercept-szzs",
+            "etanercept-ykro",
+            "Recombinant human TNF",
+            "rhu TNFR:Fc",
+            "rhu-TNFR:Fc",
+            "TNFR-Immunoadhesin"
+        ]
+    },
+    {
+        "drug_id":"DB00006",
+        "synonyms":[
+            "Bivalirudin",
+            "Bivalirudina",
+            "Bivalirudinum"
+        ]
+    },
+    {
+        "drug_id":"DB00007",
+        "synonyms":[
+            "Leuprorelin",
+            "Leuprorelina",
+            "Leuproreline",
+            "Leuprorelinum"
+        ]
+    },
+    {
+        "drug_id":"DB00008",
+        "synonyms":[
+            "PEG-IFN alfa-2A",
+            "PEG-Interferon alfa-2A",
+            "Peginterferon alfa-2a",
+            "Pegylated Interfeaon alfa-2A",
+            "Pegylated interferon alfa-2a",
+            "Pegylated interferon alpha-2a",
+            "Pegylated-interferon alfa 2a"
+        ]
+    },
+    {
+        "drug_id":"DB00009",
+        "synonyms":[
+            "Alteplasa",
+            "Alteplase",
+            "Alteplase (genetical recombination)",
+            "Alteplase, recombinant",
+            "Alteplase,recombinant",
+            "Plasminogen activator (human tissue-type protein moiety)",
+            "rt-PA",
+            "t-PA",
+            "t-plasminogen activator",
+            "Tissue plasminogen activator",
+            "Tissue plasminogen activator alteplase",
+            "Tissue plasminogen activator, recombinant",
+            "tPA"
+        ]
+    },
+    {
+        "drug_id":"DB00010",
+        "synonyms":[
+            "Sermorelin"
+        ]
+    },
+    {
+        "drug_id":"DB00011",
+        "synonyms":[
+            "Interferon alfa-n1",
+            "Interferon alpha-n1 (INS)",
+            "WELL-FERON",
+            "WELLFERON"
+        ]
+    },
+    {
+        "drug_id":"DB00012",
+        "synonyms":[
+            "Darbepoetin",
+            "Darbepoetin alfa",
+            "Darbepoetin alfa,recombinant",
+            "Darbepoetina alfa"
+        ]
+    },
+    {
+        "drug_id":"DB00013",
+        "synonyms":[
+            "Kinase (enzyme-activating), uro-urokinase",
+            "TCUK",
+            "Tissue culture urokinase",
+            "Two-chain urokinase",
+            "Urochinasi",
+            "Urokinase",
+            "Urokinasum",
+            "Uroquinasa"
+        ]
+    },
+    {
+        "drug_id":"DB00014",
+        "synonyms":[
+            "Goserelin",
+            "Goserelina"
+        ]
+    },
+    {
+        "drug_id":"DB00015",
+        "synonyms":[
+            "Human t-PA (residues 1-3 and 176-527)",
+            "Reteplasa",
+            "Reteplase",
+            "Reteplase, recombinant",
+            "Reteplase,recombinant"
+        ]
+    },
+    {
+        "drug_id":"DB00016",
+        "synonyms":[
+            "E.P.O.",
+            "Epoetin alfa",
+            "Epoetin alfa rDNA",
+            "Epoetin alfa-epbx",
+            "Epoetin alfa, recombinant",
+            "Epoetin beta",
+            "Epoetin beta rDNA",
+            "Epoetin epsilon",
+            "Epoetin gamma",
+            "Epoetin gamma rDNA",
+            "Epoetin kappa",
+            "Epoetin omega",
+            "Epoetin theta",
+            "Epoetin zeta",
+            "Epoetina alfa",
+            "Epoetina beta",
+            "Epoetina dseta",
+            "Epoetina zeta",
+            "Epoétine zêta",
+            "Epoetinum zeta",
+            "Erythropoiesis stimulating factor",
+            "Erythropoietin (human, recombinant)",
+            "Erythropoietin (recombinant human)",
+            "ESF",
+            "SH-polypeptide-72"
+        ]
+    },
+    {
+        "drug_id":"DB00017",
+        "synonyms":[
+            "Calcitonin (Salmon Synthetic)",
+            "Calcitonin salmon",
+            "Calcitonin salmon recombinant",
+            "Calcitonin-salmon",
+            "Calcitonin, salmon",
+            "Calcitonina salmón sintética",
+            "Recombinant salmon calcitonin",
+            "Salmon calcitonin"
+        ]
+    },
+    {
+        "drug_id":"DB00018",
+        "synonyms":[
+            "Interferon alfa-n3"
+        ]
+    },
+    {
+        "drug_id":"DB00019",
+        "synonyms":[
+            "Granulocyte colony-stimulating factor pegfilgrastim",
+            "peg-filgrastim",
+            "Pegfilgrastim",
+            "pegfilgrastim-apgf",
+            "pegfilgrastim-bmez",
+            "pegfilgrastim-cbqv",
+            "pegfilgrastim-jmdb"
+        ]
+    },
+    {
+        "drug_id":"DB00020",
+        "synonyms":[
+            "Recombinant human granulocyte-macrophage colony stimulating factor",
+            "rGM-CSF",
+            "rHu GM-CSF",
+            "Sargramostim"
+        ]
+    },
+    {
+        "drug_id":"DB00022",
+        "synonyms":[
+            "Peginterferon alfa-2b"
+        ]
+    },
+    {
+        "drug_id":"DB00023",
+        "synonyms":[
+            "Asparaginase",
+            "Asparaginase (E. coli)",
+            "Colaspase",
+            "Escherichia coli L-asparaginase",
+            "L-asparaginase",
+            "L-asparagine amidohydrolase"
+        ]
+    },
+    {
+        "drug_id":"DB00024",
+        "synonyms":[
+            "Recombinant Human Thyroid Stimulating Hormone",
+            "Recombinant thyrotropin alfa",
+            "rhTSH",
+            "rTSH",
+            "Thyrotropin alfa",
+            "Thyrotropin alpha"
+        ]
+    },
+    {
+        "drug_id":"DB00025",
+        "synonyms":[
+            "Antihemophilic factor (recombinant)",
+            "Antihemophilic factor recombinant",
+            "Antihemophilic factor, human recombinant",
+            "Antihemophilic factor, recombinant",
+            "Coagulation factor VIII, recombinant",
+            "Factor VIII (rDNA)",
+            "Factor VIII (Recombinant)",
+            "Factor VIII recombin",
+            "Factor VIII, recombinant",
+            "Human Factor VIII (Recombinant)",
+            "Human factor VIII recombinant",
+            "Octocog alfa",
+            "rAHF",
+            "Recombinant antihemophilic factor VIII"
+        ]
+    },
+    {
+        "drug_id":"DB00026",
+        "synonyms":[
+            "Anakinra",
+            "IL-1RA",
+            "Interleukin-1 receptor antagonist anakinra"
+        ]
+    },
+    {
+        "drug_id":"DB00027",
+        "synonyms":[
+            "Bacillus brevis gramicidin D",
+            "Gramicidin",
+            "Gramicidin A",
+            "Gramicidin B",
+            "Gramicidin C",
+            "Gramicidina",
+            "Gramicidine"
+        ]
+    },
+    {
+        "drug_id":"DB00028",
+        "synonyms":[
+            "Aerosolized pooled immune globulin",
+            "Human gammaglobulin",
+            "Human IGG",
+            "Human immunoglobulin G",
+            "Human normal immunoglobulin",
+            "Immune globulin (human)",
+            "Immune globulin human",
+            "Immunoglobulin (human)",
+            "Immunoglobulin G (human)",
+            "Immunoglobulin G, human",
+            "Intravenous immune globulin (human)",
+            "Intravenous immunoglobulin (IVIg)"
+        ]
+    },
+    {
+        "drug_id":"DB00029",
+        "synonyms":[
+            "Anisoylated plasminogen streptokinase activator complex",
+            "Anistreplase",
+            "APSAC"
+        ]
+    },
+    {
+        "drug_id":"DB00030",
+        "synonyms":[
+            "High molecular weight insulin human",
+            "Human insulin",
+            "human insulin (rDNA)",
+            "Insulin (human)",
+            "Insulin human",
+            "Insulin human [rDNA origin]",
+            "Insulin Human Regular",
+            "Insulin human regular (rDNA)",
+            "Insulin human, rDNA origin",
+            "Insulin recombinant human",
+            "Insulin recombinant purified human",
+            "Insulin regular",
+            "Insulin, human",
+            "Insulina regular",
+            "Neutral insulin",
+            "Regular Insulin, human",
+            "Soluble insulin"
+        ]
+    },
+    {
+        "drug_id":"DB00031",
+        "synonyms":[
+            "Tenecteplasa",
+            "Tenecteplase",
+            "TNK-tPA"
+        ]
+    },
+    {
+        "drug_id":"DB00032",
+        "synonyms":[
+            "Human menopausal gonadotrophin",
+            "Menotrophin",
+            "Menotropin",
+            "Menotropina",
+            "Menotropins (FSH;LH)"
+        ]
+    },
+    {
+        "drug_id":"DB00033",
+        "synonyms":[
+            "IFN-gamma 1b",
+            "IFN-gamma-1b",
+            "Interferon gamma 1-b",
+            "Interferon gamma-1b",
+            "Interferon gamma-1b, recombinant",
+            "Interferon gamma-2a"
+        ]
+    },
+    {
+        "drug_id":"DB00034",
+        "synonyms":[
+            "Interferon alfa-2a",
+            "Interferon alfa-2a (genetical recombination)",
+            "Interferon alfa-2a (recombinant)",
+            "Interferon alfa-2a, recombinant",
+            "Interferon alfa-2a,recombinant",
+            "Interferon alpha-2a",
+            "Interferon-alfa-2a",
+            "Recombinant human interferon alfa-2a",
+            "Recombinant human interferon-alfa-2a",
+            "rIFN-alpha-2a",
+            "SH-polypeptide-46"
+        ]
+    },
+    {
+        "drug_id":"DB00035",
+        "synonyms":[
+            "1-(3-mercaptopropionic acid)-8-D-arginine-vasopressin",
+            "1-deamino-8-D-arginine vasopressin",
+            "1-desamino-8-D-arginine vasopressin",
+            "dDAVP",
+            "Desmopresina",
+            "Desmopressin",
+            "Desmopressine",
+            "Desmopressinum"
+        ]
+    },
+    {
+        "drug_id":"DB00036",
+        "synonyms":[
+            "Coagulation factor VIIa",
+            "Coagulation factor VIIa (recombinant)",
+            "Coagulation factor VIIa (recombinant)-jncw",
+            "Eptacog alfa",
+            "Eptacog alfa (activated)",
+            "rFVIIa"
+        ]
+    },
+    {
+        "drug_id":"DB00038",
+        "synonyms":[
+            "IL-11",
+            "Interleukin 11",
+            "Interleukin-11",
+            "Oprelvekin",
+            "Recombinant interleukin-11"
+        ]
+    },
+    {
+        "drug_id":"DB00039",
+        "synonyms":[
+            "24-163 fibroblast growth factor 7 (human)",
+            "Palifermin",
+            "Palifermina"
+        ]
+    },
+    {
+        "drug_id":"DB00040",
+        "synonyms":[
+            "Glucagon",
+            "Glucagon (recombinant dna origin)",
+            "Glucagon recombinant",
+            "Glucagon, human",
+            "Glucagon, porcine",
+            "Glucagone",
+            "Glucagonum"
+        ]
+    },
+    {
+        "drug_id":"DB00041",
+        "synonyms":[
+            "125-L-serine-2-133-interleukin 2 (human reduced)",
+            "Aldesleukin",
+            "Aldesleukina",
+            "ILT-101",
+            "ILT101",
+            "Interleukin-2 aldesleukin",
+            "Interleukin-2(2-133),125-ser",
+            "Recombinant human interleukin-2",
+            "Recombinant interleukin-2 human"
+        ]
+    },
+    {
+        "drug_id":"DB00042",
+        "synonyms":[
+            "Botulin B",
+            "Botulinum antitoxin type B",
+            "Botulinum B toxin",
+            "Botulinum neurotoxin type B precursor",
+            "Botulinum toxin type B",
+            "BTX-B",
+            "RimabotulinumtoxinB",
+            "Toxina botulínica B"
+        ]
+    },
+    {
+        "drug_id":"DB00043",
+        "synonyms":[
+            "Omalizumab"
+        ]
+    },
+    {
+        "drug_id":"DB00044",
+        "synonyms":[
+            "Lutropin alfa",
+            "Lutropin alpha",
+            "Lutropina alfa"
+        ]
+    },
+    {
+        "drug_id":"DB00045",
+        "synonyms":[
+            "Lipoprotein OspA antigen recombinant",
+            "Lipoprotein outer surface a borrelia burgdorferi antigen",
+            "OspA lipoprotein"
+        ]
+    },
+    {
+        "drug_id":"DB00046",
+        "synonyms":[
+            "Insulin lispro",
+            "Insulin lispro (genetical recombination)",
+            "Insulin lispro (rDNA origin)",
+            "Insulin lispro protamine",
+            "Insulin lispro protamine recombinant",
+            "Insulin lispro recombinant",
+            "insulin lispro-aabc",
+            "Insulin,lispro,human\/rDNA",
+            "Insulin,lispro,protamine\/rDNA",
+            "Insulina lispro"
+        ]
+    },
+    {
+        "drug_id":"DB00047",
+        "synonyms":[
+            "Insulin glargine",
+            "Insulin glargine (rDNA origin)",
+            "Insulin glargine recombinant",
+            "insulin glargine-yfgn",
+            "Insulina glargina"
+        ]
+    },
+    {
+        "drug_id":"DB00048",
+        "synonyms":[
+            "Clostridiopeptidase A",
+            "Clostridium histolyticum enzymes",
+            "Collagenase",
+            "Collagenase clostridium histolyticum",
+            "collagenase clostridium histolyticum-aaes"
+        ]
+    },
+    {
+        "drug_id":"DB00049",
+        "synonyms":[
+            "Rasburicasa",
+            "Rasburicase",
+            "Recombinant urate oxidase",
+            "Urate oxidase"
+        ]
+    },
+    {
+        "drug_id":"DB00050",
+        "synonyms":[
+            "Cetrorelix",
+            "Cetrorelixum"
+        ]
+    },
+    {
+        "drug_id":"DB00051",
+        "synonyms":[
+            "Adalimumab",
+            "Adalimumab (genetical recombination)",
+            "adalimumab-adaz",
+            "adalimumab-adbm",
+            "adalimumab-afzb",
+            "adalimumab-atto",
+            "adalimumab-bwwd",
+            "adalimumab-fkjp"
+        ]
+    },
+    {
+        "drug_id":"DB00052",
+        "synonyms":[
+            "Growth hormone",
+            "Growth hormone (human)",
+            "hGH",
+            "Human growth hormone",
+            "Recombinant human growth hormone",
+            "rhGH",
+            "Somatotropin (human)",
+            "Somatotropin human",
+            "Somatotropin human growth hormone",
+            "Somatropin",
+            "Somatropin (rDNA origin)",
+            "Somatropin (recombinant DNA origin)",
+            "Somatropin [rDNA origin]",
+            "Somatropin recombinant",
+            "Somatropin(recombinant DNA origin)",
+            "Somatropina"
+        ]
+    },
+    {
+        "drug_id":"DB00053",
+        "synonyms":[
+            "Imiglucerasa",
+            "Imiglucerase"
+        ]
+    },
+    {
+        "drug_id":"DB00054",
+        "synonyms":[
+            "Abciximab",
+            "Abciximab (genetical recombination)",
+            "c7E3"
+        ]
+    },
+    {
+        "drug_id":"DB00055",
+        "synonyms":[
+            "Activated protein C",
+            "Blood coagulation factor XIV (human)",
+            "Drotrecogin alfa (activated)",
+            "Drotrecogin alfa (activated), lyophilized",
+            "Drotrecogin alfa activated",
+            "Drotrecogin alfa, activated",
+            "Drotrecogin-alfa",
+            "Recombinant human activated protein C (rH-APC)"
+        ]
+    },
+    {
+        "drug_id":"DB00056",
+        "synonyms":[
+            "Gemtuzumab ozogamicin"
+        ]
+    },
+    {
+        "drug_id":"DB00057",
+        "synonyms":[
+            "Indium (111In) satumomab pendetide",
+            "Indium In 111 satumomab pendetide",
+            "Indium-111 satumomab pendetide"
+        ]
+    },
+    {
+        "drug_id":"DB00058",
+        "synonyms":[
+            ".Alpha.-1 protease inhibitor",
+            ".Alpha.1-proteinase inhibitor human",
+            "122320-05-2",
+            "Alfa 1-proteinase inhibitor (human)",
+            "Alfa-1-antitripsina",
+            "Alfa1 antitrypsin",
+            "Alpha 1-antitrypsin",
+            "Alpha 1-Proteinase Inhibitor",
+            "Alpha 1-proteinase inhibitor (human)",
+            "Alpha 1-proteinase inhibitor human",
+            "Alpha 1-proteinase inhibitor, human",
+            "Alpha-1 protease inhibitor",
+            "Alpha-1 proteinase inhibitor (human)",
+            "Alpha-1-antiproteinase",
+            "Alpha-1-antitrypsin",
+            "Alpha-1-proteinase Inhibitor (human)",
+            "Alpha-1-proteinase inhibitor human",
+            "Alpha-1-proteinase Inhibitor, Human",
+            "Alpha-1-proteinase inhibitor,human",
+            "Alpha1-proteinase Inhibitor",
+            "Alpha1-proteinase inhibitor (human)",
+            "Alpha1-proteinase inhibitor human",
+            "Antileukoproteinase",
+            "API",
+            "Mucus proteinase inhibitor",
+            "Protease inhibitor wap4",
+            "Recombinant secretory leucocyte protease inhibitor",
+            "Recombinant secretory leukocyte protease inhibitor",
+            "Secretory leukocyte protease inhibitor (human)",
+            "SLPI",
+            "Wap four-disulfide core domain protein 4"
+        ]
+    },
+    {
+        "drug_id":"DB00059",
+        "synonyms":[
+            "Peg-asparaginase",
+            "Peg\/L-asparaginase",
+            "Pegaspargasa",
+            "Pegaspargase"
+        ]
+    },
+    {
+        "drug_id":"DB00060",
+        "synonyms":[
+            "Interferon beta 1-a",
+            "Interferon beta 1a",
+            "Interferon beta-1a",
+            "Interferon beta-1a (recombinant human)",
+            "Interferon beta-1a (recombinant)",
+            "Interferon beta-1a,recombinant",
+            "Interferon beta, recombinant human",
+            "Interferon-beta-1a",
+            "SNG001"
+        ]
+    },
+    {
+        "drug_id":"DB00061",
+        "synonyms":[
+            "(monomethoxypolyethylene glycol succinimidyl) 11-17-adenosine deaminase",
+            "PEG-adenosine deaminase",
+            "pegADA",
+            "Pegademase",
+            "Pegademase bovine"
+        ]
+    },
+    {
+        "drug_id":"DB00062",
+        "synonyms":[
+            "Albumin (human)",
+            "Albumin human",
+            "Albumin, blood",
+            "Albumin, human",
+            "Albumin, human-kjda",
+            "Human albumin",
+            "Human serum albumin",
+            "Serum albumin"
+        ]
+    },
+    {
+        "drug_id":"DB00063",
+        "synonyms":[
+            "Eptifibatida",
+            "Eptifibatide",
+            "Integrelin",
+            "Intrifiban"
+        ]
+    },
+    {
+        "drug_id":"DB00065",
+        "synonyms":[
+            "Infliximab",
+            "Infliximab (genetical recombination)",
+            "Infliximab-abda",
+            "Infliximab-axxq",
+            "Infliximab-dyyb",
+            "Infliximab-qbtx"
+        ]
+    },
+    {
+        "drug_id":"DB00066",
+        "synonyms":[
+            "Folitropina alfa",
+            "Folitropina beta",
+            "Folitropina delta",
+            "Follicle stimulating hormone",
+            "Follitrophin alfa",
+            "Follitrophin alpha",
+            "Follitrophin beta",
+            "Follitropin alfa",
+            "Follitropin alfa\/beta",
+            "Follitropin alpha",
+            "Follitropin beta",
+            "Follitropin delta",
+            "Follitropin gamma",
+            "Follotropin recombinant",
+            "FSH",
+            "FSH alpha",
+            "FSH-a",
+            "FSH-b",
+            "FSH-beta",
+            "Recombinant human follicle stimulating hormone beta",
+            "Recombinant human follicle-stimulating hormone (r-HFSH)",
+            "rFSH-alpha"
+        ]
+    },
+    {
+        "drug_id":"DB00067",
+        "synonyms":[
+            "Vasopressin, unspecified",
+            "Vasopressina"
+        ]
+    },
+    {
+        "drug_id":"DB00068",
+        "synonyms":[
+            "Interferon beta 1b (recombinant)",
+            "Interferon beta-1b",
+            "Interferon beta-1b,recombinant",
+            "Interferon-beta-1b",
+            "Recombinant interferon beta-1b"
+        ]
+    },
+    {
+        "drug_id":"DB00069",
+        "synonyms":[
+            "IFN Alfacon-1",
+            "IFN-Con1",
+            "Interferon alfacon-1"
+        ]
+    },
+    {
+        "drug_id":"DB00070",
+        "synonyms":[
+            "Hyaluronidase (glycoprotein, sheep testis isoenzyme)",
+            "Hyaluronidase (ovine)",
+            "Hyaluronidase (sheep testis isoenzyme)",
+            "Hyaluronidase, ovine",
+            "Ovine hyaluronidase"
+        ]
+    },
+    {
+        "drug_id":"DB00071",
+        "synonyms":[
+            "Insulin (pork)",
+            "Insulin porcine",
+            "Insulin purified porcine",
+            "Insulin purified pork",
+            "Insulin, porcine",
+            "Insulin, regular, pork",
+            "Porcine insulin"
+        ]
+    },
+    {
+        "drug_id":"DB00072",
+        "synonyms":[
+            "RHUMAB HER2",
+            "Trastuzumab",
+            "trastuzumab-anns",
+            "trastuzumab-dkst",
+            "trastuzumab-dttb",
+            "trastuzumab-pkrb",
+            "trastuzumab-qyyp"
+        ]
+    },
+    {
+        "drug_id":"DB00073",
+        "synonyms":[
+            "Rituximab",
+            "rituximab-abbs",
+            "rituximab-arrx",
+            "rituximab-pvvr"
+        ]
+    },
+    {
+        "drug_id":"DB00074",
+        "synonyms":[
+            "Basiliximab"
+        ]
+    },
+    {
+        "drug_id":"DB00075",
+        "synonyms":[
+            "Anti-CD3",
+            "Muromonab-CD3"
+        ]
+    },
+    {
+        "drug_id":"DB00076",
+        "synonyms":[
+            "Digitalis antitoxin",
+            "Digoxin Immune Fab, Ovine",
+            "Digoxin-specific Antibody Fragments",
+            "Ovine digoxin immune fab"
+        ]
+    },
+    {
+        "drug_id":"DB00078",
+        "synonyms":[
+            "Ibritumomab",
+            "Ibritumomab tiuxetan",
+            "mAb Murine (IGG1) Anti P19437 (CD20_MOUSE)"
+        ]
+    },
+    {
+        "drug_id":"DB00080",
+        "synonyms":[
+            "Daptomicina",
+            "Daptomycin",
+            "Daptomycine",
+            "Daptomycinum"
+        ]
+    },
+    {
+        "drug_id":"DB00081",
+        "synonyms":[
+            "Tositumomab"
+        ]
+    },
+    {
+        "drug_id":"DB00082",
+        "synonyms":[
+            "Pegvisomant"
+        ]
+    },
+    {
+        "drug_id":"DB00083",
+        "synonyms":[
+            "AbobotulinumtoxinA",
+            "Botulinum A neurotoxin",
+            "Botulinum antitoxin type A",
+            "Botulinum toxin A",
+            "Botulinum toxin type A",
+            "BTX-A",
+            "EvabotulinumtoxinA",
+            "IncobotulinumtoxinA",
+            "OnabotulinumtoxinA",
+            "Prabotulinumtoxin A",
+            "Toxina botulínica A",
+            "Toxine botulinique A"
+        ]
+    },
+    {
+        "drug_id":"DB00085",
+        "synonyms":[
+            "Pancrealipase",
+            "Pancreatic extract pancrelipase",
+            "Pancreatic protease",
+            "Pancreatin",
+            "Pancreatinum",
+            "Pancrelipase",
+            "Pancrelipase (amylase;lipase;protease)"
+        ]
+    },
+    {
+        "drug_id":"DB00086",
+        "synonyms":[
+            "Estreptoquinasa",
+            "Streptochinasi",
+            "Streptococcal fibrinolysin",
+            "Streptokinase",
+            "Streptokinasum"
+        ]
+    },
+    {
+        "drug_id":"DB00087",
+        "synonyms":[
+            "Alemtuzumab"
+        ]
+    },
+    {
+        "drug_id":"DB00088",
+        "synonyms":[
+            "Alglucerase"
+        ]
+    },
+    {
+        "drug_id":"DB00089",
+        "synonyms":[
+            "(111In)-Capromab pendetide",
+            "Capromab pendetide",
+            "Indium (111In) capromab pendetide",
+            "Indium 111 Capromab Pendetide",
+            "Indium In 111 capromab pendetide"
+        ]
+    },
+    {
+        "drug_id":"DB00090",
+        "synonyms":[
+            "alpha-L-Idosiduronase",
+            "Human Recombinant alpha-L-iduronidase",
+            "Laronidasa",
+            "Laronidase",
+            "Laronidase (genetical recombination)"
+        ]
+    },
+    {
+        "drug_id":"DB00091",
+        "synonyms":[
+            "Ciclosporin",
+            "Ciclosporina",
+            "Ciclosporine",
+            "Ciclosporinum",
+            "CsA",
+            "CyA",
+            "Cyclosporin",
+            "Cyclosporin A",
+            "Cyclosporine"
+        ]
+    },
+    {
+        "drug_id":"DB00092",
+        "synonyms":[
+            "Alefacept"
+        ]
+    },
+    {
+        "drug_id":"DB00093",
+        "synonyms":[
+            "2-(L-phenylalanine)-8-L-lysinevasopressin",
+            "Felipresina",
+            "Felypressin",
+            "Felypressine",
+            "Felypressinum",
+            "PLV-2"
+        ]
+    },
+    {
+        "drug_id":"DB00094",
+        "synonyms":[
+            "Follitropin human",
+            "Urofollitrophin",
+            "Urofollitropin"
+        ]
+    },
+    {
+        "drug_id":"DB00095",
+        "synonyms":[
+            "anti-CD11a",
+            "antiCD11 alpha",
+            "Efalizumab"
+        ]
+    },
+    {
+        "drug_id":"DB00097",
+        "synonyms":[
+            "Choriogonadotropin alfa",
+            "Choriogonadotropin alpha",
+            "Chorionic gonadotropin (recombinant)"
+        ]
+    },
+    {
+        "drug_id":"DB00098",
+        "synonyms":[
+            "Anti-human thymocyte immunoglobulin, rabbit",
+            "Anti-T-lymphocyte immune globulin, rabbit",
+            "Anti-thymocyte globulin (rabbit)",
+            "Anti-thymocyte globulin rabbit",
+            "Antithymocyte immunoglobulin",
+            "Lapine T-lymphocyte immune globulin",
+            "Rabbit anti-human thymocyte globulin",
+            "Rabbit anti-human thymocyte globulin (rATG)",
+            "Rabbit anti-human thymocyte immunoglobulin",
+            "Rabbit anti-thymocyte immunoglobulin",
+            "Rabbit antithymocyte globulin",
+            "Rabbit ATG",
+            "rATG",
+            "Thymoglobulin",
+            "Thymoglobuline"
+        ]
+    },
+    {
+        "drug_id":"DB00099",
+        "synonyms":[
+            "Filgrastim",
+            "Filgrastim-aafi",
+            "Filgrastim-sndz",
+            "G-CSF",
+            "Granulocyte Colony Stimulating Factor",
+            "Tbo-filgrastim"
+        ]
+    },
+    {
+        "drug_id":"DB00100",
+        "synonyms":[
+            "Coagulation factor IX (recombinant)",
+            "Coagulation factor IX recombinant human",
+            "Coagulation factor IX, recombinant",
+            "Factor IX (Recombinant)",
+            "nonacog alfa",
+            "nonacog gamma",
+            "Recombinant factor IX"
+        ]
+    },
+    {
+        "drug_id":"DB00102",
+        "synonyms":[
+            "Becaplermin",
+            "PDGF-2",
+            "PDGF-BB",
+            "PDGFB",
+            "Platelet-derived growth factor BB, recombinant",
+            "Platelet-derived growth factor beta polypeptide",
+            "Recombinant platelet-derived growth factor BB",
+            "rhPDGF-BB",
+            "rPDGF-BB",
+            "SH-POLYPEPTIDE-59"
+        ]
+    },
+    {
+        "drug_id":"DB00103",
+        "synonyms":[
+            "Agalsidasa beta",
+            "Agalsidase beta",
+            "Agalsidase beta (genetical recombination)"
+        ]
+    },
+    {
+        "drug_id":"DB00104",
+        "synonyms":[
+            "Octreotida",
+            "Octreotide",
+            "Octreotidum",
+            "Octrotide"
+        ]
+    },
+    {
+        "drug_id":"DB00105",
+        "synonyms":[
+            "Interferon alfa-2b",
+            "Interferon alfa-2b (recombinant)",
+            "Interferon alfa-2b, recombinant",
+            "Interferon alpha-2B",
+            "Interferon α-2b",
+            "Intron (Interferon α2b)",
+            "Intron A",
+            "Intron A (Interferon α2b)",
+            "r-INF-alpha",
+            "rIFN-alpha-2b"
+        ]
+    },
+    {
+        "drug_id":"DB00106",
+        "synonyms":[
+            "Abarelix"
+        ]
+    },
+    {
+        "drug_id":"DB00107",
+        "synonyms":[
+            "Oxitocina",
+            "Oxytocin"
+        ]
+    },
+    {
+        "drug_id":"DB00108",
+        "synonyms":[
+            "Anti-alpha4 integrin",
+            "Anti-VLA4",
+            "IMMUNOGLOBULIN G4 (HUMAN-MOUSE MONOCLONAL AN100226 4-CHAIN ANTI-HUMAN INTEGRIN 4), DISULFIDE WITH HUMAN-MOUSE MONOCLONAL AN100226 LIGHT CHAIN, DIMER",
+            "IMMUNOGLOBULIN G4 (HUMAN-MOUSE MONOCLONAL AN100226 4-CHAIN ANTI-HUMAN INTEGRIN 4), DISULPHIDE WITH HUMAN-MOUSE MONOCLONAL AN100226 LIGHT CHAIN, DIMER",
+            "Natalizumab"
+        ]
+    },
+    {
+        "drug_id":"DB00109",
+        "synonyms":[
+            "Tenecteplasa",
+            "Tenecteplase",
+            "TNK-tPA"
+        ]
+    },
+    {
+        "drug_id":"DB00110",
+        "synonyms":[
+            "Etanercept",
+            "etanercept-szzs",
+            "etanercept-ykro",
+            "Recombinant human TNF",
+            "rhu TNFR:Fc",
+            "rhu-TNFR:Fc",
+            "TNFR-Immunoadhesin"
+        ]
+    },
+    {
+        "drug_id":"DB00111",
+        "synonyms":[
+            "24-163 fibroblast growth factor 7 (human)",
+            "Palifermin",
+            "Palifermina"
+        ]
+    },
+    {
+        "drug_id":"DB00112",
+        "synonyms":[
+            "Tositumomab"
+        ]
+    },
+    {
+        "drug_id":"DB00113",
+        "synonyms":[
+            "Agalsidasa beta",
+            "Agalsidase beta",
+            "Agalsidase beta (genetical recombination)"
+        ]
+    },
+    {
+        "drug_id":"DB00114",
+        "synonyms":[
+            "Insulin (pork)",
+            "Insulin porcine",
+            "Insulin purified porcine",
+            "Insulin purified pork",
+            "Insulin, porcine",
+            "Insulin, regular, pork",
+            "Porcine insulin"
+        ]
+    },
+    {
+        "drug_id":"DB00115",
+        "synonyms":[
+            "IL-11",
+            "Interleukin 11",
+            "Interleukin-11",
+            "Oprelvekin",
+            "Recombinant interleukin-11"
+        ]
+    },
+    {
+        "drug_id":"DB00116",
+        "synonyms":[
+            "Kinase (enzyme-activating), uro-urokinase",
+            "TCUK",
+            "Tissue culture urokinase",
+            "Two-chain urokinase",
+            "Urochinasi",
+            "Urokinase",
+            "Urokinasum",
+            "Uroquinasa"
+        ]
+    },
+    {
+        "drug_id":"DB00117",
+        "synonyms":[
+            "Botulin B",
+            "Botulinum antitoxin type B",
+            "Botulinum B toxin",
+            "Botulinum neurotoxin type B precursor",
+            "Botulinum toxin type B",
+            "BTX-B",
+            "RimabotulinumtoxinB",
+            "Toxina botulínica B"
+        ]
+    },
+    {
+        "drug_id":"DB00118",
+        "synonyms":[
+            "Oxitocina",
+            "Oxytocin"
+        ]
+    },
+    {
+        "drug_id":"DB00119",
+        "synonyms":[
+            "Octreotida",
+            "Octreotide",
+            "Octreotidum",
+            "Octrotide"
+        ]
+    },
+    {
+        "drug_id":"DB00120",
+        "synonyms":[
+            "Filgrastim",
+            "Filgrastim-aafi",
+            "Filgrastim-sndz",
+            "G-CSF",
+            "Granulocyte Colony Stimulating Factor",
+            "Tbo-filgrastim"
+        ]
+    },
+    {
+        "drug_id":"DB00121",
+        "synonyms":[
+            "Anti-human thymocyte immunoglobulin, rabbit",
+            "Anti-T-lymphocyte immune globulin, rabbit",
+            "Anti-thymocyte globulin (rabbit)",
+            "Anti-thymocyte globulin rabbit",
+            "Antithymocyte immunoglobulin",
+            "Lapine T-lymphocyte immune globulin",
+            "Rabbit anti-human thymocyte globulin",
+            "Rabbit anti-human thymocyte globulin (rATG)",
+            "Rabbit anti-human thymocyte immunoglobulin",
+            "Rabbit anti-thymocyte immunoglobulin",
+            "Rabbit antithymocyte globulin",
+            "Rabbit ATG",
+            "rATG",
+            "Thymoglobulin",
+            "Thymoglobuline"
+        ]
+    },
+    {
+        "drug_id":"DB00122",
+        "synonyms":[
+            "Oxitocina",
+            "Oxytocin"
+        ]
+    },
+    {
+        "drug_id":"DB00123",
+        "synonyms":[
+            "Insulin (pork)",
+            "Insulin porcine",
+            "Insulin purified porcine",
+            "Insulin purified pork",
+            "Insulin, porcine",
+            "Insulin, regular, pork",
+            "Porcine insulin"
+        ]
+    },
+    {
+        "drug_id":"DB00124",
+        "synonyms":[
+            "(111In)-Capromab pendetide",
+            "Capromab pendetide",
+            "Indium (111In) capromab pendetide",
+            "Indium 111 Capromab Pendetide",
+            "Indium In 111 capromab pendetide"
+        ]
+    },
+    {
+        "drug_id":"DB00125",
+        "synonyms":[
+            "Sermorelin"
+        ]
+    },
+    {
+        "drug_id":"DB00126",
+        "synonyms":[
+            "Coagulation factor VIIa",
+            "Coagulation factor VIIa (recombinant)",
+            "Coagulation factor VIIa (recombinant)-jncw",
+            "Eptacog alfa",
+            "Eptacog alfa (activated)",
+            "rFVIIa"
+        ]
+    },
+    {
+        "drug_id":"DB00127",
+        "synonyms":[
+            "Peg-asparaginase",
+            "Peg\/L-asparaginase",
+            "Pegaspargasa",
+            "Pegaspargase"
+        ]
+    },
+    {
+        "drug_id":"DB00128",
+        "synonyms":[
+            "Recombinant human granulocyte-macrophage colony stimulating factor",
+            "rGM-CSF",
+            "rHu GM-CSF",
+            "Sargramostim"
+        ]
+    },
+    {
+        "drug_id":"DB00129",
+        "synonyms":[
+            "IL-11",
+            "Interleukin 11",
+            "Interleukin-11",
+            "Oprelvekin",
+            "Recombinant interleukin-11"
+        ]
+    },
+    {
+        "drug_id":"DB00130",
+        "synonyms":[
+            "Bivalirudin",
+            "Bivalirudina",
+            "Bivalirudinum"
+        ]
+    },
+    {
+        "drug_id":"DB00131",
+        "synonyms":[
+            "Darbepoetin",
+            "Darbepoetin alfa",
+            "Darbepoetin alfa,recombinant",
+            "Darbepoetina alfa"
+        ]
+    },
+    {
+        "drug_id":"DB00132",
+        "synonyms":[
+            "Agalsidasa beta",
+            "Agalsidase beta",
+            "Agalsidase beta (genetical recombination)"
+        ]
+    },
+    {
+        "drug_id":"DB00133",
+        "synonyms":[
+            "Growth hormone",
+            "Growth hormone (human)",
+            "hGH",
+            "Human growth hormone",
+            "Recombinant human growth hormone",
+            "rhGH",
+            "Somatotropin (human)",
+            "Somatotropin human",
+            "Somatotropin human growth hormone",
+            "Somatropin",
+            "Somatropin (rDNA origin)",
+            "Somatropin (recombinant DNA origin)",
+            "Somatropin [rDNA origin]",
+            "Somatropin recombinant",
+            "Somatropin(recombinant DNA origin)",
+            "Somatropina"
+        ]
+    },
+    {
+        "drug_id":"DB00134",
+        "synonyms":[
+            "Octreotida",
+            "Octreotide",
+            "Octreotidum",
+            "Octrotide"
+        ]
+    },
+    {
+        "drug_id":"DB00135",
+        "synonyms":[
+            "Rituximab",
+            "rituximab-abbs",
+            "rituximab-arrx",
+            "rituximab-pvvr"
+        ]
+    },
+    {
+        "drug_id":"DB00136",
+        "synonyms":[
+            "Ibritumomab",
+            "Ibritumomab tiuxetan",
+            "mAb Murine (IGG1) Anti P19437 (CD20_MOUSE)"
+        ]
+    },
+    {
+        "drug_id":"DB00137",
+        "synonyms":[
+            "Anakinra",
+            "IL-1RA",
+            "Interleukin-1 receptor antagonist anakinra"
+        ]
+    },
+    {
+        "drug_id":"DB00138",
+        "synonyms":[
+            "alpha-L-Idosiduronase",
+            "Human Recombinant alpha-L-iduronidase",
+            "Laronidasa",
+            "Laronidase",
+            "Laronidase (genetical recombination)"
+        ]
+    },
+    {
+        "drug_id":"DB00139",
+        "synonyms":[
+            "Coagulation factor VIIa",
+            "Coagulation factor VIIa (recombinant)",
+            "Coagulation factor VIIa (recombinant)-jncw",
+            "Eptacog alfa",
+            "Eptacog alfa (activated)",
+            "rFVIIa"
+        ]
+    },
+    {
+        "drug_id":"DB00140",
+        "synonyms":[
+            "IL-11",
+            "Interleukin 11",
+            "Interleukin-11",
+            "Oprelvekin",
+            "Recombinant interleukin-11"
+        ]
+    },
+    {
+        "drug_id":"DB00141",
+        "synonyms":[
+            "AbobotulinumtoxinA",
+            "Botulinum A neurotoxin",
+            "Botulinum antitoxin type A",
+            "Botulinum toxin A",
+            "Botulinum toxin type A",
+            "BTX-A",
+            "EvabotulinumtoxinA",
+            "IncobotulinumtoxinA",
+            "OnabotulinumtoxinA",
+            "Prabotulinumtoxin A",
+            "Toxina botulínica A",
+            "Toxine botulinique A"
+        ]
+    },
+    {
+        "drug_id":"DB00142",
+        "synonyms":[
+            "AbobotulinumtoxinA",
+            "Botulinum A neurotoxin",
+            "Botulinum antitoxin type A",
+            "Botulinum toxin A",
+            "Botulinum toxin type A",
+            "BTX-A",
+            "EvabotulinumtoxinA",
+            "IncobotulinumtoxinA",
+            "OnabotulinumtoxinA",
+            "Prabotulinumtoxin A",
+            "Toxina botulínica A",
+            "Toxine botulinique A"
+        ]
+    },
+    {
+        "drug_id":"DB00143",
+        "synonyms":[
+            "Digitalis antitoxin",
+            "Digoxin Immune Fab, Ovine",
+            "Digoxin-specific Antibody Fragments",
+            "Ovine digoxin immune fab"
+        ]
+    },
+    {
+        "drug_id":"DB00144",
+        "synonyms":[
+            "Folitropina alfa",
+            "Folitropina beta",
+            "Folitropina delta",
+            "Follicle stimulating hormone",
+            "Follitrophin alfa",
+            "Follitrophin alpha",
+            "Follitrophin beta",
+            "Follitropin alfa",
+            "Follitropin alfa\/beta",
+            "Follitropin alpha",
+            "Follitropin beta",
+            "Follitropin delta",
+            "Follitropin gamma",
+            "Follotropin recombinant",
+            "FSH",
+            "FSH alpha",
+            "FSH-a",
+            "FSH-b",
+            "FSH-beta",
+            "Recombinant human follicle stimulating hormone beta",
+            "Recombinant human follicle-stimulating hormone (r-HFSH)",
+            "rFSH-alpha"
+        ]
+    },
+    {
+        "drug_id":"DB00145",
+        "synonyms":[
+            "Interferon alfa-n1",
+            "Interferon alpha-n1 (INS)",
+            "WELL-FERON",
+            "WELLFERON"
+        ]
+    },
+    {
+        "drug_id":"DB00146",
+        "synonyms":[
+            "1-(3-mercaptopropionic acid)-8-D-arginine-vasopressin",
+            "1-deamino-8-D-arginine vasopressin",
+            "1-desamino-8-D-arginine vasopressin",
+            "dDAVP",
+            "Desmopresina",
+            "Desmopressin",
+            "Desmopressine",
+            "Desmopressinum"
+        ]
+    },
+    {
+        "drug_id":"DB00147",
+        "synonyms":[
+            "Basiliximab"
+        ]
+    },
+    {
+        "drug_id":"DB00148",
+        "synonyms":[
+            "Abciximab",
+            "Abciximab (genetical recombination)",
+            "c7E3"
+        ]
+    },
+    {
+        "drug_id":"DB00149",
+        "synonyms":[
+            "Tenecteplasa",
+            "Tenecteplase",
+            "TNK-tPA"
+        ]
+    },
+    {
+        "drug_id":"DB00150",
+        "synonyms":[
+            "Eptifibatida",
+            "Eptifibatide",
+            "Integrelin",
+            "Intrifiban"
+        ]
+    },
+    {
+        "drug_id":"DB00151",
+        "synonyms":[
+            "Recombinant human granulocyte-macrophage colony stimulating factor",
+            "rGM-CSF",
+            "rHu GM-CSF",
+            "Sargramostim"
+        ]
+    },
+    {
+        "drug_id":"DB00152",
+        "synonyms":[
+            "Kinase (enzyme-activating), uro-urokinase",
+            "TCUK",
+            "Tissue culture urokinase",
+            "Two-chain urokinase",
+            "Urochinasi",
+            "Urokinase",
+            "Urokinasum",
+            "Uroquinasa"
+        ]
+    },
+    {
+        "drug_id":"DB00153",
+        "synonyms":[
+            "2-(L-phenylalanine)-8-L-lysinevasopressin",
+            "Felipresina",
+            "Felypressin",
+            "Felypressine",
+            "Felypressinum",
+            "PLV-2"
+        ]
+    },
+    {
+        "drug_id":"DB00154",
+        "synonyms":[
+            "Agalsidasa beta",
+            "Agalsidase beta",
+            "Agalsidase beta (genetical recombination)"
+        ]
+    },
+    {
+        "drug_id":"DB00155",
+        "synonyms":[
+            "Interferon beta 1-a",
+            "Interferon beta 1a",
+            "Interferon beta-1a",
+            "Interferon beta-1a (recombinant human)",
+            "Interferon beta-1a (recombinant)",
+            "Interferon beta-1a,recombinant",
+            "Interferon beta, recombinant human",
+            "Interferon-beta-1a",
+            "SNG001"
+        ]
+    },
+    {
+        "drug_id":"DB00156",
+        "synonyms":[
+            "Anti-CD3",
+            "Muromonab-CD3"
+        ]
+    },
+    {
+        "drug_id":"DB00157",
+        "synonyms":[
+            "Alglucerase"
+        ]
+    },
+    {
+        "drug_id":"DB00158",
+        "synonyms":[
+            "Darbepoetin",
+            "Darbepoetin alfa",
+            "Darbepoetin alfa,recombinant",
+            "Darbepoetina alfa"
+        ]
+    },
+    {
+        "drug_id":"DB00159",
+        "synonyms":[
+            "Aerosolized pooled immune globulin",
+            "Human gammaglobulin",
+            "Human IGG",
+            "Human immunoglobulin G",
+            "Human normal immunoglobulin",
+            "Immune globulin (human)",
+            "Immune globulin human",
+            "Immunoglobulin (human)",
+            "Immunoglobulin G (human)",
+            "Immunoglobulin G, human",
+            "Intravenous immune globulin (human)",
+            "Intravenous immunoglobulin (IVIg)"
+        ]
+    },
+    {
+        "drug_id":"DB00160",
+        "synonyms":[
+            ".Alpha.-1 protease inhibitor",
+            ".Alpha.1-proteinase inhibitor human",
+            "122320-05-2",
+            "Alfa 1-proteinase inhibitor (human)",
+            "Alfa-1-antitripsina",
+            "Alfa1 antitrypsin",
+            "Alpha 1-antitrypsin",
+            "Alpha 1-Proteinase Inhibitor",
+            "Alpha 1-proteinase inhibitor (human)",
+            "Alpha 1-proteinase inhibitor human",
+            "Alpha 1-proteinase inhibitor, human",
+            "Alpha-1 protease inhibitor",
+            "Alpha-1 proteinase inhibitor (human)",
+            "Alpha-1-antiproteinase",
+            "Alpha-1-antitrypsin",
+            "Alpha-1-proteinase Inhibitor (human)",
+            "Alpha-1-proteinase inhibitor human",
+            "Alpha-1-proteinase Inhibitor, Human",
+            "Alpha-1-proteinase inhibitor,human",
+            "Alpha1-proteinase Inhibitor",
+            "Alpha1-proteinase inhibitor (human)",
+            "Alpha1-proteinase inhibitor human",
+            "Antileukoproteinase",
+            "API",
+            "Mucus proteinase inhibitor",
+            "Protease inhibitor wap4",
+            "Recombinant secretory leucocyte protease inhibitor",
+            "Recombinant secretory leukocyte protease inhibitor",
+            "Secretory leukocyte protease inhibitor (human)",
+            "SLPI",
+            "Wap four-disulfide core domain protein 4"
+        ]
+    },
+    {
+        "drug_id":"DB00161",
+        "synonyms":[
+            "Choriogonadotropin alfa",
+            "Choriogonadotropin alpha",
+            "Chorionic gonadotropin (recombinant)"
+        ]
+    },
+    {
+        "drug_id":"DB00162",
+        "synonyms":[
+            "[Leu1, Thr2]-63-desulfohirudin",
+            "Desulfatohirudin",
+            "Hirudin variant-1",
+            "Lepirudin",
+            "Lepirudin recombinant",
+            "R-hirudin"
+        ]
+    },
+    {
+        "drug_id":"DB00163",
+        "synonyms":[
+            "AbobotulinumtoxinA",
+            "Botulinum A neurotoxin",
+            "Botulinum antitoxin type A",
+            "Botulinum toxin A",
+            "Botulinum toxin type A",
+            "BTX-A",
+            "EvabotulinumtoxinA",
+            "IncobotulinumtoxinA",
+            "OnabotulinumtoxinA",
+            "Prabotulinumtoxin A",
+            "Toxina botulínica A",
+            "Toxine botulinique A"
+        ]
+    },
+    {
+        "drug_id":"DB00164",
+        "synonyms":[
+            "(monomethoxypolyethylene glycol succinimidyl) 11-17-adenosine deaminase",
+            "PEG-adenosine deaminase",
+            "pegADA",
+            "Pegademase",
+            "Pegademase bovine"
+        ]
+    },
+    {
+        "drug_id":"DB00165",
+        "synonyms":[
+            "E.P.O.",
+            "Epoetin alfa",
+            "Epoetin alfa rDNA",
+            "Epoetin alfa-epbx",
+            "Epoetin alfa, recombinant",
+            "Epoetin beta",
+            "Epoetin beta rDNA",
+            "Epoetin epsilon",
+            "Epoetin gamma",
+            "Epoetin gamma rDNA",
+            "Epoetin kappa",
+            "Epoetin omega",
+            "Epoetin theta",
+            "Epoetin zeta",
+            "Epoetina alfa",
+            "Epoetina beta",
+            "Epoetina dseta",
+            "Epoetina zeta",
+            "Epoétine zêta",
+            "Epoetinum zeta",
+            "Erythropoiesis stimulating factor",
+            "Erythropoietin (human, recombinant)",
+            "Erythropoietin (recombinant human)",
+            "ESF",
+            "SH-polypeptide-72"
+        ]
+    },
+    {
+        "drug_id":"DB00166",
+        "synonyms":[
+            "Darbepoetin",
+            "Darbepoetin alfa",
+            "Darbepoetin alfa,recombinant",
+            "Darbepoetina alfa"
+        ]
+    },
+    {
+        "drug_id":"DB00167",
+        "synonyms":[
+            "Etanercept",
+            "etanercept-szzs",
+            "etanercept-ykro",
+            "Recombinant human TNF",
+            "rhu TNFR:Fc",
+            "rhu-TNFR:Fc",
+            "TNFR-Immunoadhesin"
+        ]
+    },
+    {
+        "drug_id":"DB00168",
+        "synonyms":[
+            "Kinase (enzyme-activating), uro-urokinase",
+            "TCUK",
+            "Tissue culture urokinase",
+            "Two-chain urokinase",
+            "Urochinasi",
+            "Urokinase",
+            "Urokinasum",
+            "Uroquinasa"
+        ]
+    },
+    {
+        "drug_id":"DB00169",
+        "synonyms":[
+            "IFN Alfacon-1",
+            "IFN-Con1",
+            "Interferon alfacon-1"
+        ]
+    },
+    {
+        "drug_id":"DB00170",
+        "synonyms":[
+            "Bacillus brevis gramicidin D",
+            "Gramicidin",
+            "Gramicidin A",
+            "Gramicidin B",
+            "Gramicidin C",
+            "Gramicidina",
+            "Gramicidine"
+        ]
+    },
+    {
+        "drug_id":"DB00171",
+        "synonyms":[
+            "Choriogonadotropin alfa",
+            "Choriogonadotropin alpha",
+            "Chorionic gonadotropin (recombinant)"
+        ]
+    },
+    {
+        "drug_id":"DB00172",
+        "synonyms":[
+            "Pancrealipase",
+            "Pancreatic extract pancrelipase",
+            "Pancreatic protease",
+            "Pancreatin",
+            "Pancreatinum",
+            "Pancrelipase",
+            "Pancrelipase (amylase;lipase;protease)"
+        ]
+    },
+    {
+        "drug_id":"DB00173",
+        "synonyms":[
+            "Coagulation factor VIIa",
+            "Coagulation factor VIIa (recombinant)",
+            "Coagulation factor VIIa (recombinant)-jncw",
+            "Eptacog alfa",
+            "Eptacog alfa (activated)",
+            "rFVIIa"
+        ]
+    },
+    {
+        "drug_id":"DB00174",
+        "synonyms":[
+            "Digitalis antitoxin",
+            "Digoxin Immune Fab, Ovine",
+            "Digoxin-specific Antibody Fragments",
+            "Ovine digoxin immune fab"
+        ]
+    },
+    {
+        "drug_id":"DB00175",
+        "synonyms":[
+            "Lutropin alfa",
+            "Lutropin alpha",
+            "Lutropina alfa"
+        ]
+    },
+    {
+        "drug_id":"DB00176",
+        "synonyms":[
+            "Coagulation factor VIIa",
+            "Coagulation factor VIIa (recombinant)",
+            "Coagulation factor VIIa (recombinant)-jncw",
+            "Eptacog alfa",
+            "Eptacog alfa (activated)",
+            "rFVIIa"
+        ]
+    },
+    {
+        "drug_id":"DB00177",
+        "synonyms":[
+            "Indium (111In) satumomab pendetide",
+            "Indium In 111 satumomab pendetide",
+            "Indium-111 satumomab pendetide"
+        ]
+    },
+    {
+        "drug_id":"DB00178",
+        "synonyms":[
+            "E.P.O.",
+            "Epoetin alfa",
+            "Epoetin alfa rDNA",
+            "Epoetin alfa-epbx",
+            "Epoetin alfa, recombinant",
+            "Epoetin beta",
+            "Epoetin beta rDNA",
+            "Epoetin epsilon",
+            "Epoetin gamma",
+            "Epoetin gamma rDNA",
+            "Epoetin kappa",
+            "Epoetin omega",
+            "Epoetin theta",
+            "Epoetin zeta",
+            "Epoetina alfa",
+            "Epoetina beta",
+            "Epoetina dseta",
+            "Epoetina zeta",
+            "Epoétine zêta",
+            "Epoetinum zeta",
+            "Erythropoiesis stimulating factor",
+            "Erythropoietin (human, recombinant)",
+            "Erythropoietin (recombinant human)",
+            "ESF",
+            "SH-polypeptide-72"
+        ]
+    },
+    {
+        "drug_id":"DB00179",
+        "synonyms":[
+            "Anti-alpha4 integrin",
+            "Anti-VLA4",
+            "IMMUNOGLOBULIN G4 (HUMAN-MOUSE MONOCLONAL AN100226 4-CHAIN ANTI-HUMAN INTEGRIN 4), DISULFIDE WITH HUMAN-MOUSE MONOCLONAL AN100226 LIGHT CHAIN, DIMER",
+            "IMMUNOGLOBULIN G4 (HUMAN-MOUSE MONOCLONAL AN100226 4-CHAIN ANTI-HUMAN INTEGRIN 4), DISULPHIDE WITH HUMAN-MOUSE MONOCLONAL AN100226 LIGHT CHAIN, DIMER",
+            "Natalizumab"
+        ]
+    },
+    {
+        "drug_id":"DB00180",
+        "synonyms":[
+            "Kinase (enzyme-activating), uro-urokinase",
+            "TCUK",
+            "Tissue culture urokinase",
+            "Two-chain urokinase",
+            "Urochinasi",
+            "Urokinase",
+            "Urokinasum",
+            "Uroquinasa"
+        ]
+    },
+    {
+        "drug_id":"DB00181",
+        "synonyms":[
+            "Insulin (pork)",
+            "Insulin porcine",
+            "Insulin purified porcine",
+            "Insulin purified pork",
+            "Insulin, porcine",
+            "Insulin, regular, pork",
+            "Porcine insulin"
+        ]
+    },
+    {
+        "drug_id":"DB00182",
+        "synonyms":[
+            "Deoxyribonuclease (human clone 18-1 protein moiety)",
+            "Dornasa alfa",
+            "Dornase alfa",
+            "Dornase alfa, recombinant",
+            "Dornase alpha",
+            "Recombinant deoxyribonuclease (DNAse)"
+        ]
+    },
+    {
+        "drug_id":"DB00183",
+        "synonyms":[
+            "Insulin (pork)",
+            "Insulin porcine",
+            "Insulin purified porcine",
+            "Insulin purified pork",
+            "Insulin, porcine",
+            "Insulin, regular, pork",
+            "Porcine insulin"
+        ]
+    },
+    {
+        "drug_id":"DB00184",
+        "synonyms":[
+            "24-163 fibroblast growth factor 7 (human)",
+            "Palifermin",
+            "Palifermina"
+        ]
+    },
+    {
+        "drug_id":"DB00185",
+        "synonyms":[
+            "Digitalis antitoxin",
+            "Digoxin Immune Fab, Ovine",
+            "Digoxin-specific Antibody Fragments",
+            "Ovine digoxin immune fab"
+        ]
+    },
+    {
+        "drug_id":"DB00186",
+        "synonyms":[
+            "Indium (111In) satumomab pendetide",
+            "Indium In 111 satumomab pendetide",
+            "Indium-111 satumomab pendetide"
+        ]
+    },
+    {
+        "drug_id":"DB00187",
+        "synonyms":[
+            "Filgrastim",
+            "Filgrastim-aafi",
+            "Filgrastim-sndz",
+            "G-CSF",
+            "Granulocyte Colony Stimulating Factor",
+            "Tbo-filgrastim"
+        ]
+    },
+    {
+        "drug_id":"DB00188",
+        "synonyms":[
+            "Interferon alfa-n3"
+        ]
+    },
+    {
+        "drug_id":"DB00189",
+        "synonyms":[
+            "Antihemophilic factor (recombinant)",
+            "Antihemophilic factor recombinant",
+            "Antihemophilic factor, human recombinant",
+            "Antihemophilic factor, recombinant",
+            "Coagulation factor VIII, recombinant",
+            "Factor VIII (rDNA)",
+            "Factor VIII (Recombinant)",
+            "Factor VIII recombin",
+            "Factor VIII, recombinant",
+            "Human Factor VIII (Recombinant)",
+            "Human factor VIII recombinant",
+            "Octocog alfa",
+            "rAHF",
+            "Recombinant antihemophilic factor VIII"
+        ]
+    },
+    {
+        "drug_id":"DB00190",
+        "synonyms":[
+            "Recombinant Human Thyroid Stimulating Hormone",
+            "Recombinant thyrotropin alfa",
+            "rhTSH",
+            "rTSH",
+            "Thyrotropin alfa",
+            "Thyrotropin alpha"
+        ]
+    },
+    {
+        "drug_id":"DB00191",
+        "synonyms":[
+            "Basiliximab"
+        ]
+    },
+    {
+        "drug_id":"DB00192",
+        "synonyms":[
+            "Adalimumab",
+            "Adalimumab (genetical recombination)",
+            "adalimumab-adaz",
+            "adalimumab-adbm",
+            "adalimumab-afzb",
+            "adalimumab-atto",
+            "adalimumab-bwwd",
+            "adalimumab-fkjp"
+        ]
+    },
+    {
+        "drug_id":"DB00193",
+        "synonyms":[
+            "Growth hormone",
+            "Growth hormone (human)",
+            "hGH",
+            "Human growth hormone",
+            "Recombinant human growth hormone",
+            "rhGH",
+            "Somatotropin (human)",
+            "Somatotropin human",
+            "Somatotropin human growth hormone",
+            "Somatropin",
+            "Somatropin (rDNA origin)",
+            "Somatropin (recombinant DNA origin)",
+            "Somatropin [rDNA origin]",
+            "Somatropin recombinant",
+            "Somatropin(recombinant DNA origin)",
+            "Somatropina"
+        ]
+    },
+    {
+        "drug_id":"DB00194",
+        "synonyms":[
+            "RHUMAB HER2",
+            "Trastuzumab",
+            "trastuzumab-anns",
+            "trastuzumab-dkst",
+            "trastuzumab-dttb",
+            "trastuzumab-pkrb",
+            "trastuzumab-qyyp"
+        ]
+    },
+    {
+        "drug_id":"DB00195",
+        "synonyms":[
+            "Choriogonadotropin alfa",
+            "Choriogonadotropin alpha",
+            "Chorionic gonadotropin (recombinant)"
+        ]
+    },
+    {
+        "drug_id":"DB00196",
+        "synonyms":[
+            "IFN Alfacon-1",
+            "IFN-Con1",
+            "Interferon alfacon-1"
+        ]
+    },
+    {
+        "drug_id":"DB00197",
+        "synonyms":[
+            "Estreptoquinasa",
+            "Streptochinasi",
+            "Streptococcal fibrinolysin",
+            "Streptokinase",
+            "Streptokinasum"
+        ]
+    },
+    {
+        "drug_id":"DB00198",
+        "synonyms":[
+            "Eptifibatida",
+            "Eptifibatide",
+            "Integrelin",
+            "Intrifiban"
+        ]
+    },
+    {
+        "drug_id":"DB00199",
+        "synonyms":[
+            "Oxitocina",
+            "Oxytocin"
+        ]
+    },
+    {
+        "drug_id":"DB00200",
+        "synonyms":[
+            "Filgrastim",
+            "Filgrastim-aafi",
+            "Filgrastim-sndz",
+            "G-CSF",
+            "Granulocyte Colony Stimulating Factor",
+            "Tbo-filgrastim"
+        ]
+    },
+    {
+        "drug_id":"DB00201",
+        "synonyms":[
+            "Alglucerase"
+        ]
+    },
+    {
+        "drug_id":"DB00202",
+        "synonyms":[
+            "Interferon beta 1-a",
+            "Interferon beta 1a",
+            "Interferon beta-1a",
+            "Interferon beta-1a (recombinant human)",
+            "Interferon beta-1a (recombinant)",
+            "Interferon beta-1a,recombinant",
+            "Interferon beta, recombinant human",
+            "Interferon-beta-1a",
+            "SNG001"
+        ]
+    },
+    {
+        "drug_id":"DB00203",
+        "synonyms":[
+            "Bivalirudin",
+            "Bivalirudina",
+            "Bivalirudinum"
+        ]
+    },
+    {
+        "drug_id":"DB00204",
+        "synonyms":[
+            "Becaplermin",
+            "PDGF-2",
+            "PDGF-BB",
+            "PDGFB",
+            "Platelet-derived growth factor BB, recombinant",
+            "Platelet-derived growth factor beta polypeptide",
+            "Recombinant platelet-derived growth factor BB",
+            "rhPDGF-BB",
+            "rPDGF-BB",
+            "SH-POLYPEPTIDE-59"
+        ]
+    },
+    {
+        "drug_id":"DB00205",
+        "synonyms":[
+            "Activated protein C",
+            "Blood coagulation factor XIV (human)",
+            "Drotrecogin alfa (activated)",
+            "Drotrecogin alfa (activated), lyophilized",
+            "Drotrecogin alfa activated",
+            "Drotrecogin alfa, activated",
+            "Drotrecogin-alfa",
+            "Recombinant human activated protein C (rH-APC)"
+        ]
+    },
+    {
+        "drug_id":"DB00206",
+        "synonyms":[
+            "Anti-alpha4 integrin",
+            "Anti-VLA4",
+            "IMMUNOGLOBULIN G4 (HUMAN-MOUSE MONOCLONAL AN100226 4-CHAIN ANTI-HUMAN INTEGRIN 4), DISULFIDE WITH HUMAN-MOUSE MONOCLONAL AN100226 LIGHT CHAIN, DIMER",
+            "IMMUNOGLOBULIN G4 (HUMAN-MOUSE MONOCLONAL AN100226 4-CHAIN ANTI-HUMAN INTEGRIN 4), DISULPHIDE WITH HUMAN-MOUSE MONOCLONAL AN100226 LIGHT CHAIN, DIMER",
+            "Natalizumab"
+        ]
+    },
+    {
+        "drug_id":"DB00207",
+        "synonyms":[
+            "Recombinant human granulocyte-macrophage colony stimulating factor",
+            "rGM-CSF",
+            "rHu GM-CSF",
+            "Sargramostim"
+        ]
+    },
+    {
+        "drug_id":"DB00208",
+        "synonyms":[
+            "Antihemophilic factor (recombinant)",
+            "Antihemophilic factor recombinant",
+            "Antihemophilic factor, human recombinant",
+            "Antihemophilic factor, recombinant",
+            "Coagulation factor VIII, recombinant",
+            "Factor VIII (rDNA)",
+            "Factor VIII (Recombinant)",
+            "Factor VIII recombin",
+            "Factor VIII, recombinant",
+            "Human Factor VIII (Recombinant)",
+            "Human factor VIII recombinant",
+            "Octocog alfa",
+            "rAHF",
+            "Recombinant antihemophilic factor VIII"
+        ]
+    }
+]

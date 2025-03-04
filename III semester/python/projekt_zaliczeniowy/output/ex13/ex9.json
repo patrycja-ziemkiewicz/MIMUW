@@ -1,0 +1,18 @@
+[
+    {
+        "Status":"approved",
+        "Count":195
+    },
+    {
+        "Status":"withdrawn",
+        "Count":21
+    },
+    {
+        "Status":"experimental\/investigational",
+        "Count":116
+    },
+    {
+        "Status":"vet_approved",
+        "Count":8
+    }
+]

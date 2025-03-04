@@ -1,0 +1,2432 @@
+[
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB00255",
+        "interacting_drug_name":"Diethylstilbestrol",
+        "interaction_description":"Diethylstilbestrol may increase the thrombogenic activities of Cetuximab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB00269",
+        "interacting_drug_name":"Chlorotrianisene",
+        "interaction_description":"Chlorotrianisene may increase the thrombogenic activities of Cetuximab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB00286",
+        "interacting_drug_name":"Conjugated estrogens",
+        "interaction_description":"Conjugated estrogens may increase the thrombogenic activities of Cetuximab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB00655",
+        "interacting_drug_name":"Estrone",
+        "interaction_description":"Estrone may increase the thrombogenic activities of Cetuximab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB00783",
+        "interacting_drug_name":"Estradiol",
+        "interaction_description":"Estradiol may increase the thrombogenic activities of Cetuximab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB00890",
+        "interacting_drug_name":"Dienestrol",
+        "interaction_description":"Dienestrol may increase the thrombogenic activities of Cetuximab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB00977",
+        "interacting_drug_name":"Ethinylestradiol",
+        "interaction_description":"Ethinylestradiol may increase the thrombogenic activities of Cetuximab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB01357",
+        "interacting_drug_name":"Mestranol",
+        "interaction_description":"Mestranol may increase the thrombogenic activities of Cetuximab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB04573",
+        "interacting_drug_name":"Estriol",
+        "interaction_description":"Estriol may increase the thrombogenic activities of Cetuximab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB04574",
+        "interacting_drug_name":"Estrone sulfate",
+        "interaction_description":"Estrone sulfate may increase the thrombogenic activities of Cetuximab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB04575",
+        "interacting_drug_name":"Quinestrol",
+        "interaction_description":"Quinestrol may increase the thrombogenic activities of Cetuximab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB07931",
+        "interacting_drug_name":"Hexestrol",
+        "interaction_description":"Hexestrol may increase the thrombogenic activities of Cetuximab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB09070",
+        "interacting_drug_name":"Tibolone",
+        "interaction_description":"Tibolone may increase the thrombogenic activities of Cetuximab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB09317",
+        "interacting_drug_name":"Synthetic Conjugated Estrogens, A",
+        "interaction_description":"Synthetic Conjugated Estrogens, A may increase the thrombogenic activities of Cetuximab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB09318",
+        "interacting_drug_name":"Synthetic Conjugated Estrogens, B",
+        "interaction_description":"Synthetic Conjugated Estrogens, B may increase the thrombogenic activities of Cetuximab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB09369",
+        "interacting_drug_name":"Polyestradiol phosphate",
+        "interaction_description":"Polyestradiol phosphate may increase the thrombogenic activities of Cetuximab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB09381",
+        "interacting_drug_name":"Esterified estrogens",
+        "interaction_description":"Esterified estrogens may increase the thrombogenic activities of Cetuximab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB11478",
+        "interacting_drug_name":"Zeranol",
+        "interaction_description":"Zeranol may increase the thrombogenic activities of Cetuximab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB11674",
+        "interacting_drug_name":"Equol",
+        "interaction_description":"Equol may increase the thrombogenic activities of Cetuximab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB12487",
+        "interacting_drug_name":"Promestriene",
+        "interaction_description":"Promestriene may increase the thrombogenic activities of Cetuximab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB13143",
+        "interacting_drug_name":"Methallenestril",
+        "interaction_description":"Methallenestril may increase the thrombogenic activities of Cetuximab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB13386",
+        "interacting_drug_name":"Epimestrol",
+        "interaction_description":"Epimestrol may increase the thrombogenic activities of Cetuximab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB13418",
+        "interacting_drug_name":"Moxestrol",
+        "interaction_description":"Moxestrol may increase the thrombogenic activities of Cetuximab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB13952",
+        "interacting_drug_name":"Estradiol acetate",
+        "interaction_description":"Estradiol acetate may increase the thrombogenic activities of Cetuximab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB13953",
+        "interacting_drug_name":"Estradiol benzoate",
+        "interaction_description":"Estradiol benzoate may increase the thrombogenic activities of Cetuximab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB13954",
+        "interacting_drug_name":"Estradiol cypionate",
+        "interaction_description":"Estradiol cypionate may increase the thrombogenic activities of Cetuximab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB13956",
+        "interacting_drug_name":"Estradiol valerate",
+        "interaction_description":"Estradiol valerate may increase the thrombogenic activities of Cetuximab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB15334",
+        "interacting_drug_name":"Biochanin A",
+        "interaction_description":"Biochanin A may increase the thrombogenic activities of Cetuximab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB15335",
+        "interacting_drug_name":"Formononetin",
+        "interaction_description":"Formononetin may increase the thrombogenic activities of Cetuximab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB12235",
+        "interacting_drug_name":"Estetrol",
+        "interaction_description":"Estetrol may increase the thrombogenic activities of Cetuximab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB00028",
+        "interacting_drug_name":"Human immunoglobulin G",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Human immunoglobulin G."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB00043",
+        "interacting_drug_name":"Omalizumab",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Omalizumab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB00051",
+        "interacting_drug_name":"Adalimumab",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Adalimumab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB00054",
+        "interacting_drug_name":"Abciximab",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Abciximab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB00056",
+        "interacting_drug_name":"Gemtuzumab ozogamicin",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Gemtuzumab ozogamicin."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB00057",
+        "interacting_drug_name":"Indium In-111 satumomab pendetide",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Indium In-111 satumomab pendetide."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB00065",
+        "interacting_drug_name":"Infliximab",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Infliximab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB00072",
+        "interacting_drug_name":"Trastuzumab",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Trastuzumab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB00073",
+        "interacting_drug_name":"Rituximab",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Rituximab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB00074",
+        "interacting_drug_name":"Basiliximab",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Basiliximab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB00075",
+        "interacting_drug_name":"Muromonab",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Muromonab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB00076",
+        "interacting_drug_name":"Digoxin Immune Fab (Ovine)",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Digoxin Immune Fab (Ovine)."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB00078",
+        "interacting_drug_name":"Ibritumomab tiuxetan",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Ibritumomab tiuxetan."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB00081",
+        "interacting_drug_name":"Tositumomab",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Tositumomab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB00087",
+        "interacting_drug_name":"Alemtuzumab",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Alemtuzumab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB00089",
+        "interacting_drug_name":"Capromab pendetide",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Capromab pendetide."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB00095",
+        "interacting_drug_name":"Efalizumab",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Efalizumab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB00098",
+        "interacting_drug_name":"Antithymocyte immunoglobulin (rabbit)",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Antithymocyte immunoglobulin (rabbit)."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB00108",
+        "interacting_drug_name":"Natalizumab",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Natalizumab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB00110",
+        "interacting_drug_name":"Palivizumab",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Palivizumab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB00111",
+        "interacting_drug_name":"Daclizumab",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Daclizumab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB00112",
+        "interacting_drug_name":"Bevacizumab",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Bevacizumab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB00113",
+        "interacting_drug_name":"Technetium Tc-99m arcitumomab",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Technetium Tc-99m arcitumomab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB01257",
+        "interacting_drug_name":"Eculizumab",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Eculizumab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB01269",
+        "interacting_drug_name":"Panitumumab",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Panitumumab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB01270",
+        "interacting_drug_name":"Ranibizumab",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Ranibizumab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB04901",
+        "interacting_drug_name":"Galiximab",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Galiximab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB04949",
+        "interacting_drug_name":"Pexelizumab",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Pexelizumab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB04956",
+        "interacting_drug_name":"Afelimomab",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Afelimomab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB04958",
+        "interacting_drug_name":"Epratuzumab",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Epratuzumab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB04962",
+        "interacting_drug_name":"Bectumomab",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Bectumomab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB04964",
+        "interacting_drug_name":"Oregovomab",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Oregovomab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB04988",
+        "interacting_drug_name":"IGN311",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with IGN311."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB05006",
+        "interacting_drug_name":"Adecatumumab",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Adecatumumab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB05097",
+        "interacting_drug_name":"Labetuzumab",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Labetuzumab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB05101",
+        "interacting_drug_name":"Matuzumab",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Matuzumab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB05111",
+        "interacting_drug_name":"Fontolizumab",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Fontolizumab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB05136",
+        "interacting_drug_name":"Bavituximab",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Bavituximab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB05139",
+        "interacting_drug_name":"CR002",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with CR002."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB05209",
+        "interacting_drug_name":"Rozrolimupab",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Rozrolimupab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB05304",
+        "interacting_drug_name":"Girentuximab",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Girentuximab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB05336",
+        "interacting_drug_name":"Obiltoxaximab",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Obiltoxaximab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB05405",
+        "interacting_drug_name":"XTL-001",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with XTL-001."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB05437",
+        "interacting_drug_name":"NAV 1800",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with NAV 1800."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB05459",
+        "interacting_drug_name":"Briakinumab",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Briakinumab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB05496",
+        "interacting_drug_name":"Otelixizumab",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Otelixizumab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB05545",
+        "interacting_drug_name":"AMG 108",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with AMG 108."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB05550",
+        "interacting_drug_name":"Iratumumab",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Iratumumab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB05555",
+        "interacting_drug_name":"Enokizumab",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Enokizumab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB05578",
+        "interacting_drug_name":"Ramucirumab",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Ramucirumab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB05595",
+        "interacting_drug_name":"Farletuzumab",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Farletuzumab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB05656",
+        "interacting_drug_name":"Veltuzumab",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Veltuzumab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB05679",
+        "interacting_drug_name":"Ustekinumab",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Ustekinumab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB05773",
+        "interacting_drug_name":"Trastuzumab emtansine",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Trastuzumab emtansine."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB05793",
+        "interacting_drug_name":"PRO-542",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with PRO-542."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB05797",
+        "interacting_drug_name":"TNX-901",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with TNX-901."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB05889",
+        "interacting_drug_name":"Inotuzumab ozogamicin",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Inotuzumab ozogamicin."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB05892",
+        "interacting_drug_name":"RI 624",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with RI 624."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB05915",
+        "interacting_drug_name":"Stamulumab",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with MYO-029."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB05916",
+        "interacting_drug_name":"CT-011",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with CT-011."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB05941",
+        "interacting_drug_name":"Leronlimab",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Leronlimab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB05996",
+        "interacting_drug_name":"Glembatumumab vedotin",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Glembatumumab vedotin."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB06043",
+        "interacting_drug_name":"Olaratumab",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Olaratumab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB06049",
+        "interacting_drug_name":"IPH 2101",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with IPH 2101."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB06050",
+        "interacting_drug_name":"TB-402",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with TB-402."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB06081",
+        "interacting_drug_name":"Caplacizumab",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Caplacizumab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB06101",
+        "interacting_drug_name":"IMC-1C11",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with IMC-1C11."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB06116",
+        "interacting_drug_name":"Eldelumab",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Eldelumab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB06162",
+        "interacting_drug_name":"Lumiliximab",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Lumiliximab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB06168",
+        "interacting_drug_name":"Canakinumab",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Canakinumab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB06186",
+        "interacting_drug_name":"Ipilimumab",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Ipilimumab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB06192",
+        "interacting_drug_name":"Nimotuzumab",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Nimotuzumab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB06241",
+        "interacting_drug_name":"Clenoliximab",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Clenoliximab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB06273",
+        "interacting_drug_name":"Tocilizumab",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Tocilizumab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB06304",
+        "interacting_drug_name":"BIIB015",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with BIIB015."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB06305",
+        "interacting_drug_name":"Sonepcizumab",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Sonepcizumab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB06310",
+        "interacting_drug_name":"Motavizumab",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Motavizumab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB06317",
+        "interacting_drug_name":"Elotuzumab",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Elotuzumab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB06318",
+        "interacting_drug_name":"AVE9633",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with AVE9633."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB06322",
+        "interacting_drug_name":"Carotuximab",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Carotuximab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB06324",
+        "interacting_drug_name":"XmAb 2513",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with XmAb 2513."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB06342",
+        "interacting_drug_name":"Coltuximab ravtansine",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Coltuximab ravtansine."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB06360",
+        "interacting_drug_name":"Lucatumumab",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Lucatumumab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB06366",
+        "interacting_drug_name":"Pertuzumab",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Pertuzumab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB06371",
+        "interacting_drug_name":"Siplizumab",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Siplizumab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB06467",
+        "interacting_drug_name":"Apolizumab",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Apolizumab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB06474",
+        "interacting_drug_name":"Sibrotuzumab",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Sibrotuzumab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB06550",
+        "interacting_drug_name":"Bivatuzumab",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Bivatuzumab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB06557",
+        "interacting_drug_name":"Lerdelimumab",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Lerdelimumab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB06599",
+        "interacting_drug_name":"Lexatumumab",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Lexatumumab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB06602",
+        "interacting_drug_name":"Reslizumab",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Reslizumab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB06606",
+        "interacting_drug_name":"Teplizumab",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Teplizumab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB06607",
+        "interacting_drug_name":"Catumaxomab",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Catumaxomab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB06612",
+        "interacting_drug_name":"Mepolizumab",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Mepolizumab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB06643",
+        "interacting_drug_name":"Denosumab",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Denosumab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB06647",
+        "interacting_drug_name":"Volociximab",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Volociximab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB06650",
+        "interacting_drug_name":"Ofatumumab",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Ofatumumab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB06674",
+        "interacting_drug_name":"Golimumab",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Golimumab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB08870",
+        "interacting_drug_name":"Brentuximab vedotin",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Brentuximab vedotin."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB08879",
+        "interacting_drug_name":"Belimumab",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Belimumab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB08902",
+        "interacting_drug_name":"Raxibacumab",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Raxibacumab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB08935",
+        "interacting_drug_name":"Obinutuzumab",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Obinutuzumab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB09029",
+        "interacting_drug_name":"Secukinumab",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Secukinumab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB09033",
+        "interacting_drug_name":"Vedolizumab",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Vedolizumab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB09035",
+        "interacting_drug_name":"Nivolumab",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Nivolumab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB09036",
+        "interacting_drug_name":"Siltuximab",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Siltuximab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB09037",
+        "interacting_drug_name":"Pembrolizumab",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Pembrolizumab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB09045",
+        "interacting_drug_name":"Dulaglutide",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Dulaglutide."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB09052",
+        "interacting_drug_name":"Blinatumomab",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Blinatumomab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB09057",
+        "interacting_drug_name":"Anthrax immune globulin human",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Anthrax immune globulin human."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB09077",
+        "interacting_drug_name":"Dinutuximab",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Dinutuximab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB09105",
+        "interacting_drug_name":"Asfotase alfa",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Asfotase alfa."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB09264",
+        "interacting_drug_name":"Idarucizumab",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Idarucizumab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB09302",
+        "interacting_drug_name":"Alirocumab",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Alirocumab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB09303",
+        "interacting_drug_name":"Evolocumab",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Evolocumab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB09312",
+        "interacting_drug_name":"Antilymphocyte immunoglobulin (horse)",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Antilymphocyte immunoglobulin (horse)."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB09331",
+        "interacting_drug_name":"Daratumumab",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Daratumumab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB09559",
+        "interacting_drug_name":"Necitumumab",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Necitumumab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB11569",
+        "interacting_drug_name":"Ixekizumab",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Ixekizumab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB11580",
+        "interacting_drug_name":"Ravulizumab",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Ravulizumab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB11595",
+        "interacting_drug_name":"Atezolizumab",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Atezolizumab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB11604",
+        "interacting_drug_name":"Tetanus immune globulin, human",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Tetanus immune globulin, human."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB11608",
+        "interacting_drug_name":"Eftrenonacog alfa",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Eftrenonacog alfa."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB11621",
+        "interacting_drug_name":"Human varicella-zoster immune globulin",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Human varicella-zoster immune globulin."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB11646",
+        "interacting_drug_name":"Conatumumab",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Conatumumab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB11657",
+        "interacting_drug_name":"Tabalumab",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Tabalumab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB11680",
+        "interacting_drug_name":"Ficlatuzumab",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Ficlatuzumab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB11685",
+        "interacting_drug_name":"Figitumumab",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Figitumumab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB11714",
+        "interacting_drug_name":"Durvalumab",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Durvalumab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB11715",
+        "interacting_drug_name":"Bapineuzumab",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Bapineuzumab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB11731",
+        "interacting_drug_name":"Depatuxizumab mafodotin",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Depatuxizumab mafodotin."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB11746",
+        "interacting_drug_name":"Onartuzumab",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Onartuzumab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB11756",
+        "interacting_drug_name":"Solanezumab",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Solanezumab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB11767",
+        "interacting_drug_name":"Sarilumab",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Sarilumab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB11771",
+        "interacting_drug_name":"Tremelimumab",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Tremelimumab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB11776",
+        "interacting_drug_name":"Brodalumab",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Brodalumab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB11803",
+        "interacting_drug_name":"Sirukumab",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Sirukumab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB11826",
+        "interacting_drug_name":"Lampalizumab",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Lampalizumab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB11834",
+        "interacting_drug_name":"Guselkumab",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Guselkumab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB11840",
+        "interacting_drug_name":"Dalotuzumab",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Dalotuzumab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB11849",
+        "interacting_drug_name":"Emibetuzumab",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Emibetuzumab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB11850",
+        "interacting_drug_name":"Ublituximab",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Ublituximab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB11856",
+        "interacting_drug_name":"Ligelizumab",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Ligelizumab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB11857",
+        "interacting_drug_name":"Seribantumab",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Seribantumab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB11862",
+        "interacting_drug_name":"Landogrozumab",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Landogrozumab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB11866",
+        "interacting_drug_name":"Romosozumab",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Romosozumab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB11884",
+        "interacting_drug_name":"Vadastuximab talirine",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Vadastuximab talirine."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB11914",
+        "interacting_drug_name":"Lebrikizumab",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Lebrikizumab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB11930",
+        "interacting_drug_name":"Varlilumab",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Varlilumab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB11945",
+        "interacting_drug_name":"Avelumab",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Avelumab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB11959",
+        "interacting_drug_name":"Crenezumab",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Crenezumab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB11972",
+        "interacting_drug_name":"Rilotumumab",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Rilotumumab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB11976",
+        "interacting_drug_name":"Anifrolumab",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Anifrolumab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB11988",
+        "interacting_drug_name":"Ocrelizumab",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Ocrelizumab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB12023",
+        "interacting_drug_name":"Benralizumab",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Benralizumab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB12034",
+        "interacting_drug_name":"Gantenerumab",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Gantenerumab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB12053",
+        "interacting_drug_name":"Visilizumab",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Visilizumab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB12077",
+        "interacting_drug_name":"Urelumab",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Urelumab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB12089",
+        "interacting_drug_name":"Lorvotuzumab mertansine",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Lorvotuzumab mertansine."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB12090",
+        "interacting_drug_name":"Patritumab",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Patritumab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB12102",
+        "interacting_drug_name":"Fulranumab",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Fulranumab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB12104",
+        "interacting_drug_name":"Tarextumab",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Tarextumab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB12118",
+        "interacting_drug_name":"Sotatercept",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Sotatercept."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB12119",
+        "interacting_drug_name":"Gevokizumab",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Gevokizumab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB12142",
+        "interacting_drug_name":"Duligotuzumab",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Duligotuzumab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB12152",
+        "interacting_drug_name":"Simtuzumab",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Simtuzumab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB12157",
+        "interacting_drug_name":"Fasinumab",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Fasinumab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB12159",
+        "interacting_drug_name":"Dupilumab",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Dupilumab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB12169",
+        "interacting_drug_name":"Tralokinumab",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Tralokinumab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB12189",
+        "interacting_drug_name":"Etrolizumab",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Etrolizumab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB12202",
+        "interacting_drug_name":"Zalutumumab",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Zalutumumab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB12205",
+        "interacting_drug_name":"Ganitumab",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Ganitumab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB12213",
+        "interacting_drug_name":"Etaracizumab",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Etaracizumab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB12240",
+        "interacting_drug_name":"Polatuzumab vedotin",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Polatuzumab vedotin."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB12246",
+        "interacting_drug_name":"Inclacumab",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Inclacumab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB12250",
+        "interacting_drug_name":"Cixutumumab",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Cixutumumab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB12261",
+        "interacting_drug_name":"Ascrinvacumab",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Ascrinvacumab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB12274",
+        "interacting_drug_name":"Aducanumab",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Aducanumab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB12296",
+        "interacting_drug_name":"GS-5745",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with GS-5745."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB12317",
+        "interacting_drug_name":"Vanucizumab",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Vanucizumab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB12331",
+        "interacting_drug_name":"Labetuzumab govitecan",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Labetuzumab govitecan."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB12335",
+        "interacting_drug_name":"Tanezumab",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Tanezumab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB12342",
+        "interacting_drug_name":"Ensituximab",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Ensituximab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB12344",
+        "interacting_drug_name":"Fezakinumab",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Fezakinumab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB12363",
+        "interacting_drug_name":"Dusigitumab",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Dusigitumab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB12396",
+        "interacting_drug_name":"Fresolimumab",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Fresolimumab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB12413",
+        "interacting_drug_name":"Indusatumab vedotin",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Indusatumab vedotin."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB12456",
+        "interacting_drug_name":"Bococizumab",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Bococizumab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB12489",
+        "interacting_drug_name":"Mirvetuximab soravtansine",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Mirvetuximab Soravtansine."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB12498",
+        "interacting_drug_name":"Mogamulizumab",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Mogamulizumab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB12520",
+        "interacting_drug_name":"Plozalizumab",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Plozalizumab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB12530",
+        "interacting_drug_name":"Inebilizumab",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Inebilizumab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB12534",
+        "interacting_drug_name":"Mavrilimumab",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Mavrilimumab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB12560",
+        "interacting_drug_name":"Blosozumab",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Blosozumab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB12584",
+        "interacting_drug_name":"Bimagrumab",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Bimagrumab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB12589",
+        "interacting_drug_name":"Dacetuzumab",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Dacetuzumab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB12609",
+        "interacting_drug_name":"Tovetumab",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Tovetumab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB12683",
+        "interacting_drug_name":"Lumretuzumab",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Lumretuzumab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB12698",
+        "interacting_drug_name":"Ibalizumab",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Ibalizumab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB12701",
+        "interacting_drug_name":"Intetumumab",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Intetumumab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB12718",
+        "interacting_drug_name":"Carlumab",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Carlumab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB12734",
+        "interacting_drug_name":"Demcizumab",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Demcizumab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB12773",
+        "interacting_drug_name":"Sifalimumab",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Sifalimumab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB12775",
+        "interacting_drug_name":"Abituzumab",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Abituzumab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB12797",
+        "interacting_drug_name":"Ecromeximab",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Ecromeximab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB12807",
+        "interacting_drug_name":"Naptumomab estafenatox",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Naptumomab estafenatox."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB12815",
+        "interacting_drug_name":"Crotedumab",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Crotedumab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB12820",
+        "interacting_drug_name":"Concizumab",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Concizumab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB12826",
+        "interacting_drug_name":"Depatuxizumab",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Depatuxizumab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB12844",
+        "interacting_drug_name":"Rontalizumab",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Rontalizumab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB12845",
+        "interacting_drug_name":"Amatuximab",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Amatuximab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB12849",
+        "interacting_drug_name":"Clazakizumab",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Clazakizumab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB12891",
+        "interacting_drug_name":"Ozanezumab",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Ozanezumab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB12893",
+        "interacting_drug_name":"Sacituzumab govitecan",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Sacituzumab govitecan."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB12917",
+        "interacting_drug_name":"Bimekizumab",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Bimekizumab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB12943",
+        "interacting_drug_name":"Milatuzumab",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Milatuzumab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB12976",
+        "interacting_drug_name":"Robatumumab",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Robatumumab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB13017",
+        "interacting_drug_name":"Rovalpituzumab tesirine",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Rovalpituzumab tesirine."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB13037",
+        "interacting_drug_name":"Namilumab",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Namilumab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB13045",
+        "interacting_drug_name":"Racotumomab",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Racotumomab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB13073",
+        "interacting_drug_name":"Tregalizumab",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Tregalizumab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB13127",
+        "interacting_drug_name":"Olokizumab",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Olokizumab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB13140",
+        "interacting_drug_name":"Bezlotoxumab",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Bezlotoxumab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB13375",
+        "interacting_drug_name":"Edrecolomab",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Edrecolomab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB13535",
+        "interacting_drug_name":"Nebacumab",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Nebacumab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB13886",
+        "interacting_drug_name":"Human cytomegalovirus immune globulin",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Human cytomegalovirus immune globulin."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB13923",
+        "interacting_drug_name":"Emicizumab",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Emicizumab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB13976",
+        "interacting_drug_name":"Sulesomab",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Sulesomab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB13979",
+        "interacting_drug_name":"Besilesomab",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Besilesomab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB14004",
+        "interacting_drug_name":"Tildrakizumab",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Tildrakizumab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB14012",
+        "interacting_drug_name":"Burosumab",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Burosumab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB14039",
+        "interacting_drug_name":"Erenumab",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Erenumab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB14040",
+        "interacting_drug_name":"Eptinezumab",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Eptinezumab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB14041",
+        "interacting_drug_name":"Fremanezumab",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Fremanezumab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB14042",
+        "interacting_drug_name":"Galcanezumab",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Galcanezumab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB14211",
+        "interacting_drug_name":"Fanolesomab",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Fanolesomab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB14580",
+        "interacting_drug_name":"Lecanemab",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Lecanemab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB14597",
+        "interacting_drug_name":"Lanadelumab",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Lanadelumab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB14707",
+        "interacting_drug_name":"Cemiplimab",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Cemiplimab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB14724",
+        "interacting_drug_name":"Emapalumab",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Emapalumab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB14762",
+        "interacting_drug_name":"Risankizumab",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Risankizumab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB14776",
+        "interacting_drug_name":"Camrelizumab",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Camrelizumab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB14778",
+        "interacting_drug_name":"Setrusumab",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Setrusumab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB14784",
+        "interacting_drug_name":"Gancotamab",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Gancotamab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB14809",
+        "interacting_drug_name":"Anetumab ravtansine",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Anetumab ravtansine."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB14811",
+        "interacting_drug_name":"Isatuximab",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Isatuximab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB14824",
+        "interacting_drug_name":"Icrucumab",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Icrucumab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB14843",
+        "interacting_drug_name":"Codrituzumab",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Codrituzumab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB14864",
+        "interacting_drug_name":"Brolucizumab",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Brolucizumab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB14871",
+        "interacting_drug_name":"Xentuzumab",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Xentuzumab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB14877",
+        "interacting_drug_name":"Lintuzumab",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Lintuzumab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB14891",
+        "interacting_drug_name":"Vobarilizumab",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Vobarilizumab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB14897",
+        "interacting_drug_name":"Parsatuzumab",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Parsatuzumab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB14905",
+        "interacting_drug_name":"Emactuzumab",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Emactuzumab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB14907",
+        "interacting_drug_name":"Bevacizumab zirconium Zr-89",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Bevacizumab zirconium Zr-89."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB14908",
+        "interacting_drug_name":"Refanezumab",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Refanezumab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB14919",
+        "interacting_drug_name":"Rozanolixizumab",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Rozanolixizumab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB14947",
+        "interacting_drug_name":"Bermekimab",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Bermekimab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB14952",
+        "interacting_drug_name":"Pamrevlumab",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Pamrevlumab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB14959",
+        "interacting_drug_name":"Opicinumab",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Opicinumab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB14962",
+        "interacting_drug_name":"Trastuzumab deruxtecan",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Trastuzumab deruxtecan."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB14967",
+        "interacting_drug_name":"Margetuximab",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Margetuximab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB14988",
+        "interacting_drug_name":"Dalantercept",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Dalantercept."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB14997",
+        "interacting_drug_name":"Pateclizumab",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Pateclizumab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB15014",
+        "interacting_drug_name":"Gremubamab",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Gremubamab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB15022",
+        "interacting_drug_name":"Apomab",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Apomab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB15044",
+        "interacting_drug_name":"Tafasitamab",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Tafasitamab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB15045",
+        "interacting_drug_name":"Ipafricept",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Ipafricept."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB15076",
+        "interacting_drug_name":"Abrilumab",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Abrilumab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB15089",
+        "interacting_drug_name":"Frovocimab",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Frovocimab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB15090",
+        "interacting_drug_name":"Tezepelumab",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Tezepelumab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB15101",
+        "interacting_drug_name":"Tigatuzumab",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Tigatuzumab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB15104",
+        "interacting_drug_name":"Telisotuzumab vedotin",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Telisotuzumab vedotin."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB15113",
+        "interacting_drug_name":"Utomilumab",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Utomilumab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB15118",
+        "interacting_drug_name":"Zolbetuximab",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Zolbetuximab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB15135",
+        "interacting_drug_name":"Ponezumab",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Ponezumab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB15160",
+        "interacting_drug_name":"Asunercept",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Asunercept."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB15172",
+        "interacting_drug_name":"Suvratoxumab",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Suvratoxumab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB15225",
+        "interacting_drug_name":"Mitazalimab",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Mitazalimab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB15252",
+        "interacting_drug_name":"Nemolizumab",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Nemolizumab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB15253",
+        "interacting_drug_name":"Bleselumab",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Bleselumab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB15277",
+        "interacting_drug_name":"Gedivumab",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Gedivumab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB15336",
+        "interacting_drug_name":"Valanafusp alfa",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Valanafusp alfa."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB15349",
+        "interacting_drug_name":"Sofituzumab vedotin",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Sofituzumab vedotin."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB15363",
+        "interacting_drug_name":"Istiratumab",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Istiratumab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB15383",
+        "interacting_drug_name":"Pidilizumab",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Pidilizumab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB15397",
+        "interacting_drug_name":"GMA-161",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with GMA-161."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB15409",
+        "interacting_drug_name":"Ladiratuzumab vedotin",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Ladiratuzumab vedotin."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB15415",
+        "interacting_drug_name":"Tomaralimab",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Tomaralimab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB15428",
+        "interacting_drug_name":"Vesencumab",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Vesencumab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB15432",
+        "interacting_drug_name":"Pinatuzumab vedotin",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Pinatuzumab vedotin."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB15441",
+        "interacting_drug_name":"Lulizumab pegol",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Lulizumab pegol."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB15443",
+        "interacting_drug_name":"Lorukafusp alfa",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Lorukafusp alfa."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB15453",
+        "interacting_drug_name":"Naratuximab emtansine",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Naratuximab emtansine."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB15559",
+        "interacting_drug_name":"Zenocutuzumab",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Zenocutuzumab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB15898",
+        "interacting_drug_name":"Atoltivimab",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Atoltivimab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB15899",
+        "interacting_drug_name":"Maftivimab",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Maftivimab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB15900",
+        "interacting_drug_name":"Odesivimab",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Odesivimab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB15719",
+        "interacting_drug_name":"Belantamab mafodotin",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Belantamab mafodotin."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB16385",
+        "interacting_drug_name":"Ansuvimab",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Ansuvimab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB15718",
+        "interacting_drug_name":"Bamlanivimab",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Bamlanivimab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB05276",
+        "interacting_drug_name":"Hepatitis B immune globulin",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Hepatitis B immune globulin."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB11597",
+        "interacting_drug_name":"Human Rho(D) immune globulin",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Human Rho(D) immune globulin."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB15627",
+        "interacting_drug_name":"Dostarlimab",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Dostarlimab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB08904",
+        "interacting_drug_name":"Certolizumab pegol",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Certolizumab pegol."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB15628",
+        "interacting_drug_name":"Inolimomab",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Inolimomab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB15865",
+        "interacting_drug_name":"Pentaglobin",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Pentaglobin."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB16077",
+        "interacting_drug_name":"Abagovomab",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Abagovomab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB16151",
+        "interacting_drug_name":"Efungumab",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Efungumab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB16170",
+        "interacting_drug_name":"Foralumab",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Foralumab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB16195",
+        "interacting_drug_name":"Indatuximab ravtansine",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Indatuximab ravtansine."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB16225",
+        "interacting_drug_name":"Magrolimab",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Magrolimab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB16265",
+        "interacting_drug_name":"Olinvacimab",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Olinvacimab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB16376",
+        "interacting_drug_name":"Actoxumab",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Actoxumab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB16421",
+        "interacting_drug_name":"Volagidemab",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Volagidemab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB16659",
+        "interacting_drug_name":"Bentracimab",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Bentracimab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB16695",
+        "interacting_drug_name":"Amivantamab",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Amivantamab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB15595",
+        "interacting_drug_name":"Ebola Zaire vaccine (live, attenuated)",
+        "interaction_description":"The therapeutic efficacy of Ebola Zaire vaccine (live, attenuated) can be decreased when used in combination with Cetuximab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB15258",
+        "interacting_drug_name":"Imlifidase",
+        "interaction_description":"The therapeutic efficacy of Cetuximab can be decreased when used in combination with Imlifidase."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB00012",
+        "interacting_drug_name":"Darbepoetin alfa",
+        "interaction_description":"The risk or severity of Thrombosis can be increased when Darbepoetin alfa is combined with Cetuximab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB00016",
+        "interacting_drug_name":"Erythropoietin",
+        "interaction_description":"The risk or severity of Thrombosis can be increased when Erythropoietin is combined with Cetuximab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB08894",
+        "interacting_drug_name":"Peginesatide",
+        "interaction_description":"The risk or severity of Thrombosis can be increased when Peginesatide is combined with Cetuximab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB09107",
+        "interacting_drug_name":"Methoxy polyethylene glycol-epoetin beta",
+        "interaction_description":"The risk or severity of Thrombosis can be increased when Methoxy polyethylene glycol-epoetin beta is combined with Cetuximab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB15940",
+        "interacting_drug_name":"Imdevimab",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Imdevimab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB15941",
+        "interacting_drug_name":"Casirivimab",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Casirivimab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB16393",
+        "interacting_drug_name":"Cilgavimab",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Cilgavimab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB16394",
+        "interacting_drug_name":"Tixagevimab",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Tixagevimab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB16355",
+        "interacting_drug_name":"Sotrovimab",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Sotrovimab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB16222",
+        "interacting_drug_name":"Loncastuximab tesirine",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Loncastuximab tesirine."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB16732",
+        "interacting_drug_name":"Tisotumab vedotin",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Tisotumab vedotin."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB14996",
+        "interacting_drug_name":"Sutimlimab",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Sutimlimab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB16755",
+        "interacting_drug_name":"Bebtelovimab",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Bebtelovimab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB15434",
+        "interacting_drug_name":"Mosunetuzumab",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Mosunetuzumab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB15626",
+        "interacting_drug_name":"Spesolimab",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Spesolimab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB15001",
+        "interacting_drug_name":"Eflapegrastim",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Eflapegrastim."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB00281",
+        "interacting_drug_name":"Lidocaine",
+        "interaction_description":"The risk or severity of methemoglobinemia can be increased when Cetuximab is combined with Lidocaine."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB00296",
+        "interacting_drug_name":"Ropivacaine",
+        "interaction_description":"The risk or severity of methemoglobinemia can be increased when Cetuximab is combined with Ropivacaine."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB00297",
+        "interacting_drug_name":"Bupivacaine",
+        "interaction_description":"The risk or severity of methemoglobinemia can be increased when Cetuximab is combined with Bupivacaine."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB00527",
+        "interacting_drug_name":"Cinchocaine",
+        "interaction_description":"The risk or severity of methemoglobinemia can be increased when Cetuximab is combined with Cinchocaine."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB00645",
+        "interacting_drug_name":"Dyclonine",
+        "interaction_description":"The risk or severity of methemoglobinemia can be increased when Cetuximab is combined with Dyclonine."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB00721",
+        "interacting_drug_name":"Procaine",
+        "interaction_description":"The risk or severity of methemoglobinemia can be increased when Cetuximab is combined with Procaine."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB00750",
+        "interacting_drug_name":"Prilocaine",
+        "interaction_description":"The risk or severity of methemoglobinemia can be increased when Cetuximab is combined with Prilocaine."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB00807",
+        "interacting_drug_name":"Proparacaine",
+        "interaction_description":"The risk or severity of methemoglobinemia can be increased when Cetuximab is combined with Proparacaine."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB00814",
+        "interacting_drug_name":"Meloxicam",
+        "interaction_description":"The risk or severity of methemoglobinemia can be increased when Cetuximab is combined with Meloxicam."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB00892",
+        "interacting_drug_name":"Oxybuprocaine",
+        "interaction_description":"The risk or severity of methemoglobinemia can be increased when Cetuximab is combined with Oxybuprocaine."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB00907",
+        "interacting_drug_name":"Cocaine",
+        "interaction_description":"The risk or severity of methemoglobinemia can be increased when Cetuximab is combined with Cocaine."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB00961",
+        "interacting_drug_name":"Mepivacaine",
+        "interaction_description":"The risk or severity of methemoglobinemia can be increased when Cetuximab is combined with Mepivacaine."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB01002",
+        "interacting_drug_name":"Levobupivacaine",
+        "interaction_description":"The risk or severity of methemoglobinemia can be increased when Cetuximab is combined with Levobupivacaine."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB01075",
+        "interacting_drug_name":"Diphenhydramine",
+        "interaction_description":"The risk or severity of methemoglobinemia can be increased when Cetuximab is combined with Diphenhydramine."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB01086",
+        "interacting_drug_name":"Benzocaine",
+        "interaction_description":"The risk or severity of methemoglobinemia can be increased when Cetuximab is combined with Benzocaine."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB01161",
+        "interacting_drug_name":"Chloroprocaine",
+        "interaction_description":"The risk or severity of methemoglobinemia can be increased when Cetuximab is combined with Chloroprocaine."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB03255",
+        "interacting_drug_name":"Phenol",
+        "interaction_description":"The risk or severity of methemoglobinemia can be increased when Cetuximab is combined with Phenol."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB05232",
+        "interacting_drug_name":"Tetrodotoxin",
+        "interaction_description":"The risk or severity of methemoglobinemia can be increased when Cetuximab is combined with Tetrodotoxin."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB06770",
+        "interacting_drug_name":"Benzyl alcohol",
+        "interaction_description":"The risk or severity of methemoglobinemia can be increased when Cetuximab is combined with Benzyl alcohol."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB06774",
+        "interacting_drug_name":"Capsaicin",
+        "interaction_description":"The risk or severity of methemoglobinemia can be increased when Cetuximab is combined with Capsaicin."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB08987",
+        "interacting_drug_name":"Etidocaine",
+        "interaction_description":"The risk or severity of methemoglobinemia can be increased when Cetuximab is combined with Etidocaine."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB09009",
+        "interacting_drug_name":"Articaine",
+        "interaction_description":"The risk or severity of methemoglobinemia can be increased when Cetuximab is combined with Articaine."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB09085",
+        "interacting_drug_name":"Tetracaine",
+        "interaction_description":"The risk or severity of methemoglobinemia can be increased when Cetuximab is combined with Tetracaine."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB09342",
+        "interacting_drug_name":"Propoxycaine",
+        "interaction_description":"The risk or severity of methemoglobinemia can be increased when Cetuximab is combined with Propoxycaine."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB09345",
+        "interacting_drug_name":"Pramocaine",
+        "interaction_description":"The risk or severity of methemoglobinemia can be increased when Cetuximab is combined with Pramocaine."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB11148",
+        "interacting_drug_name":"Butamben",
+        "interaction_description":"The risk or severity of methemoglobinemia can be increased when Cetuximab is combined with Butamben."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB11502",
+        "interacting_drug_name":"Butacaine",
+        "interaction_description":"The risk or severity of methemoglobinemia can be increased when Cetuximab is combined with Butacaine."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB12532",
+        "interacting_drug_name":"Oxetacaine",
+        "interaction_description":"The risk or severity of methemoglobinemia can be increased when Cetuximab is combined with Oxetacaine."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB13259",
+        "interacting_drug_name":"Ethyl chloride",
+        "interaction_description":"The risk or severity of methemoglobinemia can be increased when Cetuximab is combined with Ethyl chloride."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB13328",
+        "interacting_drug_name":"Butanilicaine",
+        "interaction_description":"The risk or severity of methemoglobinemia can be increased when Cetuximab is combined with Butanilicaine."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB13578",
+        "interacting_drug_name":"Metabutethamine",
+        "interaction_description":"The risk or severity of methemoglobinemia can be increased when Cetuximab is combined with Metabutethamine."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB13683",
+        "interacting_drug_name":"Quinisocaine",
+        "interaction_description":"The risk or severity of methemoglobinemia can be increased when Cetuximab is combined with Quinisocaine."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB16371",
+        "interacting_drug_name":"Glofitamab",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Glofitamab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB14851",
+        "interacting_drug_name":"Relatlimab",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Relatlimab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB16416",
+        "interacting_drug_name":"Vilobelimab",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Vilobelimab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB06742",
+        "interacting_drug_name":"Ambroxol",
+        "interaction_description":"The risk or severity of methemoglobinemia can be increased when Cetuximab is combined with Ambroxol."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB15218",
+        "interacting_drug_name":"Pozelimab",
+        "interaction_description":"The serum concentration of Pozelimab can be decreased when it is combined with Cetuximab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB14766",
+        "interacting_drug_name":"Etrasimod",
+        "interaction_description":"The risk or severity of immunosuppression can be increased when Cetuximab is combined with Etrasimod."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB15043",
+        "interacting_drug_name":"Toripalimab",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Toripalimab."
+    },
+    {
+        "drug_id":"DB00002",
+        "interacting_drugbank_id":"DB14922",
+        "interacting_drug_name":"Tislelizumab",
+        "interaction_description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Tislelizumab."
+    }
+]
