@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<head>
+  <meta charset="UTF-8">
+  <title>Ragdolls</title>
+  <link href="./src/output.css" rel="stylesheet">
+</head>
+<body class="bg-gray-100 text-gray-800">
+  <header class="header bg-sky-500 p-4 shadow-lg">
+    <h1 class="text-4xl font-bold text-white">Ragdolls</h1>
+  </header>
+  <article class="content p-6 flex flex-col">
+
+    <div class="flex flex-col gap-6 mt-6 p-4">
+      <section class="characteristics flex flex-col bg-white p-4 rounded shadow">
+        <h2 class="text-2xl text-sky-600">Characteristics</h2>
+        <p class="text-lg">
+          The ragdoll is a large, affectionate cat that goes with the flow. <strong class="text-sky-500">Ragdolls</strong> are ideal lap cats because they simply go limp with pleasure when they are being petted, giving them their name. This cat breed is one of the largest but don’t let the size intimidate you. Their big blue eyes and loud, throaty purr let you know they're just big softies. Ragdolls are notoriously social, making them a good fit for bustling homes with plenty of people and friendly pets.
+        </p>
+
+        <table class="table-auto border">
+          <caption class="text-xl text-sky-500">Breed Overview</caption>
+          <thead class="bg-sky-100">
+            <tr>
+              <th scope="col" class="p-2 border">Attribute</th>
+              <th scope="col" class="p-2 border">Details</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr class="bg-white">
+              <th scope="col" class="p-2 border">Personality</th>
+              <td class="p-2 border">Friendly, easygoing, cuddly, social</td>
+            </tr>
+            <tr class="bg-gray-50">
+              <th scope="col" class="p-2 border">Weight</th>
+              <td class="p-2 border">Up to 20 pounds</td>
+            </tr>
+            <tr class="bg-white">
+              <th scope="col" class="p-2 border">Length</th>
+              <td class="p-2 border">Up to 40 inches</td>
+            </tr>
+            <tr class="bg-gray-50">
+              <th scope="col" class="p-2 border">Coat Length</th>
+              <td class="p-2 border">Long hair</td>
+            </tr>
+            <tr class="bg-white">
+              <th scope="col" class="p-2 border">Coat Color</th>
+              <td class="p-2 border">Chocolate, red, seal, blue, lilac, and cream</td>
+            </tr>
+            <tr class="bg-gray-50">
+              <th scope="col" class="p-2 border">Coat Patterns</th>
+              <td class="p-2 border">Colorpoint, bicolor, mitted, van</td>
+            </tr>
+            <tr class="bg-white">
+              <th scope="col" class="p-2 border">Eye Color</th>
+              <td class="p-2 border">Blue</td>
+            </tr>
+            <tr class="bg-gray-50">
+              <th scope="col" class="p-2 border">Lifespan</th>
+              <td class="p-2 border">Up to 17 years</td>
+            </tr>
+            <tr class="bg-white">
+              <th scope="col" class="p-2 border">Hypoallergenic</th>
+              <td class="p-2 border">No</td>
+            </tr>
+            <tr class="bg-gray-50">
+              <th scope="col" class="p-2 border">Origin</th>
+              <td class="p-2 border">California</td>
+            </tr>
+          </tbody>
+        </table>
+      </section>
+
+      <section class="gallery mt-6 w-full bg-white p-4 rounded shadow">
+        <img src="kot1.jpg" alt="ragdoll">
+      </section>
+    </div>
+
+    <div class="flex flex-row gap-6 mt-10">
+
+      <section class="pros flex-none w-100 bg-white p-4 rounded shadow">
+        <h2 class="text-2xl text-sky-600 mb-2">Pros of Ragdoll Cats</h2>
+        <ol type="I" class="list-decimal list-inside text-gray-700 text-sm">
+          <li>Social, outgoing, and great for families</li>
+          <li>Affectionate and cuddly</li>
+          <li>Playful but not high energy</li>
+        </ol>
+      </section>
+
+      <section class="create-cat flex-auto bg-white p-4 rounded shadow">
+        <h2 class="text-2xl text-sky-600 mb-4">Create your Ragdoll</h2>
+        <form>
+          <label for="name">Name:</label>
+          <input type="text" id="name" name="name" class="border w-full p-1 mb-4">
+          <label for="furColor" class="block text-lg">Select fur color:</label>
+          <select id="furColor" name="furColor" class="border mt-2 w-full mb-4">
+            <optgroup label="Light Colors">
+              <option>Red</option>
+              <option>Cream</option>
+              <option>Lilac</option>
+            </optgroup>
+            <optgroup label="Dark Colors">
+              <option>Seal</option>
+              <option>Blue</option>
+              <option>Chocolate</option>
+            </optgroup>
+          </select>
+          <button type="submit" class="bg-sky-600 text-white rounded px-4 mt-2 animate-ping">Create your cat</button>
+        </form>
+      </section>
+
+      <section class="history flex-none w-64 bg-white p-4 rounded shadow">
+        <h2 class="text-2xl text-sky-600 mb-2">History of Ragdoll</h2>
+        <details class="mt-2 text-sm">
+          <summary class="text-lg text-sky-500">History of the Ragdoll - informations</summary>
+          <p class="mt-2">Ragdolls were developed in California in the 1960s by Ann Baker...</p>
+          <p>Though it took a few generations, Baker eventually produced the first cats she called ragdolls.</p>
+          <p>The Cat Fanciers Association (CFA) began registering ragdolls in 1993.</p>
+        </details>
+      </section>
+    </div>
+
+    <div class="flex flex-col gap-6 mt-6 p-4">
+      <section class="persuasion bg-white p-4 rounded shadow">
+        <h2 class="text-2xl text-sky-600">Ragdoll Persuasion Progress</h2>
+        <p>How convinced are you to welcome a Ragdoll into your home?</p>
+        <progress id="ragdollProgress" value="80" max="100" class="mt-4 w-full"></progress>
+        <p class="mt-2">80% convinced!</p>
+      </section>
+
+      <section class="gallery-2 bg-white p-4 rounded shadow">
+        <img src="kot5.JPG" alt="ragdoll" class="w-full rounded shadow-md">
+      </section>
+
+      <section class="map-section bg-white p-4 rounded shadow">
+        <h2 class="text-2xl text-sky-600">Popular Ragdoll Regions</h2>
+        <map name="primary">
+          <area shape="rect" coords="50,50,150,150" href="https://www.cfa.org" alt="some cat region" target="_blank" title="Origin of Ragdoll">
+          <area shape="rect" coords="200,100,300,200" href="https://ragdoll-kittens.com" alt="some cat region" target="_blank" title="Famous Ragdoll Breeders">
+          <area shape="rect" coords="400,150,500,250" href="https://ragdollcatsworld.com" alt="some cat region" target="_blank" title="Ragdoll Lovers">
+        </map>
+        <img usemap="#primary" src="usa.png" alt="map" class="mt-6 w-full rounded">
+      </section>
+    </div>
+  </article>
+  <footer class="footer bg-sky-500 p-4 mt-6 text-white">
+    <p>&copy; 2025 Ragdolls page</p>
+  </footer>
+</body>
+
