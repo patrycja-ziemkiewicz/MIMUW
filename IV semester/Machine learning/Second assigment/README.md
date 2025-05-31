@@ -1,7 +1,4 @@
-# Second Lab Assignment WUM 2025 (Ver. Beta, subject to small changes)
-
-**Starting date:** May 20th  
-**Submission date:** June 3rd  
+# Second Lab Assignment WUM 2025
 
 ---
 
