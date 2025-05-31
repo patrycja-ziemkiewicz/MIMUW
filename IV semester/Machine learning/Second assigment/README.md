@@ -98,6 +98,3 @@ Your notebook **must include** a function that can process a `validation_data.cs
 
 It is possible to obtain **classification accuracy > 0.8** and **regression R² > 0.5** on this dataset.
 
----
-
-> **Note:** Make sure your entire Jupyter Notebook runs seamlessly in Google Colab. Any errors or missing dependencies will prevent grading.
