@@ -92,9 +92,4 @@ Your notebook **must include** a function that can process a `validation_data.cs
    - Describe your feature selection process (if used) and list the features you kept.  
    - Report the **relative improvement** in R² over the baseline model and discuss why you believe your method performed better (or if it did not, analyze why).
 
----
-
-## Hint
-
-It is possible to obtain **classification accuracy > 0.8** and **regression R² > 0.5** on this dataset.
 
