@@ -1,0 +1,22 @@
+<html>
+<head>
+  <title>Karma</title>
+  </head>
+  <body>
+    <h1>To jest strona testowa</h1>
+
+    <ul>
+        {%for i in list%}
+            <li>
+                <h3> {{i.name}}</h3>
+                <p> Rozmiar: {{i.size}} </p>
+                <img src = "{{i.img}}" alt ={{i.name}}>
+            </li>
+        {%empty%}
+            <li>
+                Brak elementow na stronie
+            </li>
+        {%endfor%}
+    </ul>
+</body>
+</html>

@@ -1,0 +1,64 @@
+{# templates/roads/index.html #}
+{% extends "base.html" %}
+{% load static %}
+
+{% block title %}Moje Trasy i Plansze{% endblock %}
+
+{% block head %}
+  {# jeśli potrzebujesz dodać coś tylko tutaj – ale dla SSE już masz w base.html #}
+  {# <script src="{% static 'js/dist/sseNotifications.js' %}" defer></script> #}
+{% endblock %}
+
+{% block content %}
+  <h1>Witaj, {{ request.user.username }}</h1>
+
+  <h2>Twoje trasy</h2>
+  <ul>
+    {% for r in routes %}
+      <li>
+        <a href="{% url 'roads:route_detail' r.id %}">{{ r.name }}</a>
+        <form action="{% url 'roads:delete_route' r.id %}"
+              method="post"
+              style="display:inline;">
+          {% csrf_token %}
+          <button type="submit">Usuń</button>
+        </form>
+      </li>
+    {% empty %}
+      <li>Brak tras.</li>
+    {% endfor %}
+  </ul>
+  <p><a href="{% url 'roads:background' %}">Utwórz nową trasę</a></p>
+
+  <h2>Twoje plansze</h2>
+  <ul>
+    {% for b in boards %}
+      <li>
+        <a href="{% url 'roads:game_detail' b.id %}">{{ b.name }}</a>
+        <form action="{% url 'roads:delete_board' b.id %}"
+              method="post"
+              style="display:inline;">
+          {% csrf_token %}
+          <button type="submit">Usuń</button>
+        </form>
+      </li>
+    {% empty %}
+      <li>Brak planszy.</li>
+    {% endfor %}
+  </ul>
+  <p><a href="{% url 'roads:create_game' %}">Utwórz nową planszę</a></p>
+
+  <h2>Dostępne plansze do gry</h2>
+  <ul>
+    {% for a in all_boards %}
+      <li><a href="{% url 'roads:game_play' a.id %}">{{ a.name }}</a></li>
+    {% empty %}
+      <li>Brak planszy.</li>
+    {% endfor %}
+  </ul>
+
+  <form action="{% url 'roads:logout' %}" method="post">
+    {% csrf_token %}
+    <button type="submit">Wyloguj się</button>
+  </form>
+{% endblock %}

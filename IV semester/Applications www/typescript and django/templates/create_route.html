@@ -1,0 +1,18 @@
+{% extends "base.html" %}
+{% load static %}
+
+{% block title %}Utwórz trasę{% endblock %}
+
+{% block head %}
+  <link rel="stylesheet" href="{% static 'css/toast.css' %}">
+{% endblock %}
+
+{% block content %}
+  <h2>Utwórz trasę</h2>
+  <form method="post">
+    {% csrf_token %}
+    {{ form.as_p }}
+    <button type="submit">Zapisz trasę</button>
+  </form>
+  <p><a href="{% url 'roads:index' %}">← Powrót</a></p>
+{% endblock %}

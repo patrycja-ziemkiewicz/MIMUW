@@ -1,0 +1,56 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+  <meta charset="utf-8">
+  <title>Graj na planszy: {{ board.name }}</title>
+  <link rel="stylesheet" href="{% static 'css/toast.css' %}">
+  <script src="{% static 'js/dist/sseNotifications.js' %}" defer></script></head>
+  <script src="{% static 'js/dist/game_play.js' %}" defer></script>
+  <style>
+    #grid-container {
+        display: grid;
+        grid-template-rows: repeat(var(--rows), 1fr);
+        grid-template-columns: repeat(var(--cols), 1fr);
+        gap: 2px;
+        width: 600px;
+        height: 600px;
+        border: 1px solid #f0f0f0;
+        margin-bottom: 1em;
+      }
+      .grid-cell {
+        background: #333;
+        position: relative;
+      }
+      .dot-circle {
+        position: absolute;
+        top: 50%; left: 50%;
+        width: 60%;
+        height: 60%;
+        border-radius: 50%;
+        transform: translate(-50%, -50%);
+      }
+  </style>
+</head>
+<body>
+  <h1>Graj na planszy: {{ board.name }}</h1>
+  <br>
+  <div id="grid-container"></div>
+  <br>
+  <div>
+    <button id="reset-path">Resetuj</button>
+    <button id="save-board">Zapisz</button>
+  </div>
+  <p><a href="{% url 'roads:index' %}">← Powrót do listy</a></p>
+
+  <script>
+    window.INIT_BOARD = {
+      id:   {{ board.id }},
+      rows: {{ board.rows }},
+      cols: {{ board.cols }},
+      dots: {{ initial_dots_json|safe }},
+      paths: {{ initial_paths_json|safe }}
+    };
+  </script>
+</body>
+</html>

@@ -1,0 +1,14 @@
+{% extends "base.html" %}
+{% load static %}
+
+{% block title %}Utwórz planszę{% endblock %}
+
+{% block content %}
+  <h2>Utwórz planszę</h2>
+  <form method="post">
+    {% csrf_token %}
+    {{ form.as_p }}
+    <button type="submit">Zapisz planszę</button>
+  </form>
+  <p><a href="{% url 'roads:index' %}">← Powrót</a></p>
+{% endblock %}

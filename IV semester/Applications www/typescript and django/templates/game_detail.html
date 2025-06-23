@@ -1,0 +1,45 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+  <meta charset="utf-8">
+  <title>Edytuj planszę: {{ board.name }}</title>
+  <link rel="stylesheet" href="{% static 'css/board.css' %}">
+  <script src="{% static 'js/dist/board-interaction.js' %}" defer></script>
+  <script src="{% static 'js/dist/sseNotifications.js' %}" defer></script>
+</head>
+<body>
+  <h1>Edytuj planszę: {{ board.name }}</h1>
+
+  <form id="board-meta-form">
+    {% csrf_token %}
+    {{ form.as_p }}
+    <button type="button" id="regenerate">Generuj siatkę</button>
+  </form>
+
+  <br>
+  <div id="grid-container"></div>
+
+  <div>
+    <h3>Wybierz kolor</h3>
+    <div id="color-picker-container">
+    </div>
+  </div>
+
+  <br>
+  <div>
+  <button id="reset-board">Resetuj</button>
+  <button id="save-board">Zapisz</button>
+  </div>
+  <p><a href="{% url 'roads:index' %}">← Powrót do listy</a></p>
+
+  <script>
+    window.INIT_BOARD = {
+      id: {{ board.id }},
+      rows: {{ board.rows }},
+      cols: {{ board.cols }},
+      dots: {{ initial_dots_json|safe }}
+    };
+  </script>
+</body>
+</html>

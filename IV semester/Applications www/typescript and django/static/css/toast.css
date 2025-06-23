@@ -1,0 +1,18 @@
+/* static/css/toast.css */
+.my-toast {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    background: #333;
+    color: #fff;
+    padding: 12px 16px;
+    margin-top: 10px;
+    border-radius: 4px;
+    opacity: 0.9;
+    transition: opacity 0.5s ease, transform 0.5s ease;
+  }
+  .my-toast.hide {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  

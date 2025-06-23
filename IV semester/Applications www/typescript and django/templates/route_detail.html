@@ -1,0 +1,83 @@
+{# roads/templates/roads/route_detail.html #}
+{% load static %}
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+  <meta charset="utf-8">
+  <title>Trasa {{ route.name }}</title>
+  <script src="{% static 'js/dist/map-interactions.js' %}" defer></script>
+  <script src="{% static 'js/dist/sseNotifications.js' %}" defer></script>
+  <style>
+    .map-container {
+      position: relative;
+      width: 800px;
+      height: 600px;
+      background-image: url('{{ route.background.image.url }}');
+      background-size: cover;
+      background-position: center;
+      border: 1px solid #ccc;
+      cursor: crosshair;
+    }
+
+    .map-svg {
+      position: absolute;
+      top: 0; left: 0;
+      width: 100%;
+      height: 100%;
+    }
+  </style>
+</head>
+<body>
+  <h1>Trasa: {{ route.name }}</h1>
+
+  <div id="map-container" class="map-container">
+    <svg id="map-svg" class="map-svg" xmlns="http://www.w3.org/2000/svg">
+      <polyline
+        fill="none"
+        stroke="red"
+        stroke-width="3"
+        points="{% for pt in route.points.all %}
+                  {{ pt.x }},{{ pt.y }}{% if not forloop.last %} {% endif %}
+                {% endfor %}"
+      />
+
+      {% for pt in route.points.all %}
+        <circle
+          class="route-point"
+          data-x="{{ pt.x }}"
+          data-y="{{ pt.y }}"
+          cx="{{ pt.x }}"
+          cy="{{ pt.y }}"
+          r="5"
+          fill="blue"
+        />
+      {% endfor %}
+    </svg>
+  </div>
+
+
+  <h2>Punkty trasy</h2>
+  <ul id="points-list">
+    {% for pt in route.points.all %}
+      <li class="point-item"
+          data-x="{{ pt.x }}"
+          data-y="{{ pt.y }}">
+        ({{ pt.x }}, {{ pt.y }})
+        <a href="{% url 'roads:delete_point' pt.id %}">Usuń</a>
+      </li>
+    {% empty %}
+      <li>Brak punktów.</li>
+    {% endfor %}
+  </ul>
+
+  <h2>Dodaj punkt</h2>
+  <form method="post" id="point-form">
+    {% csrf_token %}
+    {{ form.x }}<br><br>
+    {{ form.y }}<br><br>
+    <button type="submit">Dodaj punkt</button>
+  </form>
+
+  <p><a href="{% url 'roads:index' %}">Wróć do listy tras</a></p>
+</body>
+</html>
