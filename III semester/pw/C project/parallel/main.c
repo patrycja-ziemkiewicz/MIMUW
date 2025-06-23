@@ -172,7 +172,6 @@ void* threads_main(void* data) {
     global_stack* s = data;
 
     while (get_work(s, local_solution, &tab, &pair)) {
-        //printf("mam %p \n", &local_stack);
         nStack_start(&local_stack, pair.a, pair.b, pair.id);
         solve(&local_stack, s, &local_solution);
         free(tab);
@@ -186,9 +185,7 @@ void* threads_main(void* data) {
 int main()
 {
     input_data_read(&input_data);
-    //input_data_init(&input_data, 8, 10, (int[]){0}, (int[]){1, 0});
-
-
+    
     solution_init(&best_solution);
     global_stack s;
     g_stack_init(&s);
